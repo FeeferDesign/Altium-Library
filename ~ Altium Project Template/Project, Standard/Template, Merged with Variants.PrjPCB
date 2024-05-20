@@ -1,0 +1,10015 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$ChannelIndex
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=
+IncludeDesignInRelease=0
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=TEMPLATE, MERGED, OUTPUT JOB.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
+DocumentPath=TEMPLATE, PCB, DRAWING, ASSEMBLY.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ODUJUHEM
+
+[Document3]
+DocumentPath=TEMPLATE, PCB, DRAWING, PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MVCMUNXB
+
+[Document4]
+DocumentPath=TEMPLATE, PCB, PANEL, 4 LAYER.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XIBNPKVY
+
+[Document5]
+DocumentPath=TEMPLATE, PCB, SINGLE, 4 LAYER.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YJNLSIOV
+
+[Document6]
+DocumentPath=TEMPLATE, PCB, TESTPOINTS.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TXBPMLNY
+
+[Document7]
+DocumentPath=Sheet1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JKVRNHNO
+
+[ProjectVariant1]
+UniqueID=9552167D-EF5B-4690-B4EB-9B7621CD856A
+Description=Variant 1
+AllowFabrication=0
+ParameterCount=540
+VariationCount=0
+ParamVariationCount=0
+
+[Parameter2_1]
+Name=V-BOM-Desc_001
+Value=V01 DESCRIPTION-001
+
+[Parameter2_2]
+Name=V-BOM-Desc_002
+Value=V01 DESCRIPTION-002
+
+[Parameter2_3]
+Name=V-BOM-Desc_003
+Value=V01 DESCRIPTION-003
+
+[Parameter2_4]
+Name=V-BOM-Desc_004
+Value=V01 DESCRIPTION-004
+
+[Parameter2_5]
+Name=V-BOM-Desc_005
+Value=V01 DESCRIPTION-005
+
+[Parameter2_6]
+Name=V-BOM-Desc_006
+Value=V01 DESCRIPTION-006
+
+[Parameter2_7]
+Name=V-BOM-Desc_007
+Value=V01 DESCRIPTION-007
+
+[Parameter2_8]
+Name=V-BOM-Desc_008
+Value=V01 DESCRIPTION-008
+
+[Parameter2_9]
+Name=V-BOM-Desc_009
+Value=V01 DESCRIPTION-009
+
+[Parameter2_10]
+Name=V-BOM-Desc_010
+Value=V01 DESCRIPTION-010
+
+[Parameter2_11]
+Name=V-BOM-Desc_011
+Value=V01 DESCRIPTION-011
+
+[Parameter2_12]
+Name=V-BOM-Desc_012
+Value=V01 DESCRIPTION-012
+
+[Parameter2_13]
+Name=V-BOM-Desc_013
+Value=V01 DESCRIPTION-013
+
+[Parameter2_14]
+Name=V-BOM-Desc_014
+Value=V01 DESCRIPTION-014
+
+[Parameter2_15]
+Name=V-BOM-Desc_015
+Value=V01 DESCRIPTION-015
+
+[Parameter2_16]
+Name=V-BOM-Desc_016
+Value=V01 DESCRIPTION-016
+
+[Parameter2_17]
+Name=V-BOM-Desc_017
+Value=V01 DESCRIPTION-017
+
+[Parameter2_18]
+Name=V-BOM-Desc_018
+Value=V01 DESCRIPTION-018
+
+[Parameter2_19]
+Name=V-BOM-Desc_019
+Value=V01 DESCRIPTION-019
+
+[Parameter2_20]
+Name=V-BOM-Desc_020
+Value=V01 DESCRIPTION-020
+
+[Parameter2_21]
+Name=V-BOM-Desc_021
+Value=V01 DESCRIPTION-021
+
+[Parameter2_22]
+Name=V-BOM-Desc_022
+Value=V01 DESCRIPTION-022
+
+[Parameter2_23]
+Name=V-BOM-Desc_023
+Value=V01 DESCRIPTION-023
+
+[Parameter2_24]
+Name=V-BOM-Desc_024
+Value=V01 DESCRIPTION-024
+
+[Parameter2_25]
+Name=V-BOM-Desc_025
+Value=V01 DESCRIPTION-025
+
+[Parameter2_26]
+Name=V-BOM-Desc_026
+Value=V01 DESCRIPTION-026
+
+[Parameter2_27]
+Name=V-BOM-Desc_027
+Value=V01 DESCRIPTION-027
+
+[Parameter2_28]
+Name=V-BOM-Desc_028
+Value=V01 DESCRIPTION-028
+
+[Parameter2_29]
+Name=V-BOM-Desc_029
+Value=V01 DESCRIPTION-029
+
+[Parameter2_30]
+Name=V-BOM-Desc_030
+Value=V01 DESCRIPTION-030
+
+[Parameter2_31]
+Name=V-BOM-Desc_031
+Value=V01 DESCRIPTION-031
+
+[Parameter2_32]
+Name=V-BOM-Desc_032
+Value=V01 DESCRIPTION-032
+
+[Parameter2_33]
+Name=V-BOM-Desc_033
+Value=V01 DESCRIPTION-033
+
+[Parameter2_34]
+Name=V-BOM-Desc_034
+Value=V01 DESCRIPTION-034
+
+[Parameter2_35]
+Name=V-BOM-Desc_035
+Value=V01 DESCRIPTION-035
+
+[Parameter2_36]
+Name=V-BOM-Desc_036
+Value=V01 DESCRIPTION-036
+
+[Parameter2_37]
+Name=V-BOM-Desc_037
+Value=V01 DESCRIPTION-037
+
+[Parameter2_38]
+Name=V-BOM-Desc_038
+Value=V01 DESCRIPTION-038
+
+[Parameter2_39]
+Name=V-BOM-Desc_039
+Value=V01 DESCRIPTION-039
+
+[Parameter2_40]
+Name=V-BOM-Desc_040
+Value=V01 DESCRIPTION-040
+
+[Parameter2_41]
+Name=V-BOM-Desc_041
+Value=V01 DESCRIPTION-041
+
+[Parameter2_42]
+Name=V-BOM-Desc_042
+Value=V01 DESCRIPTION-042
+
+[Parameter2_43]
+Name=V-BOM-Desc_043
+Value=V01 DESCRIPTION-043
+
+[Parameter2_44]
+Name=V-BOM-Desc_044
+Value=V01 DESCRIPTION-044
+
+[Parameter2_45]
+Name=V-BOM-Desc_045
+Value=V01 DESCRIPTION-045
+
+[Parameter2_46]
+Name=V-BOM-Desc_046
+Value=V01 DESCRIPTION-046
+
+[Parameter2_47]
+Name=V-BOM-Desc_047
+Value=V01 DESCRIPTION-047
+
+[Parameter2_48]
+Name=V-BOM-Desc_048
+Value=V01 DESCRIPTION-048
+
+[Parameter2_49]
+Name=V-BOM-Desc_049
+Value=V01 DESCRIPTION-049
+
+[Parameter2_50]
+Name=V-BOM-Desc_050
+Value=V01 DESCRIPTION-050
+
+[Parameter2_51]
+Name=V-BOM-Desc_051
+Value=V01 DESCRIPTION-051
+
+[Parameter2_52]
+Name=V-BOM-Desc_052
+Value=V01 DESCRIPTION-052
+
+[Parameter2_53]
+Name=V-BOM-Desc_053
+Value=V01 DESCRIPTION-053
+
+[Parameter2_54]
+Name=V-BOM-Desc_054
+Value=V01 DESCRIPTION-054
+
+[Parameter2_55]
+Name=V-BOM-Desc_055
+Value=V01 DESCRIPTION-055
+
+[Parameter2_56]
+Name=V-BOM-Desc_056
+Value=V01 DESCRIPTION-056
+
+[Parameter2_57]
+Name=V-BOM-Desc_057
+Value=V01 DESCRIPTION-057
+
+[Parameter2_58]
+Name=V-BOM-Desc_058
+Value=V01 DESCRIPTION-058
+
+[Parameter2_59]
+Name=V-BOM-Desc_059
+Value=V01 DESCRIPTION-059
+
+[Parameter2_60]
+Name=V-BOM-Desc_060
+Value=V01 DESCRIPTION-060
+
+[Parameter2_61]
+Name=V-BOM-Desc_061
+Value=V01 DESCRIPTION-061
+
+[Parameter2_62]
+Name=V-BOM-Desc_062
+Value=V01 DESCRIPTION-062
+
+[Parameter2_63]
+Name=V-BOM-Desc_063
+Value=V01 DESCRIPTION-063
+
+[Parameter2_64]
+Name=V-BOM-Desc_064
+Value=V01 DESCRIPTION-064
+
+[Parameter2_65]
+Name=V-BOM-Desc_065
+Value=V01 DESCRIPTION-065
+
+[Parameter2_66]
+Name=V-BOM-Desc_066
+Value=V01 DESCRIPTION-066
+
+[Parameter2_67]
+Name=V-BOM-Desc_067
+Value=V01 DESCRIPTION-067
+
+[Parameter2_68]
+Name=V-BOM-Desc_068
+Value=V01 DESCRIPTION-068
+
+[Parameter2_69]
+Name=V-BOM-Desc_069
+Value=V01 DESCRIPTION-069
+
+[Parameter2_70]
+Name=V-BOM-Desc_070
+Value=V01 DESCRIPTION-070
+
+[Parameter2_71]
+Name=V-BOM-Desc_071
+Value=V01 DESCRIPTION-071
+
+[Parameter2_72]
+Name=V-BOM-Desc_072
+Value=V01 DESCRIPTION-072
+
+[Parameter2_73]
+Name=V-BOM-Desc_073
+Value=V01 DESCRIPTION-073
+
+[Parameter2_74]
+Name=V-BOM-Desc_074
+Value=V01 DESCRIPTION-074
+
+[Parameter2_75]
+Name=V-BOM-Desc_075
+Value=V01 DESCRIPTION-075
+
+[Parameter2_76]
+Name=V-BOM-Desc_076
+Value=V01 DESCRIPTION-076
+
+[Parameter2_77]
+Name=V-BOM-Desc_077
+Value=V01 DESCRIPTION-077
+
+[Parameter2_78]
+Name=V-BOM-Desc_078
+Value=V01 DESCRIPTION-078
+
+[Parameter2_79]
+Name=V-BOM-Desc_079
+Value=V01 DESCRIPTION-079
+
+[Parameter2_80]
+Name=V-BOM-Desc_080
+Value=V01 DESCRIPTION-080
+
+[Parameter2_81]
+Name=V-BOM-Desc_081
+Value=V01 DESCRIPTION-081
+
+[Parameter2_82]
+Name=V-BOM-Desc_082
+Value=V01 DESCRIPTION-082
+
+[Parameter2_83]
+Name=V-BOM-Desc_083
+Value=V01 DESCRIPTION-083
+
+[Parameter2_84]
+Name=V-BOM-Desc_084
+Value=V01 DESCRIPTION-084
+
+[Parameter2_85]
+Name=V-BOM-Desc_085
+Value=V01 DESCRIPTION-085
+
+[Parameter2_86]
+Name=V-BOM-Desc_086
+Value=V01 DESCRIPTION-086
+
+[Parameter2_87]
+Name=V-BOM-Desc_087
+Value=V01 DESCRIPTION-087
+
+[Parameter2_88]
+Name=V-BOM-Desc_088
+Value=V01 DESCRIPTION-088
+
+[Parameter2_89]
+Name=V-BOM-Desc_089
+Value=V01 DESCRIPTION-089
+
+[Parameter2_90]
+Name=V-BOM-Desc_090
+Value=V01 DESCRIPTION-090
+
+[Parameter2_91]
+Name=V-BOM-Desc_091
+Value=V01 DESCRIPTION-091
+
+[Parameter2_92]
+Name=V-BOM-Desc_092
+Value=V01 DESCRIPTION-092
+
+[Parameter2_93]
+Name=V-BOM-Desc_093
+Value=V01 DESCRIPTION-093
+
+[Parameter2_94]
+Name=V-BOM-Desc_094
+Value=V01 DESCRIPTION-094
+
+[Parameter2_95]
+Name=V-BOM-Desc_095
+Value=V01 DESCRIPTION-095
+
+[Parameter2_96]
+Name=V-BOM-Desc_096
+Value=V01 DESCRIPTION-096
+
+[Parameter2_97]
+Name=V-BOM-Desc_097
+Value=V01 DESCRIPTION-097
+
+[Parameter2_98]
+Name=V-BOM-Desc_098
+Value=V01 DESCRIPTION-098
+
+[Parameter2_99]
+Name=V-BOM-Desc_099
+Value=V01 DESCRIPTION-099
+
+[Parameter2_100]
+Name=V-BOM-Desc_100
+Value=V01 DESCRIPTION-100
+
+[Parameter2_101]
+Name=V-BOM-Designators_001
+Value=V01 DESIGNATORS-001
+
+[Parameter2_102]
+Name=V-BOM-Designators_002
+Value=V01 DESIGNATORS-002
+
+[Parameter2_103]
+Name=V-BOM-Designators_003
+Value=V01 DESIGNATORS-003
+
+[Parameter2_104]
+Name=V-BOM-Designators_004
+Value=V01 DESIGNATORS-004
+
+[Parameter2_105]
+Name=V-BOM-Designators_005
+Value=V01 DESIGNATORS-005
+
+[Parameter2_106]
+Name=V-BOM-Designators_006
+Value=V01 DESIGNATORS-006
+
+[Parameter2_107]
+Name=V-BOM-Designators_007
+Value=V01 DESIGNATORS-007
+
+[Parameter2_108]
+Name=V-BOM-Designators_008
+Value=V01 DESIGNATORS-008
+
+[Parameter2_109]
+Name=V-BOM-Designators_009
+Value=V01 DESIGNATORS-009
+
+[Parameter2_110]
+Name=V-BOM-Designators_010
+Value=V01 DESIGNATORS-010
+
+[Parameter2_111]
+Name=V-BOM-Designators_011
+Value=V01 DESIGNATORS-011
+
+[Parameter2_112]
+Name=V-BOM-Designators_012
+Value=V01 DESIGNATORS-012
+
+[Parameter2_113]
+Name=V-BOM-Designators_013
+Value=V01 DESIGNATORS-013
+
+[Parameter2_114]
+Name=V-BOM-Designators_014
+Value=V01 DESIGNATORS-014
+
+[Parameter2_115]
+Name=V-BOM-Designators_015
+Value=V01 DESIGNATORS-015
+
+[Parameter2_116]
+Name=V-BOM-Designators_016
+Value=V01 DESIGNATORS-016
+
+[Parameter2_117]
+Name=V-BOM-Designators_017
+Value=V01 DESIGNATORS-017
+
+[Parameter2_118]
+Name=V-BOM-Designators_018
+Value=V01 DESIGNATORS-018
+
+[Parameter2_119]
+Name=V-BOM-Designators_019
+Value=V01 DESIGNATORS-019
+
+[Parameter2_120]
+Name=V-BOM-Designators_020
+Value=V01 DESIGNATORS-020
+
+[Parameter2_121]
+Name=V-BOM-Designators_021
+Value=V01 DESIGNATORS-021
+
+[Parameter2_122]
+Name=V-BOM-Designators_022
+Value=V01 DESIGNATORS-022
+
+[Parameter2_123]
+Name=V-BOM-Designators_023
+Value=V01 DESIGNATORS-023
+
+[Parameter2_124]
+Name=V-BOM-Designators_024
+Value=V01 DESIGNATORS-024
+
+[Parameter2_125]
+Name=V-BOM-Designators_025
+Value=V01 DESIGNATORS-025
+
+[Parameter2_126]
+Name=V-BOM-Designators_026
+Value=V01 DESIGNATORS-026
+
+[Parameter2_127]
+Name=V-BOM-Designators_027
+Value=V01 DESIGNATORS-027
+
+[Parameter2_128]
+Name=V-BOM-Designators_028
+Value=V01 DESIGNATORS-028
+
+[Parameter2_129]
+Name=V-BOM-Designators_029
+Value=V01 DESIGNATORS-029
+
+[Parameter2_130]
+Name=V-BOM-Designators_030
+Value=V01 DESIGNATORS-030
+
+[Parameter2_131]
+Name=V-BOM-Designators_031
+Value=V01 DESIGNATORS-031
+
+[Parameter2_132]
+Name=V-BOM-Designators_032
+Value=V01 DESIGNATORS-032
+
+[Parameter2_133]
+Name=V-BOM-Designators_033
+Value=V01 DESIGNATORS-033
+
+[Parameter2_134]
+Name=V-BOM-Designators_034
+Value=V01 DESIGNATORS-034
+
+[Parameter2_135]
+Name=V-BOM-Designators_035
+Value=V01 DESIGNATORS-035
+
+[Parameter2_136]
+Name=V-BOM-Designators_036
+Value=V01 DESIGNATORS-036
+
+[Parameter2_137]
+Name=V-BOM-Designators_037
+Value=V01 DESIGNATORS-037
+
+[Parameter2_138]
+Name=V-BOM-Designators_038
+Value=V01 DESIGNATORS-038
+
+[Parameter2_139]
+Name=V-BOM-Designators_039
+Value=V01 DESIGNATORS-039
+
+[Parameter2_140]
+Name=V-BOM-Designators_040
+Value=V01 DESIGNATORS-040
+
+[Parameter2_141]
+Name=V-BOM-Designators_041
+Value=V01 DESIGNATORS-041
+
+[Parameter2_142]
+Name=V-BOM-Designators_042
+Value=V01 DESIGNATORS-042
+
+[Parameter2_143]
+Name=V-BOM-Designators_043
+Value=V01 DESIGNATORS-043
+
+[Parameter2_144]
+Name=V-BOM-Designators_044
+Value=V01 DESIGNATORS-044
+
+[Parameter2_145]
+Name=V-BOM-Designators_045
+Value=V01 DESIGNATORS-045
+
+[Parameter2_146]
+Name=V-BOM-Designators_046
+Value=V01 DESIGNATORS-046
+
+[Parameter2_147]
+Name=V-BOM-Designators_047
+Value=V01 DESIGNATORS-047
+
+[Parameter2_148]
+Name=V-BOM-Designators_048
+Value=V01 DESIGNATORS-048
+
+[Parameter2_149]
+Name=V-BOM-Designators_049
+Value=V01 DESIGNATORS-049
+
+[Parameter2_150]
+Name=V-BOM-Designators_050
+Value=V01 DESIGNATORS-050
+
+[Parameter2_151]
+Name=V-BOM-Designators_051
+Value=V01 DESIGNATORS-051
+
+[Parameter2_152]
+Name=V-BOM-Designators_052
+Value=V01 DESIGNATORS-052
+
+[Parameter2_153]
+Name=V-BOM-Designators_053
+Value=V01 DESIGNATORS-053
+
+[Parameter2_154]
+Name=V-BOM-Designators_054
+Value=V01 DESIGNATORS-054
+
+[Parameter2_155]
+Name=V-BOM-Designators_055
+Value=V01 DESIGNATORS-055
+
+[Parameter2_156]
+Name=V-BOM-Designators_056
+Value=V01 DESIGNATORS-056
+
+[Parameter2_157]
+Name=V-BOM-Designators_057
+Value=V01 DESIGNATORS-057
+
+[Parameter2_158]
+Name=V-BOM-Designators_058
+Value=V01 DESIGNATORS-058
+
+[Parameter2_159]
+Name=V-BOM-Designators_059
+Value=V01 DESIGNATORS-059
+
+[Parameter2_160]
+Name=V-BOM-Designators_060
+Value=V01 DESIGNATORS-060
+
+[Parameter2_161]
+Name=V-BOM-Designators_061
+Value=V01 DESIGNATORS-061
+
+[Parameter2_162]
+Name=V-BOM-Designators_062
+Value=V01 DESIGNATORS-062
+
+[Parameter2_163]
+Name=V-BOM-Designators_063
+Value=V01 DESIGNATORS-063
+
+[Parameter2_164]
+Name=V-BOM-Designators_064
+Value=V01 DESIGNATORS-064
+
+[Parameter2_165]
+Name=V-BOM-Designators_065
+Value=V01 DESIGNATORS-065
+
+[Parameter2_166]
+Name=V-BOM-Designators_066
+Value=V01 DESIGNATORS-066
+
+[Parameter2_167]
+Name=V-BOM-Designators_067
+Value=V01 DESIGNATORS-067
+
+[Parameter2_168]
+Name=V-BOM-Designators_068
+Value=V01 DESIGNATORS-068
+
+[Parameter2_169]
+Name=V-BOM-Designators_069
+Value=V01 DESIGNATORS-069
+
+[Parameter2_170]
+Name=V-BOM-Designators_070
+Value=V01 DESIGNATORS-070
+
+[Parameter2_171]
+Name=V-BOM-Designators_071
+Value=V01 DESIGNATORS-071
+
+[Parameter2_172]
+Name=V-BOM-Designators_072
+Value=V01 DESIGNATORS-072
+
+[Parameter2_173]
+Name=V-BOM-Designators_073
+Value=V01 DESIGNATORS-073
+
+[Parameter2_174]
+Name=V-BOM-Designators_074
+Value=V01 DESIGNATORS-074
+
+[Parameter2_175]
+Name=V-BOM-Designators_075
+Value=V01 DESIGNATORS-075
+
+[Parameter2_176]
+Name=V-BOM-Designators_076
+Value=V01 DESIGNATORS-076
+
+[Parameter2_177]
+Name=V-BOM-Designators_077
+Value=V01 DESIGNATORS-077
+
+[Parameter2_178]
+Name=V-BOM-Designators_078
+Value=V01 DESIGNATORS-078
+
+[Parameter2_179]
+Name=V-BOM-Designators_079
+Value=V01 DESIGNATORS-079
+
+[Parameter2_180]
+Name=V-BOM-Designators_080
+Value=V01 DESIGNATORS-080
+
+[Parameter2_181]
+Name=V-BOM-Designators_081
+Value=V01 DESIGNATORS-081
+
+[Parameter2_182]
+Name=V-BOM-Designators_082
+Value=V01 DESIGNATORS-082
+
+[Parameter2_183]
+Name=V-BOM-Designators_083
+Value=V01 DESIGNATORS-083
+
+[Parameter2_184]
+Name=V-BOM-Designators_084
+Value=V01 DESIGNATORS-084
+
+[Parameter2_185]
+Name=V-BOM-Designators_085
+Value=V01 DESIGNATORS-085
+
+[Parameter2_186]
+Name=V-BOM-Designators_086
+Value=V01 DESIGNATORS-086
+
+[Parameter2_187]
+Name=V-BOM-Designators_087
+Value=V01 DESIGNATORS-087
+
+[Parameter2_188]
+Name=V-BOM-Designators_088
+Value=V01 DESIGNATORS-088
+
+[Parameter2_189]
+Name=V-BOM-Designators_089
+Value=V01 DESIGNATORS-089
+
+[Parameter2_190]
+Name=V-BOM-Designators_090
+Value=V01 DESIGNATORS-090
+
+[Parameter2_191]
+Name=V-BOM-Designators_091
+Value=V01 DESIGNATORS-091
+
+[Parameter2_192]
+Name=V-BOM-Designators_092
+Value=V01 DESIGNATORS-092
+
+[Parameter2_193]
+Name=V-BOM-Designators_093
+Value=V01 DESIGNATORS-093
+
+[Parameter2_194]
+Name=V-BOM-Designators_094
+Value=V01 DESIGNATORS-094
+
+[Parameter2_195]
+Name=V-BOM-Designators_095
+Value=V01 DESIGNATORS-095
+
+[Parameter2_196]
+Name=V-BOM-Designators_096
+Value=V01 DESIGNATORS-096
+
+[Parameter2_197]
+Name=V-BOM-Designators_097
+Value=V01 DESIGNATORS-097
+
+[Parameter2_198]
+Name=V-BOM-Designators_098
+Value=V01 DESIGNATORS-098
+
+[Parameter2_199]
+Name=V-BOM-Designators_099
+Value=V01 DESIGNATORS-099
+
+[Parameter2_200]
+Name=V-BOM-Designators_100
+Value=V01 DESIGNATORS-100
+
+[Parameter2_201]
+Name=V-BOM-FR_001
+Value=V01 FR-001
+
+[Parameter2_202]
+Name=V-BOM-FR_002
+Value=V01 FR-002
+
+[Parameter2_203]
+Name=V-BOM-FR_003
+Value=V01 FR-003
+
+[Parameter2_204]
+Name=V-BOM-FR_004
+Value=V01 FR-004
+
+[Parameter2_205]
+Name=V-BOM-FR_005
+Value=V01 FR-005
+
+[Parameter2_206]
+Name=V-BOM-FR_006
+Value=V01 FR-006
+
+[Parameter2_207]
+Name=V-BOM-FR_007
+Value=V01 FR-007
+
+[Parameter2_208]
+Name=V-BOM-FR_008
+Value=V01 FR-008
+
+[Parameter2_209]
+Name=V-BOM-FR_009
+Value=V01 FR-009
+
+[Parameter2_210]
+Name=V-BOM-FR_010
+Value=V01 FR-010
+
+[Parameter2_211]
+Name=V-BOM-FR_011
+Value=V01 FR-011
+
+[Parameter2_212]
+Name=V-BOM-FR_012
+Value=V01 FR-012
+
+[Parameter2_213]
+Name=V-BOM-FR_013
+Value=V01 FR-013
+
+[Parameter2_214]
+Name=V-BOM-FR_014
+Value=V01 FR-014
+
+[Parameter2_215]
+Name=V-BOM-FR_015
+Value=V01 FR-015
+
+[Parameter2_216]
+Name=V-BOM-FR_016
+Value=V01 FR-016
+
+[Parameter2_217]
+Name=V-BOM-FR_017
+Value=V01 FR-017
+
+[Parameter2_218]
+Name=V-BOM-FR_018
+Value=V01 FR-018
+
+[Parameter2_219]
+Name=V-BOM-FR_019
+Value=V01 FR-019
+
+[Parameter2_220]
+Name=V-BOM-FR_020
+Value=V01 FR-020
+
+[Parameter2_221]
+Name=V-BOM-FR_021
+Value=V01 FR-021
+
+[Parameter2_222]
+Name=V-BOM-FR_022
+Value=V01 FR-022
+
+[Parameter2_223]
+Name=V-BOM-FR_023
+Value=V01 FR-023
+
+[Parameter2_224]
+Name=V-BOM-FR_024
+Value=V01 FR-024
+
+[Parameter2_225]
+Name=V-BOM-FR_025
+Value=V01 FR-025
+
+[Parameter2_226]
+Name=V-BOM-FR_026
+Value=V01 FR-026
+
+[Parameter2_227]
+Name=V-BOM-FR_027
+Value=V01 FR-027
+
+[Parameter2_228]
+Name=V-BOM-FR_028
+Value=V01 FR-028
+
+[Parameter2_229]
+Name=V-BOM-FR_029
+Value=V01 FR-029
+
+[Parameter2_230]
+Name=V-BOM-FR_030
+Value=V01 FR-030
+
+[Parameter2_231]
+Name=V-BOM-FR_031
+Value=V01 FR-031
+
+[Parameter2_232]
+Name=V-BOM-FR_032
+Value=V01 FR-032
+
+[Parameter2_233]
+Name=V-BOM-FR_033
+Value=V01 FR-033
+
+[Parameter2_234]
+Name=V-BOM-FR_034
+Value=V01 FR-034
+
+[Parameter2_235]
+Name=V-BOM-FR_035
+Value=V01 FR-035
+
+[Parameter2_236]
+Name=V-BOM-FR_036
+Value=V01 FR-036
+
+[Parameter2_237]
+Name=V-BOM-FR_037
+Value=V01 FR-037
+
+[Parameter2_238]
+Name=V-BOM-FR_038
+Value=V01 FR-038
+
+[Parameter2_239]
+Name=V-BOM-FR_039
+Value=V01 FR-039
+
+[Parameter2_240]
+Name=V-BOM-FR_040
+Value=V01 FR-040
+
+[Parameter2_241]
+Name=V-BOM-FR_041
+Value=V01 FR-041
+
+[Parameter2_242]
+Name=V-BOM-FR_042
+Value=V01 FR-042
+
+[Parameter2_243]
+Name=V-BOM-FR_043
+Value=V01 FR-043
+
+[Parameter2_244]
+Name=V-BOM-FR_044
+Value=V01 FR-044
+
+[Parameter2_245]
+Name=V-BOM-FR_045
+Value=V01 FR-045
+
+[Parameter2_246]
+Name=V-BOM-FR_046
+Value=V01 FR-046
+
+[Parameter2_247]
+Name=V-BOM-FR_047
+Value=V01 FR-047
+
+[Parameter2_248]
+Name=V-BOM-FR_048
+Value=V01 FR-048
+
+[Parameter2_249]
+Name=V-BOM-FR_049
+Value=V01 FR-049
+
+[Parameter2_250]
+Name=V-BOM-FR_050
+Value=V01 FR-050
+
+[Parameter2_251]
+Name=V-BOM-FR_051
+Value=V01 FR-051
+
+[Parameter2_252]
+Name=V-BOM-FR_052
+Value=V01 FR-052
+
+[Parameter2_253]
+Name=V-BOM-FR_053
+Value=V01 FR-053
+
+[Parameter2_254]
+Name=V-BOM-FR_054
+Value=V01 FR-054
+
+[Parameter2_255]
+Name=V-BOM-FR_055
+Value=V01 FR-055
+
+[Parameter2_256]
+Name=V-BOM-FR_056
+Value=V01 FR-056
+
+[Parameter2_257]
+Name=V-BOM-FR_057
+Value=V01 FR-057
+
+[Parameter2_258]
+Name=V-BOM-FR_058
+Value=V01 FR-058
+
+[Parameter2_259]
+Name=V-BOM-FR_059
+Value=V01 FR-059
+
+[Parameter2_260]
+Name=V-BOM-FR_060
+Value=V01 FR-060
+
+[Parameter2_261]
+Name=V-BOM-FR_061
+Value=V01 FR-061
+
+[Parameter2_262]
+Name=V-BOM-FR_062
+Value=V01 FR-062
+
+[Parameter2_263]
+Name=V-BOM-FR_063
+Value=V01 FR-063
+
+[Parameter2_264]
+Name=V-BOM-FR_064
+Value=V01 FR-064
+
+[Parameter2_265]
+Name=V-BOM-FR_065
+Value=V01 FR-065
+
+[Parameter2_266]
+Name=V-BOM-FR_066
+Value=V01 FR-066
+
+[Parameter2_267]
+Name=V-BOM-FR_067
+Value=V01 FR-067
+
+[Parameter2_268]
+Name=V-BOM-FR_068
+Value=V01 FR-068
+
+[Parameter2_269]
+Name=V-BOM-FR_069
+Value=V01 FR-069
+
+[Parameter2_270]
+Name=V-BOM-FR_070
+Value=V01 FR-070
+
+[Parameter2_271]
+Name=V-BOM-FR_071
+Value=V01 FR-071
+
+[Parameter2_272]
+Name=V-BOM-FR_072
+Value=V01 FR-072
+
+[Parameter2_273]
+Name=V-BOM-FR_073
+Value=V01 FR-073
+
+[Parameter2_274]
+Name=V-BOM-FR_074
+Value=V01 FR-074
+
+[Parameter2_275]
+Name=V-BOM-FR_075
+Value=V01 FR-075
+
+[Parameter2_276]
+Name=V-BOM-FR_076
+Value=V01 FR-076
+
+[Parameter2_277]
+Name=V-BOM-FR_077
+Value=V01 FR-077
+
+[Parameter2_278]
+Name=V-BOM-FR_078
+Value=V01 FR-078
+
+[Parameter2_279]
+Name=V-BOM-FR_079
+Value=V01 FR-079
+
+[Parameter2_280]
+Name=V-BOM-FR_080
+Value=V01 FR-080
+
+[Parameter2_281]
+Name=V-BOM-FR_081
+Value=V01 FR-081
+
+[Parameter2_282]
+Name=V-BOM-FR_082
+Value=V01 FR-082
+
+[Parameter2_283]
+Name=V-BOM-FR_083
+Value=V01 FR-083
+
+[Parameter2_284]
+Name=V-BOM-FR_084
+Value=V01 FR-084
+
+[Parameter2_285]
+Name=V-BOM-FR_085
+Value=V01 FR-085
+
+[Parameter2_286]
+Name=V-BOM-FR_086
+Value=V01 FR-086
+
+[Parameter2_287]
+Name=V-BOM-FR_087
+Value=V01 FR-087
+
+[Parameter2_288]
+Name=V-BOM-FR_088
+Value=V01 FR-088
+
+[Parameter2_289]
+Name=V-BOM-FR_089
+Value=V01 FR-089
+
+[Parameter2_290]
+Name=V-BOM-FR_090
+Value=V01 FR-090
+
+[Parameter2_291]
+Name=V-BOM-FR_091
+Value=V01 FR-091
+
+[Parameter2_292]
+Name=V-BOM-FR_092
+Value=V01 FR-092
+
+[Parameter2_293]
+Name=V-BOM-FR_093
+Value=V01 FR-093
+
+[Parameter2_294]
+Name=V-BOM-FR_094
+Value=V01 FR-094
+
+[Parameter2_295]
+Name=V-BOM-FR_095
+Value=V01 FR-095
+
+[Parameter2_296]
+Name=V-BOM-FR_096
+Value=V01 FR-096
+
+[Parameter2_297]
+Name=V-BOM-FR_097
+Value=V01 FR-097
+
+[Parameter2_298]
+Name=V-BOM-FR_098
+Value=V01 FR-098
+
+[Parameter2_299]
+Name=V-BOM-FR_099
+Value=V01 FR-099
+
+[Parameter2_300]
+Name=V-BOM-FR_100
+Value=V01 FR-100
+
+[Parameter2_301]
+Name=V-BOM-Qty_001
+Value=1V001
+
+[Parameter2_302]
+Name=V-BOM-Qty_002
+Value=1V002
+
+[Parameter2_303]
+Name=V-BOM-Qty_003
+Value=1V003
+
+[Parameter2_304]
+Name=V-BOM-Qty_004
+Value=1V004
+
+[Parameter2_305]
+Name=V-BOM-Qty_005
+Value=1V005
+
+[Parameter2_306]
+Name=V-BOM-Qty_006
+Value=1V006
+
+[Parameter2_307]
+Name=V-BOM-Qty_007
+Value=1V007
+
+[Parameter2_308]
+Name=V-BOM-Qty_008
+Value=1V008
+
+[Parameter2_309]
+Name=V-BOM-Qty_009
+Value=1V009
+
+[Parameter2_310]
+Name=V-BOM-Qty_010
+Value=1V010
+
+[Parameter2_311]
+Name=V-BOM-Qty_011
+Value=1V011
+
+[Parameter2_312]
+Name=V-BOM-Qty_012
+Value=1V012
+
+[Parameter2_313]
+Name=V-BOM-Qty_013
+Value=1V013
+
+[Parameter2_314]
+Name=V-BOM-Qty_014
+Value=1V014
+
+[Parameter2_315]
+Name=V-BOM-Qty_015
+Value=1V015
+
+[Parameter2_316]
+Name=V-BOM-Qty_016
+Value=1V016
+
+[Parameter2_317]
+Name=V-BOM-Qty_017
+Value=1V017
+
+[Parameter2_318]
+Name=V-BOM-Qty_018
+Value=1V018
+
+[Parameter2_319]
+Name=V-BOM-Qty_019
+Value=1V019
+
+[Parameter2_320]
+Name=V-BOM-Qty_020
+Value=1V020
+
+[Parameter2_321]
+Name=V-BOM-Qty_021
+Value=1V021
+
+[Parameter2_322]
+Name=V-BOM-Qty_022
+Value=1V022
+
+[Parameter2_323]
+Name=V-BOM-Qty_023
+Value=1V023
+
+[Parameter2_324]
+Name=V-BOM-Qty_024
+Value=1V024
+
+[Parameter2_325]
+Name=V-BOM-Qty_025
+Value=1V025
+
+[Parameter2_326]
+Name=V-BOM-Qty_026
+Value=1V026
+
+[Parameter2_327]
+Name=V-BOM-Qty_027
+Value=1V027
+
+[Parameter2_328]
+Name=V-BOM-Qty_028
+Value=1V028
+
+[Parameter2_329]
+Name=V-BOM-Qty_029
+Value=1V029
+
+[Parameter2_330]
+Name=V-BOM-Qty_030
+Value=1V030
+
+[Parameter2_331]
+Name=V-BOM-Qty_031
+Value=1V031
+
+[Parameter2_332]
+Name=V-BOM-Qty_032
+Value=1V032
+
+[Parameter2_333]
+Name=V-BOM-Qty_033
+Value=1V033
+
+[Parameter2_334]
+Name=V-BOM-Qty_034
+Value=1V034
+
+[Parameter2_335]
+Name=V-BOM-Qty_035
+Value=1V035
+
+[Parameter2_336]
+Name=V-BOM-Qty_036
+Value=1V036
+
+[Parameter2_337]
+Name=V-BOM-Qty_037
+Value=1V037
+
+[Parameter2_338]
+Name=V-BOM-Qty_038
+Value=1V038
+
+[Parameter2_339]
+Name=V-BOM-Qty_039
+Value=1V039
+
+[Parameter2_340]
+Name=V-BOM-Qty_040
+Value=1V040
+
+[Parameter2_341]
+Name=V-BOM-Qty_041
+Value=1V041
+
+[Parameter2_342]
+Name=V-BOM-Qty_042
+Value=1V042
+
+[Parameter2_343]
+Name=V-BOM-Qty_043
+Value=1V043
+
+[Parameter2_344]
+Name=V-BOM-Qty_044
+Value=1V044
+
+[Parameter2_345]
+Name=V-BOM-Qty_045
+Value=1V045
+
+[Parameter2_346]
+Name=V-BOM-Qty_046
+Value=1V046
+
+[Parameter2_347]
+Name=V-BOM-Qty_047
+Value=1V047
+
+[Parameter2_348]
+Name=V-BOM-Qty_048
+Value=1V048
+
+[Parameter2_349]
+Name=V-BOM-Qty_049
+Value=1V049
+
+[Parameter2_350]
+Name=V-BOM-Qty_050
+Value=1V050
+
+[Parameter2_351]
+Name=V-BOM-Qty_051
+Value=1V051
+
+[Parameter2_352]
+Name=V-BOM-Qty_052
+Value=1V052
+
+[Parameter2_353]
+Name=V-BOM-Qty_053
+Value=1V053
+
+[Parameter2_354]
+Name=V-BOM-Qty_054
+Value=1V054
+
+[Parameter2_355]
+Name=V-BOM-Qty_055
+Value=1V055
+
+[Parameter2_356]
+Name=V-BOM-Qty_056
+Value=1V056
+
+[Parameter2_357]
+Name=V-BOM-Qty_057
+Value=1V057
+
+[Parameter2_358]
+Name=V-BOM-Qty_058
+Value=1V058
+
+[Parameter2_359]
+Name=V-BOM-Qty_059
+Value=1V059
+
+[Parameter2_360]
+Name=V-BOM-Qty_060
+Value=1V060
+
+[Parameter2_361]
+Name=V-BOM-Qty_061
+Value=1V061
+
+[Parameter2_362]
+Name=V-BOM-Qty_062
+Value=1V062
+
+[Parameter2_363]
+Name=V-BOM-Qty_063
+Value=1V063
+
+[Parameter2_364]
+Name=V-BOM-Qty_064
+Value=1V064
+
+[Parameter2_365]
+Name=V-BOM-Qty_065
+Value=1V065
+
+[Parameter2_366]
+Name=V-BOM-Qty_066
+Value=1V066
+
+[Parameter2_367]
+Name=V-BOM-Qty_067
+Value=1V067
+
+[Parameter2_368]
+Name=V-BOM-Qty_068
+Value=1V068
+
+[Parameter2_369]
+Name=V-BOM-Qty_069
+Value=1V069
+
+[Parameter2_370]
+Name=V-BOM-Qty_070
+Value=1V070
+
+[Parameter2_371]
+Name=V-BOM-Qty_071
+Value=1V071
+
+[Parameter2_372]
+Name=V-BOM-Qty_072
+Value=1V072
+
+[Parameter2_373]
+Name=V-BOM-Qty_073
+Value=1V073
+
+[Parameter2_374]
+Name=V-BOM-Qty_074
+Value=1V074
+
+[Parameter2_375]
+Name=V-BOM-Qty_075
+Value=1V075
+
+[Parameter2_376]
+Name=V-BOM-Qty_076
+Value=1V076
+
+[Parameter2_377]
+Name=V-BOM-Qty_077
+Value=1V077
+
+[Parameter2_378]
+Name=V-BOM-Qty_078
+Value=1V078
+
+[Parameter2_379]
+Name=V-BOM-Qty_079
+Value=1V079
+
+[Parameter2_380]
+Name=V-BOM-Qty_080
+Value=1V080
+
+[Parameter2_381]
+Name=V-BOM-Qty_081
+Value=1V081
+
+[Parameter2_382]
+Name=V-BOM-Qty_082
+Value=1V082
+
+[Parameter2_383]
+Name=V-BOM-Qty_083
+Value=1V083
+
+[Parameter2_384]
+Name=V-BOM-Qty_084
+Value=1V084
+
+[Parameter2_385]
+Name=V-BOM-Qty_085
+Value=1V085
+
+[Parameter2_386]
+Name=V-BOM-Qty_086
+Value=1V086
+
+[Parameter2_387]
+Name=V-BOM-Qty_087
+Value=1V087
+
+[Parameter2_388]
+Name=V-BOM-Qty_088
+Value=1V088
+
+[Parameter2_389]
+Name=V-BOM-Qty_089
+Value=1V089
+
+[Parameter2_390]
+Name=V-BOM-Qty_090
+Value=1V090
+
+[Parameter2_391]
+Name=V-BOM-Qty_091
+Value=1V091
+
+[Parameter2_392]
+Name=V-BOM-Qty_092
+Value=1V092
+
+[Parameter2_393]
+Name=V-BOM-Qty_093
+Value=1V093
+
+[Parameter2_394]
+Name=V-BOM-Qty_094
+Value=1V094
+
+[Parameter2_395]
+Name=V-BOM-Qty_095
+Value=1V095
+
+[Parameter2_396]
+Name=V-BOM-Qty_096
+Value=1V096
+
+[Parameter2_397]
+Name=V-BOM-Qty_097
+Value=1V097
+
+[Parameter2_398]
+Name=V-BOM-Qty_098
+Value=1V098
+
+[Parameter2_399]
+Name=V-BOM-Qty_099
+Value=1V099
+
+[Parameter2_400]
+Name=V-BOM-Qty_100
+Value=1V100
+
+[Parameter2_401]
+Name=VariantAssemblyApprovedBy
+Value=VA1
+
+[Parameter2_402]
+Name=VariantAssemblyCheckedBy
+Value=VA1
+
+[Parameter2_403]
+Name=VariantAssemblyDate
+Value=VA1
+
+[Parameter2_404]
+Name=VariantAssemblyDrawnBy
+Value=VA1
+
+[Parameter2_405]
+Name=VariantAssemblyFrNumber
+Value=VA1
+
+[Parameter2_406]
+Name=VariantAssemblyRegulatoryBlockCheckABS
+Value=VA1
+
+[Parameter2_407]
+Name=VariantAssemblyRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=VA1
+
+[Parameter2_408]
+Name=VariantAssemblyRegulatoryBlockCheckATEX_ELEMENT
+Value=VA1
+
+[Parameter2_409]
+Name=VariantAssemblyRegulatoryBlockCheckATEX_UL_DEMKO
+Value=VA1
+
+[Parameter2_410]
+Name=VariantAssemblyRegulatoryBlockCheckCE
+Value=VA1
+
+[Parameter2_411]
+Name=VariantAssemblyRegulatoryBlockCheckCSA
+Value=VA1
+
+[Parameter2_412]
+Name=VariantAssemblyRegulatoryBlockCheckFM
+Value=VA1
+
+[Parameter2_413]
+Name=VariantAssemblyRegulatoryBlockCheckIECEx_DEKRA
+Value=VA1
+
+[Parameter2_414]
+Name=VariantAssemblyRegulatoryBlockCheckIECEx_ELEMENT
+Value=VA1
+
+[Parameter2_415]
+Name=VariantAssemblyRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=VA1
+
+[Parameter2_416]
+Name=VariantAssemblyRegulatoryBlockCheckINMETRO_NCC
+Value=VA1
+
+[Parameter2_417]
+Name=VariantAssemblyRegulatoryBlockCheckKTL
+Value=VA1
+
+[Parameter2_418]
+Name=VariantAssemblyRegulatoryBlockCheckNSF
+Value=VA1
+
+[Parameter2_419]
+Name=VariantAssemblyRegulatoryBlockCheckPLENUM
+Value=VA1
+
+[Parameter2_420]
+Name=VariantAssemblyRegulatoryBlockCheckRCM
+Value=VA1
+
+[Parameter2_421]
+Name=VariantAssemblyRegulatoryBlockCheckUL
+Value=VA1
+
+[Parameter2_422]
+Name=VariantAssemblyRegulatoryBlockCheckWIRELESS
+Value=VA1
+
+[Parameter2_423]
+Name=VariantAssemblyRevisionABy
+Value=VA1
+
+[Parameter2_424]
+Name=VariantAssemblyRevisionAChange
+Value=VA1
+
+[Parameter2_425]
+Name=VariantAssemblyRevisionADate
+Value=VA1
+
+[Parameter2_426]
+Name=VariantAssemblyRevisionANumber
+Value=VA1
+
+[Parameter2_427]
+Name=VariantAssemblyRevisionBBy
+Value=VA1
+
+[Parameter2_428]
+Name=VariantAssemblyRevisionBChange
+Value=VA1
+
+[Parameter2_429]
+Name=VariantAssemblyRevisionBDate
+Value=VA1
+
+[Parameter2_430]
+Name=VariantAssemblyRevisionBNumber
+Value=VA1
+
+[Parameter2_431]
+Name=VariantAssemblyRevisionCBy
+Value=VA1
+
+[Parameter2_432]
+Name=VariantAssemblyRevisionCChange
+Value=VA1
+
+[Parameter2_433]
+Name=VariantAssemblyRevisionCDate
+Value=VA1
+
+[Parameter2_434]
+Name=VariantAssemblyRevisionCNumber
+Value=VA1
+
+[Parameter2_435]
+Name=VariantAssemblyRevisionDBy
+Value=VA1
+
+[Parameter2_436]
+Name=VariantAssemblyRevisionDChange
+Value=VA1
+
+[Parameter2_437]
+Name=VariantAssemblyRevisionDDate
+Value=VA1
+
+[Parameter2_438]
+Name=VariantAssemblyRevisionDNumber
+Value=VA1
+
+[Parameter2_439]
+Name=VariantAssemblySheetNumber
+Value=VA1
+
+[Parameter2_440]
+Name=VariantAssemblySheetTotal
+Value=VA1
+
+[Parameter2_441]
+Name=VariantAssemblyTitle1
+Value=VA1
+
+[Parameter2_442]
+Name=VariantAssemblyTitle2
+Value=VA1
+
+[Parameter2_443]
+Name=VariantAssemblyVersionNumber
+Value=VA1
+
+[Parameter2_444]
+Name=VariantPCBApprovedBy
+Value=VP1
+
+[Parameter2_445]
+Name=VariantPCBCheckedBy
+Value=VP1
+
+[Parameter2_446]
+Name=VariantPCBDate
+Value=VP1
+
+[Parameter2_447]
+Name=VariantPCBDrawnBy
+Value=VP1
+
+[Parameter2_448]
+Name=VariantPCBFrNumber
+Value=VP1
+
+[Parameter2_449]
+Name=VariantPCBPanelSheetNumber
+Value=vp1
+
+[Parameter2_450]
+Name=VariantPCBPanelTitle1
+Value=vp1
+
+[Parameter2_451]
+Name=VariantPCBPanelTitle2
+Value=vp1
+
+[Parameter2_452]
+Name=VariantPCBRegulatoryBlockCheckABS
+Value=VP1
+
+[Parameter2_453]
+Name=VariantPCBRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=VP1
+
+[Parameter2_454]
+Name=VariantPCBRegulatoryBlockCheckATEX_ELEMENT
+Value=VP1
+
+[Parameter2_455]
+Name=VariantPCBRegulatoryBlockCheckATEX_UL_DEMKO
+Value=VP1
+
+[Parameter2_456]
+Name=VariantPCBRegulatoryBlockCheckCE
+Value=VP1
+
+[Parameter2_457]
+Name=VariantPCBRegulatoryBlockCheckCSA
+Value=VP1
+
+[Parameter2_458]
+Name=VariantPCBRegulatoryBlockCheckFM
+Value=VP1
+
+[Parameter2_459]
+Name=VariantPCBRegulatoryBlockCheckIECEx_DEKRA
+Value=VP1
+
+[Parameter2_460]
+Name=VariantPCBRegulatoryBlockCheckIECEx_ELEMENT
+Value=VP1
+
+[Parameter2_461]
+Name=VariantPCBRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=VP1
+
+[Parameter2_462]
+Name=VariantPCBRegulatoryBlockCheckINMETRO_NCC
+Value=VP1
+
+[Parameter2_463]
+Name=VariantPCBRegulatoryBlockCheckKTL
+Value=VP1
+
+[Parameter2_464]
+Name=VariantPCBRegulatoryBlockCheckNSF
+Value=VP1
+
+[Parameter2_465]
+Name=VariantPCBRegulatoryBlockCheckPLENUM
+Value=VP1
+
+[Parameter2_466]
+Name=VariantPCBRegulatoryBlockCheckRCM
+Value=VP1
+
+[Parameter2_467]
+Name=VariantPCBRegulatoryBlockCheckUL
+Value=VP1
+
+[Parameter2_468]
+Name=VariantPCBRegulatoryBlockCheckWIRELESS
+Value=VP1
+
+[Parameter2_469]
+Name=VariantPCBRevisionABy
+Value=VP1
+
+[Parameter2_470]
+Name=VariantPCBRevisionAChange
+Value=VP1
+
+[Parameter2_471]
+Name=VariantPCBRevisionADate
+Value=VP1
+
+[Parameter2_472]
+Name=VariantPCBRevisionANumber
+Value=VP1
+
+[Parameter2_473]
+Name=VariantPCBRevisionBBy
+Value=VP1
+
+[Parameter2_474]
+Name=VariantPCBRevisionBChange
+Value=VP1
+
+[Parameter2_475]
+Name=VariantPCBRevisionBDate
+Value=VP1
+
+[Parameter2_476]
+Name=VariantPCBRevisionBNumber
+Value=VP1
+
+[Parameter2_477]
+Name=VariantPCBRevisionCBy
+Value=VP1
+
+[Parameter2_478]
+Name=VariantPCBRevisionCChange
+Value=VP1
+
+[Parameter2_479]
+Name=VariantPCBRevisionCDate
+Value=VP1
+
+[Parameter2_480]
+Name=VariantPCBRevisionCNumber
+Value=VP1
+
+[Parameter2_481]
+Name=VariantPCBRevisionDBy
+Value=VP1
+
+[Parameter2_482]
+Name=VariantPCBRevisionDChange
+Value=VP1
+
+[Parameter2_483]
+Name=VariantPCBRevisionDDate
+Value=VP1
+
+[Parameter2_484]
+Name=VariantPCBRevisionDNumber
+Value=VP1
+
+[Parameter2_485]
+Name=VariantPCBSheetNumber
+Value=VP1
+
+[Parameter2_486]
+Name=VariantPCBSheetTotal
+Value=VP1
+
+[Parameter2_487]
+Name=VariantPCBTestpointsSheetNumber
+Value=VT1
+
+[Parameter2_488]
+Name=VariantPCBTestpointsTitle1
+Value=VT1
+
+[Parameter2_489]
+Name=VariantPCBTestpointsTitle2
+Value=VT1
+
+[Parameter2_490]
+Name=VariantPCBTitle1
+Value=VP1
+
+[Parameter2_491]
+Name=VariantPCBTitle2
+Value=VP1
+
+[Parameter2_492]
+Name=VariantSchematicApprovedBy
+Value=VS1
+
+[Parameter2_493]
+Name=VariantSchematicCheckedBy
+Value=VS1
+
+[Parameter2_494]
+Name=VariantSchematicDate
+Value=VS1
+
+[Parameter2_495]
+Name=VariantSchematicDrawnBy
+Value=VS1
+
+[Parameter2_496]
+Name=VariantSchematicFrNumber
+Value=VS1
+
+[Parameter2_497]
+Name=VariantSchematicRegulatoryBlockCheckABS
+Value=VS1
+
+[Parameter2_498]
+Name=VariantSchematicRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=VS1
+
+[Parameter2_499]
+Name=VariantSchematicRegulatoryBlockCheckATEX_ELEMENT
+Value=VS1
+
+[Parameter2_500]
+Name=VariantSchematicRegulatoryBlockCheckATEX_UL_DEMKO
+Value=VS1
+
+[Parameter2_501]
+Name=VariantSchematicRegulatoryBlockCheckCE
+Value=VS1
+
+[Parameter2_502]
+Name=VariantSchematicRegulatoryBlockCheckCSA
+Value=VS1
+
+[Parameter2_503]
+Name=VariantSchematicRegulatoryBlockCheckFM
+Value=VS1
+
+[Parameter2_504]
+Name=VariantSchematicRegulatoryBlockCheckIECEx_DEKRA
+Value=VS1
+
+[Parameter2_505]
+Name=VariantSchematicRegulatoryBlockCheckIECEx_ELEMENT
+Value=VS1
+
+[Parameter2_506]
+Name=VariantSchematicRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=VS1
+
+[Parameter2_507]
+Name=VariantSchematicRegulatoryBlockCheckINMETRO_NCC
+Value=VS1
+
+[Parameter2_508]
+Name=VariantSchematicRegulatoryBlockCheckKC_KTL
+Value=VS1
+
+[Parameter2_509]
+Name=VariantSchematicRegulatoryBlockCheckNSF
+Value=VS1
+
+[Parameter2_510]
+Name=VariantSchematicRegulatoryBlockCheckPLENUM
+Value=VS1
+
+[Parameter2_511]
+Name=VariantSchematicRegulatoryBlockCheckRCM
+Value=VS1
+
+[Parameter2_512]
+Name=VariantSchematicRegulatoryBlockCheckUL
+Value=VS1
+
+[Parameter2_513]
+Name=VariantSchematicRegulatoryBlockCheckWIRELESS
+Value=VS1
+
+[Parameter2_514]
+Name=VariantSchematicRevisionABy
+Value=VS1
+
+[Parameter2_515]
+Name=VariantSchematicRevisionAChange
+Value=VS1
+
+[Parameter2_516]
+Name=VariantSchematicRevisionAChangeLine1
+Value=VS1
+
+[Parameter2_517]
+Name=VariantSchematicRevisionAChangeLine2
+Value=VS1
+
+[Parameter2_518]
+Name=VariantSchematicRevisionADate
+Value=VS1
+
+[Parameter2_519]
+Name=VariantSchematicRevisionANumber
+Value=VS1
+
+[Parameter2_520]
+Name=VariantSchematicRevisionBBy
+Value=VS1
+
+[Parameter2_521]
+Name=VariantSchematicRevisionBChange
+Value=VS1
+
+[Parameter2_522]
+Name=VariantSchematicRevisionBChangeLine1
+Value=VS1
+
+[Parameter2_523]
+Name=VariantSchematicRevisionBChangeLine2
+Value=VS1
+
+[Parameter2_524]
+Name=VariantSchematicRevisionBDate
+Value=VS1
+
+[Parameter2_525]
+Name=VariantSchematicRevisionBNumber
+Value=VS1
+
+[Parameter2_526]
+Name=VariantSchematicRevisionCBy
+Value=VS1
+
+[Parameter2_527]
+Name=VariantSchematicRevisionCChange
+Value=VS1
+
+[Parameter2_528]
+Name=VariantSchematicRevisionCChangeLine1
+Value=VS1
+
+[Parameter2_529]
+Name=VariantSchematicRevisionCChangeLine2
+Value=VS1
+
+[Parameter2_530]
+Name=VariantSchematicRevisionCDate
+Value=VS1
+
+[Parameter2_531]
+Name=VariantSchematicRevisionCNumber
+Value=VS1
+
+[Parameter2_532]
+Name=VariantSchematicRevisionDBy
+Value=VS1
+
+[Parameter2_533]
+Name=VariantSchematicRevisionDChange
+Value=VS1
+
+[Parameter2_534]
+Name=VariantSchematicRevisionDChangeLine1
+Value=VS1
+
+[Parameter2_535]
+Name=VariantSchematicRevisionDChangeLine2
+Value=VS1
+
+[Parameter2_536]
+Name=VariantSchematicRevisionDDate
+Value=VS1
+
+[Parameter2_537]
+Name=VariantSchematicRevisionDNumber
+Value=VS1
+
+[Parameter2_538]
+Name=VariantSchematicSheetTotal
+Value=VS1
+
+[Parameter2_539]
+Name=VariantSchematicTitle1
+Value=VS1
+
+[Parameter2_540]
+Name=VariantSchematicTitle2
+Value=VS1
+
+[ProjectVariant2]
+UniqueID=EED35A3B-74AF-4625-B554-B9BB57199519
+Description=Variant 2
+AllowFabrication=0
+ParameterCount=540
+VariationCount=0
+ParamVariationCount=0
+
+[Parameter3_1]
+Name=V-BOM-Desc_001
+Value=V02 DESCRIPTION-001
+
+[Parameter3_2]
+Name=V-BOM-Desc_002
+Value=V02 DESCRIPTION-002
+
+[Parameter3_3]
+Name=V-BOM-Desc_003
+Value=V02 DESCRIPTION-003
+
+[Parameter3_4]
+Name=V-BOM-Desc_004
+Value=V02 DESCRIPTION-004
+
+[Parameter3_5]
+Name=V-BOM-Desc_005
+Value=V02 DESCRIPTION-005
+
+[Parameter3_6]
+Name=V-BOM-Desc_006
+Value=V02 DESCRIPTION-006
+
+[Parameter3_7]
+Name=V-BOM-Desc_007
+Value=V02 DESCRIPTION-007
+
+[Parameter3_8]
+Name=V-BOM-Desc_008
+Value=V02 DESCRIPTION-008
+
+[Parameter3_9]
+Name=V-BOM-Desc_009
+Value=V02 DESCRIPTION-009
+
+[Parameter3_10]
+Name=V-BOM-Desc_010
+Value=V02 DESCRIPTION-010
+
+[Parameter3_11]
+Name=V-BOM-Desc_011
+Value=V02 DESCRIPTION-011
+
+[Parameter3_12]
+Name=V-BOM-Desc_012
+Value=V02 DESCRIPTION-012
+
+[Parameter3_13]
+Name=V-BOM-Desc_013
+Value=V02 DESCRIPTION-013
+
+[Parameter3_14]
+Name=V-BOM-Desc_014
+Value=V02 DESCRIPTION-014
+
+[Parameter3_15]
+Name=V-BOM-Desc_015
+Value=V02 DESCRIPTION-015
+
+[Parameter3_16]
+Name=V-BOM-Desc_016
+Value=V02 DESCRIPTION-016
+
+[Parameter3_17]
+Name=V-BOM-Desc_017
+Value=V02 DESCRIPTION-017
+
+[Parameter3_18]
+Name=V-BOM-Desc_018
+Value=V02 DESCRIPTION-018
+
+[Parameter3_19]
+Name=V-BOM-Desc_019
+Value=V02 DESCRIPTION-019
+
+[Parameter3_20]
+Name=V-BOM-Desc_020
+Value=V02 DESCRIPTION-020
+
+[Parameter3_21]
+Name=V-BOM-Desc_021
+Value=V02 DESCRIPTION-021
+
+[Parameter3_22]
+Name=V-BOM-Desc_022
+Value=V02 DESCRIPTION-022
+
+[Parameter3_23]
+Name=V-BOM-Desc_023
+Value=V02 DESCRIPTION-023
+
+[Parameter3_24]
+Name=V-BOM-Desc_024
+Value=V02 DESCRIPTION-024
+
+[Parameter3_25]
+Name=V-BOM-Desc_025
+Value=V02 DESCRIPTION-025
+
+[Parameter3_26]
+Name=V-BOM-Desc_026
+Value=V02 DESCRIPTION-026
+
+[Parameter3_27]
+Name=V-BOM-Desc_027
+Value=V02 DESCRIPTION-027
+
+[Parameter3_28]
+Name=V-BOM-Desc_028
+Value=V02 DESCRIPTION-028
+
+[Parameter3_29]
+Name=V-BOM-Desc_029
+Value=V02 DESCRIPTION-029
+
+[Parameter3_30]
+Name=V-BOM-Desc_030
+Value=V02 DESCRIPTION-030
+
+[Parameter3_31]
+Name=V-BOM-Desc_031
+Value=V02 DESCRIPTION-031
+
+[Parameter3_32]
+Name=V-BOM-Desc_032
+Value=V02 DESCRIPTION-032
+
+[Parameter3_33]
+Name=V-BOM-Desc_033
+Value=V02 DESCRIPTION-033
+
+[Parameter3_34]
+Name=V-BOM-Desc_034
+Value=V02 DESCRIPTION-034
+
+[Parameter3_35]
+Name=V-BOM-Desc_035
+Value=V02 DESCRIPTION-035
+
+[Parameter3_36]
+Name=V-BOM-Desc_036
+Value=V02 DESCRIPTION-036
+
+[Parameter3_37]
+Name=V-BOM-Desc_037
+Value=V02 DESCRIPTION-037
+
+[Parameter3_38]
+Name=V-BOM-Desc_038
+Value=V02 DESCRIPTION-038
+
+[Parameter3_39]
+Name=V-BOM-Desc_039
+Value=V02 DESCRIPTION-039
+
+[Parameter3_40]
+Name=V-BOM-Desc_040
+Value=V02 DESCRIPTION-040
+
+[Parameter3_41]
+Name=V-BOM-Desc_041
+Value=V02 DESCRIPTION-041
+
+[Parameter3_42]
+Name=V-BOM-Desc_042
+Value=V02 DESCRIPTION-042
+
+[Parameter3_43]
+Name=V-BOM-Desc_043
+Value=V02 DESCRIPTION-043
+
+[Parameter3_44]
+Name=V-BOM-Desc_044
+Value=V02 DESCRIPTION-044
+
+[Parameter3_45]
+Name=V-BOM-Desc_045
+Value=V02 DESCRIPTION-045
+
+[Parameter3_46]
+Name=V-BOM-Desc_046
+Value=V02 DESCRIPTION-046
+
+[Parameter3_47]
+Name=V-BOM-Desc_047
+Value=V02 DESCRIPTION-047
+
+[Parameter3_48]
+Name=V-BOM-Desc_048
+Value=V02 DESCRIPTION-048
+
+[Parameter3_49]
+Name=V-BOM-Desc_049
+Value=V02 DESCRIPTION-049
+
+[Parameter3_50]
+Name=V-BOM-Desc_050
+Value=V02 DESCRIPTION-050
+
+[Parameter3_51]
+Name=V-BOM-Desc_051
+Value=V02 DESCRIPTION-051
+
+[Parameter3_52]
+Name=V-BOM-Desc_052
+Value=V02 DESCRIPTION-052
+
+[Parameter3_53]
+Name=V-BOM-Desc_053
+Value=V02 DESCRIPTION-053
+
+[Parameter3_54]
+Name=V-BOM-Desc_054
+Value=V02 DESCRIPTION-054
+
+[Parameter3_55]
+Name=V-BOM-Desc_055
+Value=V02 DESCRIPTION-055
+
+[Parameter3_56]
+Name=V-BOM-Desc_056
+Value=V02 DESCRIPTION-056
+
+[Parameter3_57]
+Name=V-BOM-Desc_057
+Value=V02 DESCRIPTION-057
+
+[Parameter3_58]
+Name=V-BOM-Desc_058
+Value=V02 DESCRIPTION-058
+
+[Parameter3_59]
+Name=V-BOM-Desc_059
+Value=V02 DESCRIPTION-059
+
+[Parameter3_60]
+Name=V-BOM-Desc_060
+Value=V02 DESCRIPTION-060
+
+[Parameter3_61]
+Name=V-BOM-Desc_061
+Value=V02 DESCRIPTION-061
+
+[Parameter3_62]
+Name=V-BOM-Desc_062
+Value=V02 DESCRIPTION-062
+
+[Parameter3_63]
+Name=V-BOM-Desc_063
+Value=V02 DESCRIPTION-063
+
+[Parameter3_64]
+Name=V-BOM-Desc_064
+Value=V02 DESCRIPTION-064
+
+[Parameter3_65]
+Name=V-BOM-Desc_065
+Value=V02 DESCRIPTION-065
+
+[Parameter3_66]
+Name=V-BOM-Desc_066
+Value=V02 DESCRIPTION-066
+
+[Parameter3_67]
+Name=V-BOM-Desc_067
+Value=V02 DESCRIPTION-067
+
+[Parameter3_68]
+Name=V-BOM-Desc_068
+Value=V02 DESCRIPTION-068
+
+[Parameter3_69]
+Name=V-BOM-Desc_069
+Value=V02 DESCRIPTION-069
+
+[Parameter3_70]
+Name=V-BOM-Desc_070
+Value=V02 DESCRIPTION-070
+
+[Parameter3_71]
+Name=V-BOM-Desc_071
+Value=V02 DESCRIPTION-071
+
+[Parameter3_72]
+Name=V-BOM-Desc_072
+Value=V02 DESCRIPTION-072
+
+[Parameter3_73]
+Name=V-BOM-Desc_073
+Value=V02 DESCRIPTION-073
+
+[Parameter3_74]
+Name=V-BOM-Desc_074
+Value=V02 DESCRIPTION-074
+
+[Parameter3_75]
+Name=V-BOM-Desc_075
+Value=V02 DESCRIPTION-075
+
+[Parameter3_76]
+Name=V-BOM-Desc_076
+Value=V02 DESCRIPTION-076
+
+[Parameter3_77]
+Name=V-BOM-Desc_077
+Value=V02 DESCRIPTION-077
+
+[Parameter3_78]
+Name=V-BOM-Desc_078
+Value=V02 DESCRIPTION-078
+
+[Parameter3_79]
+Name=V-BOM-Desc_079
+Value=V02 DESCRIPTION-079
+
+[Parameter3_80]
+Name=V-BOM-Desc_080
+Value=V02 DESCRIPTION-080
+
+[Parameter3_81]
+Name=V-BOM-Desc_081
+Value=V02 DESCRIPTION-081
+
+[Parameter3_82]
+Name=V-BOM-Desc_082
+Value=V02 DESCRIPTION-082
+
+[Parameter3_83]
+Name=V-BOM-Desc_083
+Value=V02 DESCRIPTION-083
+
+[Parameter3_84]
+Name=V-BOM-Desc_084
+Value=V02 DESCRIPTION-084
+
+[Parameter3_85]
+Name=V-BOM-Desc_085
+Value=V02 DESCRIPTION-085
+
+[Parameter3_86]
+Name=V-BOM-Desc_086
+Value=V02 DESCRIPTION-086
+
+[Parameter3_87]
+Name=V-BOM-Desc_087
+Value=V02 DESCRIPTION-087
+
+[Parameter3_88]
+Name=V-BOM-Desc_088
+Value=V02 DESCRIPTION-088
+
+[Parameter3_89]
+Name=V-BOM-Desc_089
+Value=V02 DESCRIPTION-089
+
+[Parameter3_90]
+Name=V-BOM-Desc_090
+Value=V02 DESCRIPTION-090
+
+[Parameter3_91]
+Name=V-BOM-Desc_091
+Value=V02 DESCRIPTION-091
+
+[Parameter3_92]
+Name=V-BOM-Desc_092
+Value=V02 DESCRIPTION-092
+
+[Parameter3_93]
+Name=V-BOM-Desc_093
+Value=V02 DESCRIPTION-093
+
+[Parameter3_94]
+Name=V-BOM-Desc_094
+Value=V02 DESCRIPTION-094
+
+[Parameter3_95]
+Name=V-BOM-Desc_095
+Value=V02 DESCRIPTION-095
+
+[Parameter3_96]
+Name=V-BOM-Desc_096
+Value=V02 DESCRIPTION-096
+
+[Parameter3_97]
+Name=V-BOM-Desc_097
+Value=V02 DESCRIPTION-097
+
+[Parameter3_98]
+Name=V-BOM-Desc_098
+Value=V02 DESCRIPTION-098
+
+[Parameter3_99]
+Name=V-BOM-Desc_099
+Value=V02 DESCRIPTION-099
+
+[Parameter3_100]
+Name=V-BOM-Desc_100
+Value=V02 DESCRIPTION-100
+
+[Parameter3_101]
+Name=V-BOM-Designators_001
+Value=V02 DESIGNATORS-001
+
+[Parameter3_102]
+Name=V-BOM-Designators_002
+Value=V02 DESIGNATORS-002
+
+[Parameter3_103]
+Name=V-BOM-Designators_003
+Value=V02 DESIGNATORS-003
+
+[Parameter3_104]
+Name=V-BOM-Designators_004
+Value=V02 DESIGNATORS-004
+
+[Parameter3_105]
+Name=V-BOM-Designators_005
+Value=V02 DESIGNATORS-005
+
+[Parameter3_106]
+Name=V-BOM-Designators_006
+Value=V02 DESIGNATORS-006
+
+[Parameter3_107]
+Name=V-BOM-Designators_007
+Value=V02 DESIGNATORS-007
+
+[Parameter3_108]
+Name=V-BOM-Designators_008
+Value=V02 DESIGNATORS-008
+
+[Parameter3_109]
+Name=V-BOM-Designators_009
+Value=V02 DESIGNATORS-009
+
+[Parameter3_110]
+Name=V-BOM-Designators_010
+Value=V02 DESIGNATORS-010
+
+[Parameter3_111]
+Name=V-BOM-Designators_011
+Value=V02 DESIGNATORS-011
+
+[Parameter3_112]
+Name=V-BOM-Designators_012
+Value=V02 DESIGNATORS-012
+
+[Parameter3_113]
+Name=V-BOM-Designators_013
+Value=V02 DESIGNATORS-013
+
+[Parameter3_114]
+Name=V-BOM-Designators_014
+Value=V02 DESIGNATORS-014
+
+[Parameter3_115]
+Name=V-BOM-Designators_015
+Value=V02 DESIGNATORS-015
+
+[Parameter3_116]
+Name=V-BOM-Designators_016
+Value=V02 DESIGNATORS-016
+
+[Parameter3_117]
+Name=V-BOM-Designators_017
+Value=V02 DESIGNATORS-017
+
+[Parameter3_118]
+Name=V-BOM-Designators_018
+Value=V02 DESIGNATORS-018
+
+[Parameter3_119]
+Name=V-BOM-Designators_019
+Value=V02 DESIGNATORS-019
+
+[Parameter3_120]
+Name=V-BOM-Designators_020
+Value=V02 DESIGNATORS-020
+
+[Parameter3_121]
+Name=V-BOM-Designators_021
+Value=V02 DESIGNATORS-021
+
+[Parameter3_122]
+Name=V-BOM-Designators_022
+Value=V02 DESIGNATORS-022
+
+[Parameter3_123]
+Name=V-BOM-Designators_023
+Value=V02 DESIGNATORS-023
+
+[Parameter3_124]
+Name=V-BOM-Designators_024
+Value=V02 DESIGNATORS-024
+
+[Parameter3_125]
+Name=V-BOM-Designators_025
+Value=V02 DESIGNATORS-025
+
+[Parameter3_126]
+Name=V-BOM-Designators_026
+Value=V02 DESIGNATORS-026
+
+[Parameter3_127]
+Name=V-BOM-Designators_027
+Value=V02 DESIGNATORS-027
+
+[Parameter3_128]
+Name=V-BOM-Designators_028
+Value=V02 DESIGNATORS-028
+
+[Parameter3_129]
+Name=V-BOM-Designators_029
+Value=V02 DESIGNATORS-029
+
+[Parameter3_130]
+Name=V-BOM-Designators_030
+Value=V02 DESIGNATORS-030
+
+[Parameter3_131]
+Name=V-BOM-Designators_031
+Value=V02 DESIGNATORS-031
+
+[Parameter3_132]
+Name=V-BOM-Designators_032
+Value=V02 DESIGNATORS-032
+
+[Parameter3_133]
+Name=V-BOM-Designators_033
+Value=V02 DESIGNATORS-033
+
+[Parameter3_134]
+Name=V-BOM-Designators_034
+Value=V02 DESIGNATORS-034
+
+[Parameter3_135]
+Name=V-BOM-Designators_035
+Value=V02 DESIGNATORS-035
+
+[Parameter3_136]
+Name=V-BOM-Designators_036
+Value=V02 DESIGNATORS-036
+
+[Parameter3_137]
+Name=V-BOM-Designators_037
+Value=V02 DESIGNATORS-037
+
+[Parameter3_138]
+Name=V-BOM-Designators_038
+Value=V02 DESIGNATORS-038
+
+[Parameter3_139]
+Name=V-BOM-Designators_039
+Value=V02 DESIGNATORS-039
+
+[Parameter3_140]
+Name=V-BOM-Designators_040
+Value=V02 DESIGNATORS-040
+
+[Parameter3_141]
+Name=V-BOM-Designators_041
+Value=V02 DESIGNATORS-041
+
+[Parameter3_142]
+Name=V-BOM-Designators_042
+Value=V02 DESIGNATORS-042
+
+[Parameter3_143]
+Name=V-BOM-Designators_043
+Value=V02 DESIGNATORS-043
+
+[Parameter3_144]
+Name=V-BOM-Designators_044
+Value=V02 DESIGNATORS-044
+
+[Parameter3_145]
+Name=V-BOM-Designators_045
+Value=V02 DESIGNATORS-045
+
+[Parameter3_146]
+Name=V-BOM-Designators_046
+Value=V02 DESIGNATORS-046
+
+[Parameter3_147]
+Name=V-BOM-Designators_047
+Value=V02 DESIGNATORS-047
+
+[Parameter3_148]
+Name=V-BOM-Designators_048
+Value=V02 DESIGNATORS-048
+
+[Parameter3_149]
+Name=V-BOM-Designators_049
+Value=V02 DESIGNATORS-049
+
+[Parameter3_150]
+Name=V-BOM-Designators_050
+Value=V02 DESIGNATORS-050
+
+[Parameter3_151]
+Name=V-BOM-Designators_051
+Value=V02 DESIGNATORS-051
+
+[Parameter3_152]
+Name=V-BOM-Designators_052
+Value=V02 DESIGNATORS-052
+
+[Parameter3_153]
+Name=V-BOM-Designators_053
+Value=V02 DESIGNATORS-053
+
+[Parameter3_154]
+Name=V-BOM-Designators_054
+Value=V02 DESIGNATORS-054
+
+[Parameter3_155]
+Name=V-BOM-Designators_055
+Value=V02 DESIGNATORS-055
+
+[Parameter3_156]
+Name=V-BOM-Designators_056
+Value=V02 DESIGNATORS-056
+
+[Parameter3_157]
+Name=V-BOM-Designators_057
+Value=V02 DESIGNATORS-057
+
+[Parameter3_158]
+Name=V-BOM-Designators_058
+Value=V02 DESIGNATORS-058
+
+[Parameter3_159]
+Name=V-BOM-Designators_059
+Value=V02 DESIGNATORS-059
+
+[Parameter3_160]
+Name=V-BOM-Designators_060
+Value=V02 DESIGNATORS-060
+
+[Parameter3_161]
+Name=V-BOM-Designators_061
+Value=V02 DESIGNATORS-061
+
+[Parameter3_162]
+Name=V-BOM-Designators_062
+Value=V02 DESIGNATORS-062
+
+[Parameter3_163]
+Name=V-BOM-Designators_063
+Value=V02 DESIGNATORS-063
+
+[Parameter3_164]
+Name=V-BOM-Designators_064
+Value=V02 DESIGNATORS-064
+
+[Parameter3_165]
+Name=V-BOM-Designators_065
+Value=V02 DESIGNATORS-065
+
+[Parameter3_166]
+Name=V-BOM-Designators_066
+Value=V02 DESIGNATORS-066
+
+[Parameter3_167]
+Name=V-BOM-Designators_067
+Value=V02 DESIGNATORS-067
+
+[Parameter3_168]
+Name=V-BOM-Designators_068
+Value=V02 DESIGNATORS-068
+
+[Parameter3_169]
+Name=V-BOM-Designators_069
+Value=V02 DESIGNATORS-069
+
+[Parameter3_170]
+Name=V-BOM-Designators_070
+Value=V02 DESIGNATORS-070
+
+[Parameter3_171]
+Name=V-BOM-Designators_071
+Value=V02 DESIGNATORS-071
+
+[Parameter3_172]
+Name=V-BOM-Designators_072
+Value=V02 DESIGNATORS-072
+
+[Parameter3_173]
+Name=V-BOM-Designators_073
+Value=V02 DESIGNATORS-073
+
+[Parameter3_174]
+Name=V-BOM-Designators_074
+Value=V02 DESIGNATORS-074
+
+[Parameter3_175]
+Name=V-BOM-Designators_075
+Value=V02 DESIGNATORS-075
+
+[Parameter3_176]
+Name=V-BOM-Designators_076
+Value=V02 DESIGNATORS-076
+
+[Parameter3_177]
+Name=V-BOM-Designators_077
+Value=V02 DESIGNATORS-077
+
+[Parameter3_178]
+Name=V-BOM-Designators_078
+Value=V02 DESIGNATORS-078
+
+[Parameter3_179]
+Name=V-BOM-Designators_079
+Value=V02 DESIGNATORS-079
+
+[Parameter3_180]
+Name=V-BOM-Designators_080
+Value=V02 DESIGNATORS-080
+
+[Parameter3_181]
+Name=V-BOM-Designators_081
+Value=V02 DESIGNATORS-081
+
+[Parameter3_182]
+Name=V-BOM-Designators_082
+Value=V02 DESIGNATORS-082
+
+[Parameter3_183]
+Name=V-BOM-Designators_083
+Value=V02 DESIGNATORS-083
+
+[Parameter3_184]
+Name=V-BOM-Designators_084
+Value=V02 DESIGNATORS-084
+
+[Parameter3_185]
+Name=V-BOM-Designators_085
+Value=V02 DESIGNATORS-085
+
+[Parameter3_186]
+Name=V-BOM-Designators_086
+Value=V02 DESIGNATORS-086
+
+[Parameter3_187]
+Name=V-BOM-Designators_087
+Value=V02 DESIGNATORS-087
+
+[Parameter3_188]
+Name=V-BOM-Designators_088
+Value=V02 DESIGNATORS-088
+
+[Parameter3_189]
+Name=V-BOM-Designators_089
+Value=V02 DESIGNATORS-089
+
+[Parameter3_190]
+Name=V-BOM-Designators_090
+Value=V02 DESIGNATORS-090
+
+[Parameter3_191]
+Name=V-BOM-Designators_091
+Value=V02 DESIGNATORS-091
+
+[Parameter3_192]
+Name=V-BOM-Designators_092
+Value=V02 DESIGNATORS-092
+
+[Parameter3_193]
+Name=V-BOM-Designators_093
+Value=V02 DESIGNATORS-093
+
+[Parameter3_194]
+Name=V-BOM-Designators_094
+Value=V02 DESIGNATORS-094
+
+[Parameter3_195]
+Name=V-BOM-Designators_095
+Value=V02 DESIGNATORS-095
+
+[Parameter3_196]
+Name=V-BOM-Designators_096
+Value=V02 DESIGNATORS-096
+
+[Parameter3_197]
+Name=V-BOM-Designators_097
+Value=V02 DESIGNATORS-097
+
+[Parameter3_198]
+Name=V-BOM-Designators_098
+Value=V02 DESIGNATORS-098
+
+[Parameter3_199]
+Name=V-BOM-Designators_099
+Value=V02 DESIGNATORS-099
+
+[Parameter3_200]
+Name=V-BOM-Designators_100
+Value=V02 DESIGNATORS-100
+
+[Parameter3_201]
+Name=V-BOM-FR_001
+Value=V02 FR-001
+
+[Parameter3_202]
+Name=V-BOM-FR_002
+Value=V02 FR-002
+
+[Parameter3_203]
+Name=V-BOM-FR_003
+Value=V02 FR-003
+
+[Parameter3_204]
+Name=V-BOM-FR_004
+Value=V02 FR-004
+
+[Parameter3_205]
+Name=V-BOM-FR_005
+Value=V02 FR-005
+
+[Parameter3_206]
+Name=V-BOM-FR_006
+Value=V02 FR-006
+
+[Parameter3_207]
+Name=V-BOM-FR_007
+Value=V02 FR-007
+
+[Parameter3_208]
+Name=V-BOM-FR_008
+Value=V02 FR-008
+
+[Parameter3_209]
+Name=V-BOM-FR_009
+Value=V02 FR-009
+
+[Parameter3_210]
+Name=V-BOM-FR_010
+Value=V02 FR-010
+
+[Parameter3_211]
+Name=V-BOM-FR_011
+Value=V02 FR-011
+
+[Parameter3_212]
+Name=V-BOM-FR_012
+Value=V02 FR-012
+
+[Parameter3_213]
+Name=V-BOM-FR_013
+Value=V02 FR-013
+
+[Parameter3_214]
+Name=V-BOM-FR_014
+Value=V02 FR-014
+
+[Parameter3_215]
+Name=V-BOM-FR_015
+Value=V02 FR-015
+
+[Parameter3_216]
+Name=V-BOM-FR_016
+Value=V02 FR-016
+
+[Parameter3_217]
+Name=V-BOM-FR_017
+Value=V02 FR-017
+
+[Parameter3_218]
+Name=V-BOM-FR_018
+Value=V02 FR-018
+
+[Parameter3_219]
+Name=V-BOM-FR_019
+Value=V02 FR-019
+
+[Parameter3_220]
+Name=V-BOM-FR_020
+Value=V02 FR-020
+
+[Parameter3_221]
+Name=V-BOM-FR_021
+Value=V02 FR-021
+
+[Parameter3_222]
+Name=V-BOM-FR_022
+Value=V02 FR-022
+
+[Parameter3_223]
+Name=V-BOM-FR_023
+Value=V02 FR-023
+
+[Parameter3_224]
+Name=V-BOM-FR_024
+Value=V02 FR-024
+
+[Parameter3_225]
+Name=V-BOM-FR_025
+Value=V02 FR-025
+
+[Parameter3_226]
+Name=V-BOM-FR_026
+Value=V02 FR-026
+
+[Parameter3_227]
+Name=V-BOM-FR_027
+Value=V02 FR-027
+
+[Parameter3_228]
+Name=V-BOM-FR_028
+Value=V02 FR-028
+
+[Parameter3_229]
+Name=V-BOM-FR_029
+Value=V02 FR-029
+
+[Parameter3_230]
+Name=V-BOM-FR_030
+Value=V02 FR-030
+
+[Parameter3_231]
+Name=V-BOM-FR_031
+Value=V02 FR-031
+
+[Parameter3_232]
+Name=V-BOM-FR_032
+Value=V02 FR-032
+
+[Parameter3_233]
+Name=V-BOM-FR_033
+Value=V02 FR-033
+
+[Parameter3_234]
+Name=V-BOM-FR_034
+Value=V02 FR-034
+
+[Parameter3_235]
+Name=V-BOM-FR_035
+Value=V02 FR-035
+
+[Parameter3_236]
+Name=V-BOM-FR_036
+Value=V02 FR-036
+
+[Parameter3_237]
+Name=V-BOM-FR_037
+Value=V02 FR-037
+
+[Parameter3_238]
+Name=V-BOM-FR_038
+Value=V02 FR-038
+
+[Parameter3_239]
+Name=V-BOM-FR_039
+Value=V02 FR-039
+
+[Parameter3_240]
+Name=V-BOM-FR_040
+Value=V02 FR-040
+
+[Parameter3_241]
+Name=V-BOM-FR_041
+Value=V02 FR-041
+
+[Parameter3_242]
+Name=V-BOM-FR_042
+Value=V02 FR-042
+
+[Parameter3_243]
+Name=V-BOM-FR_043
+Value=V02 FR-043
+
+[Parameter3_244]
+Name=V-BOM-FR_044
+Value=V02 FR-044
+
+[Parameter3_245]
+Name=V-BOM-FR_045
+Value=V02 FR-045
+
+[Parameter3_246]
+Name=V-BOM-FR_046
+Value=V02 FR-046
+
+[Parameter3_247]
+Name=V-BOM-FR_047
+Value=V02 FR-047
+
+[Parameter3_248]
+Name=V-BOM-FR_048
+Value=V02 FR-048
+
+[Parameter3_249]
+Name=V-BOM-FR_049
+Value=V02 FR-049
+
+[Parameter3_250]
+Name=V-BOM-FR_050
+Value=V02 FR-050
+
+[Parameter3_251]
+Name=V-BOM-FR_051
+Value=V02 FR-051
+
+[Parameter3_252]
+Name=V-BOM-FR_052
+Value=V02 FR-052
+
+[Parameter3_253]
+Name=V-BOM-FR_053
+Value=V02 FR-053
+
+[Parameter3_254]
+Name=V-BOM-FR_054
+Value=V02 FR-054
+
+[Parameter3_255]
+Name=V-BOM-FR_055
+Value=V02 FR-055
+
+[Parameter3_256]
+Name=V-BOM-FR_056
+Value=V02 FR-056
+
+[Parameter3_257]
+Name=V-BOM-FR_057
+Value=V02 FR-057
+
+[Parameter3_258]
+Name=V-BOM-FR_058
+Value=V02 FR-058
+
+[Parameter3_259]
+Name=V-BOM-FR_059
+Value=V02 FR-059
+
+[Parameter3_260]
+Name=V-BOM-FR_060
+Value=V02 FR-060
+
+[Parameter3_261]
+Name=V-BOM-FR_061
+Value=V02 FR-061
+
+[Parameter3_262]
+Name=V-BOM-FR_062
+Value=V02 FR-062
+
+[Parameter3_263]
+Name=V-BOM-FR_063
+Value=V02 FR-063
+
+[Parameter3_264]
+Name=V-BOM-FR_064
+Value=V02 FR-064
+
+[Parameter3_265]
+Name=V-BOM-FR_065
+Value=V02 FR-065
+
+[Parameter3_266]
+Name=V-BOM-FR_066
+Value=V02 FR-066
+
+[Parameter3_267]
+Name=V-BOM-FR_067
+Value=V02 FR-067
+
+[Parameter3_268]
+Name=V-BOM-FR_068
+Value=V02 FR-068
+
+[Parameter3_269]
+Name=V-BOM-FR_069
+Value=V02 FR-069
+
+[Parameter3_270]
+Name=V-BOM-FR_070
+Value=V02 FR-070
+
+[Parameter3_271]
+Name=V-BOM-FR_071
+Value=V02 FR-071
+
+[Parameter3_272]
+Name=V-BOM-FR_072
+Value=V02 FR-072
+
+[Parameter3_273]
+Name=V-BOM-FR_073
+Value=V02 FR-073
+
+[Parameter3_274]
+Name=V-BOM-FR_074
+Value=V02 FR-074
+
+[Parameter3_275]
+Name=V-BOM-FR_075
+Value=V02 FR-075
+
+[Parameter3_276]
+Name=V-BOM-FR_076
+Value=V02 FR-076
+
+[Parameter3_277]
+Name=V-BOM-FR_077
+Value=V02 FR-077
+
+[Parameter3_278]
+Name=V-BOM-FR_078
+Value=V02 FR-078
+
+[Parameter3_279]
+Name=V-BOM-FR_079
+Value=V02 FR-079
+
+[Parameter3_280]
+Name=V-BOM-FR_080
+Value=V02 FR-080
+
+[Parameter3_281]
+Name=V-BOM-FR_081
+Value=V02 FR-081
+
+[Parameter3_282]
+Name=V-BOM-FR_082
+Value=V02 FR-082
+
+[Parameter3_283]
+Name=V-BOM-FR_083
+Value=V02 FR-083
+
+[Parameter3_284]
+Name=V-BOM-FR_084
+Value=V02 FR-084
+
+[Parameter3_285]
+Name=V-BOM-FR_085
+Value=V02 FR-085
+
+[Parameter3_286]
+Name=V-BOM-FR_086
+Value=V02 FR-086
+
+[Parameter3_287]
+Name=V-BOM-FR_087
+Value=V02 FR-087
+
+[Parameter3_288]
+Name=V-BOM-FR_088
+Value=V02 FR-088
+
+[Parameter3_289]
+Name=V-BOM-FR_089
+Value=V02 FR-089
+
+[Parameter3_290]
+Name=V-BOM-FR_090
+Value=V02 FR-090
+
+[Parameter3_291]
+Name=V-BOM-FR_091
+Value=V02 FR-091
+
+[Parameter3_292]
+Name=V-BOM-FR_092
+Value=V02 FR-092
+
+[Parameter3_293]
+Name=V-BOM-FR_093
+Value=V02 FR-093
+
+[Parameter3_294]
+Name=V-BOM-FR_094
+Value=V02 FR-094
+
+[Parameter3_295]
+Name=V-BOM-FR_095
+Value=V02 FR-095
+
+[Parameter3_296]
+Name=V-BOM-FR_096
+Value=V02 FR-096
+
+[Parameter3_297]
+Name=V-BOM-FR_097
+Value=V02 FR-097
+
+[Parameter3_298]
+Name=V-BOM-FR_098
+Value=V02 FR-098
+
+[Parameter3_299]
+Name=V-BOM-FR_099
+Value=V02 FR-099
+
+[Parameter3_300]
+Name=V-BOM-FR_100
+Value=V02 FR-100
+
+[Parameter3_301]
+Name=V-BOM-Qty_001
+Value=2V001
+
+[Parameter3_302]
+Name=V-BOM-Qty_002
+Value=2V002
+
+[Parameter3_303]
+Name=V-BOM-Qty_003
+Value=2V003
+
+[Parameter3_304]
+Name=V-BOM-Qty_004
+Value=2V004
+
+[Parameter3_305]
+Name=V-BOM-Qty_005
+Value=2V005
+
+[Parameter3_306]
+Name=V-BOM-Qty_006
+Value=2V006
+
+[Parameter3_307]
+Name=V-BOM-Qty_007
+Value=2V007
+
+[Parameter3_308]
+Name=V-BOM-Qty_008
+Value=2V008
+
+[Parameter3_309]
+Name=V-BOM-Qty_009
+Value=2V009
+
+[Parameter3_310]
+Name=V-BOM-Qty_010
+Value=2V010
+
+[Parameter3_311]
+Name=V-BOM-Qty_011
+Value=2V011
+
+[Parameter3_312]
+Name=V-BOM-Qty_012
+Value=2V012
+
+[Parameter3_313]
+Name=V-BOM-Qty_013
+Value=2V013
+
+[Parameter3_314]
+Name=V-BOM-Qty_014
+Value=2V014
+
+[Parameter3_315]
+Name=V-BOM-Qty_015
+Value=2V015
+
+[Parameter3_316]
+Name=V-BOM-Qty_016
+Value=2V016
+
+[Parameter3_317]
+Name=V-BOM-Qty_017
+Value=2V017
+
+[Parameter3_318]
+Name=V-BOM-Qty_018
+Value=2V018
+
+[Parameter3_319]
+Name=V-BOM-Qty_019
+Value=2V019
+
+[Parameter3_320]
+Name=V-BOM-Qty_020
+Value=2V020
+
+[Parameter3_321]
+Name=V-BOM-Qty_021
+Value=2V021
+
+[Parameter3_322]
+Name=V-BOM-Qty_022
+Value=2V022
+
+[Parameter3_323]
+Name=V-BOM-Qty_023
+Value=2V023
+
+[Parameter3_324]
+Name=V-BOM-Qty_024
+Value=2V024
+
+[Parameter3_325]
+Name=V-BOM-Qty_025
+Value=2V025
+
+[Parameter3_326]
+Name=V-BOM-Qty_026
+Value=2V026
+
+[Parameter3_327]
+Name=V-BOM-Qty_027
+Value=2V027
+
+[Parameter3_328]
+Name=V-BOM-Qty_028
+Value=2V028
+
+[Parameter3_329]
+Name=V-BOM-Qty_029
+Value=2V029
+
+[Parameter3_330]
+Name=V-BOM-Qty_030
+Value=2V030
+
+[Parameter3_331]
+Name=V-BOM-Qty_031
+Value=2V031
+
+[Parameter3_332]
+Name=V-BOM-Qty_032
+Value=2V032
+
+[Parameter3_333]
+Name=V-BOM-Qty_033
+Value=2V033
+
+[Parameter3_334]
+Name=V-BOM-Qty_034
+Value=2V034
+
+[Parameter3_335]
+Name=V-BOM-Qty_035
+Value=2V035
+
+[Parameter3_336]
+Name=V-BOM-Qty_036
+Value=2V036
+
+[Parameter3_337]
+Name=V-BOM-Qty_037
+Value=2V037
+
+[Parameter3_338]
+Name=V-BOM-Qty_038
+Value=2V038
+
+[Parameter3_339]
+Name=V-BOM-Qty_039
+Value=2V039
+
+[Parameter3_340]
+Name=V-BOM-Qty_040
+Value=2V040
+
+[Parameter3_341]
+Name=V-BOM-Qty_041
+Value=2V041
+
+[Parameter3_342]
+Name=V-BOM-Qty_042
+Value=2V042
+
+[Parameter3_343]
+Name=V-BOM-Qty_043
+Value=2V043
+
+[Parameter3_344]
+Name=V-BOM-Qty_044
+Value=2V044
+
+[Parameter3_345]
+Name=V-BOM-Qty_045
+Value=2V045
+
+[Parameter3_346]
+Name=V-BOM-Qty_046
+Value=2V046
+
+[Parameter3_347]
+Name=V-BOM-Qty_047
+Value=2V047
+
+[Parameter3_348]
+Name=V-BOM-Qty_048
+Value=2V048
+
+[Parameter3_349]
+Name=V-BOM-Qty_049
+Value=2V049
+
+[Parameter3_350]
+Name=V-BOM-Qty_050
+Value=2V050
+
+[Parameter3_351]
+Name=V-BOM-Qty_051
+Value=2V051
+
+[Parameter3_352]
+Name=V-BOM-Qty_052
+Value=2V052
+
+[Parameter3_353]
+Name=V-BOM-Qty_053
+Value=2V053
+
+[Parameter3_354]
+Name=V-BOM-Qty_054
+Value=2V054
+
+[Parameter3_355]
+Name=V-BOM-Qty_055
+Value=2V055
+
+[Parameter3_356]
+Name=V-BOM-Qty_056
+Value=2V056
+
+[Parameter3_357]
+Name=V-BOM-Qty_057
+Value=2V057
+
+[Parameter3_358]
+Name=V-BOM-Qty_058
+Value=2V058
+
+[Parameter3_359]
+Name=V-BOM-Qty_059
+Value=2V059
+
+[Parameter3_360]
+Name=V-BOM-Qty_060
+Value=2V060
+
+[Parameter3_361]
+Name=V-BOM-Qty_061
+Value=2V061
+
+[Parameter3_362]
+Name=V-BOM-Qty_062
+Value=2V062
+
+[Parameter3_363]
+Name=V-BOM-Qty_063
+Value=2V063
+
+[Parameter3_364]
+Name=V-BOM-Qty_064
+Value=2V064
+
+[Parameter3_365]
+Name=V-BOM-Qty_065
+Value=2V065
+
+[Parameter3_366]
+Name=V-BOM-Qty_066
+Value=2V066
+
+[Parameter3_367]
+Name=V-BOM-Qty_067
+Value=2V067
+
+[Parameter3_368]
+Name=V-BOM-Qty_068
+Value=2V068
+
+[Parameter3_369]
+Name=V-BOM-Qty_069
+Value=2V069
+
+[Parameter3_370]
+Name=V-BOM-Qty_070
+Value=2V070
+
+[Parameter3_371]
+Name=V-BOM-Qty_071
+Value=2V071
+
+[Parameter3_372]
+Name=V-BOM-Qty_072
+Value=2V072
+
+[Parameter3_373]
+Name=V-BOM-Qty_073
+Value=2V073
+
+[Parameter3_374]
+Name=V-BOM-Qty_074
+Value=2V074
+
+[Parameter3_375]
+Name=V-BOM-Qty_075
+Value=2V075
+
+[Parameter3_376]
+Name=V-BOM-Qty_076
+Value=2V076
+
+[Parameter3_377]
+Name=V-BOM-Qty_077
+Value=2V077
+
+[Parameter3_378]
+Name=V-BOM-Qty_078
+Value=2V078
+
+[Parameter3_379]
+Name=V-BOM-Qty_079
+Value=2V079
+
+[Parameter3_380]
+Name=V-BOM-Qty_080
+Value=2V080
+
+[Parameter3_381]
+Name=V-BOM-Qty_081
+Value=2V081
+
+[Parameter3_382]
+Name=V-BOM-Qty_082
+Value=2V082
+
+[Parameter3_383]
+Name=V-BOM-Qty_083
+Value=2V083
+
+[Parameter3_384]
+Name=V-BOM-Qty_084
+Value=2V084
+
+[Parameter3_385]
+Name=V-BOM-Qty_085
+Value=2V085
+
+[Parameter3_386]
+Name=V-BOM-Qty_086
+Value=2V086
+
+[Parameter3_387]
+Name=V-BOM-Qty_087
+Value=2V087
+
+[Parameter3_388]
+Name=V-BOM-Qty_088
+Value=2V088
+
+[Parameter3_389]
+Name=V-BOM-Qty_089
+Value=2V089
+
+[Parameter3_390]
+Name=V-BOM-Qty_090
+Value=2V090
+
+[Parameter3_391]
+Name=V-BOM-Qty_091
+Value=2V091
+
+[Parameter3_392]
+Name=V-BOM-Qty_092
+Value=2V092
+
+[Parameter3_393]
+Name=V-BOM-Qty_093
+Value=2V093
+
+[Parameter3_394]
+Name=V-BOM-Qty_094
+Value=2V094
+
+[Parameter3_395]
+Name=V-BOM-Qty_095
+Value=2V095
+
+[Parameter3_396]
+Name=V-BOM-Qty_096
+Value=2V096
+
+[Parameter3_397]
+Name=V-BOM-Qty_097
+Value=2V097
+
+[Parameter3_398]
+Name=V-BOM-Qty_098
+Value=2V098
+
+[Parameter3_399]
+Name=V-BOM-Qty_099
+Value=2V099
+
+[Parameter3_400]
+Name=V-BOM-Qty_100
+Value=2V100
+
+[Parameter3_401]
+Name=VariantAssemblyApprovedBy
+Value=VA2
+
+[Parameter3_402]
+Name=VariantAssemblyCheckedBy
+Value=VA2
+
+[Parameter3_403]
+Name=VariantAssemblyDate
+Value=VA2
+
+[Parameter3_404]
+Name=VariantAssemblyDrawnBy
+Value=VA2
+
+[Parameter3_405]
+Name=VariantAssemblyFrNumber
+Value=VA2
+
+[Parameter3_406]
+Name=VariantAssemblyRegulatoryBlockCheckABS
+Value=VA2
+
+[Parameter3_407]
+Name=VariantAssemblyRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=VA2
+
+[Parameter3_408]
+Name=VariantAssemblyRegulatoryBlockCheckATEX_ELEMENT
+Value=VA2
+
+[Parameter3_409]
+Name=VariantAssemblyRegulatoryBlockCheckATEX_UL_DEMKO
+Value=VA2
+
+[Parameter3_410]
+Name=VariantAssemblyRegulatoryBlockCheckCE
+Value=VA2
+
+[Parameter3_411]
+Name=VariantAssemblyRegulatoryBlockCheckCSA
+Value=VA2
+
+[Parameter3_412]
+Name=VariantAssemblyRegulatoryBlockCheckFM
+Value=VA2
+
+[Parameter3_413]
+Name=VariantAssemblyRegulatoryBlockCheckIECEx_DEKRA
+Value=VA2
+
+[Parameter3_414]
+Name=VariantAssemblyRegulatoryBlockCheckIECEx_ELEMENT
+Value=VA2
+
+[Parameter3_415]
+Name=VariantAssemblyRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=VA2
+
+[Parameter3_416]
+Name=VariantAssemblyRegulatoryBlockCheckINMETRO_NCC
+Value=VA2
+
+[Parameter3_417]
+Name=VariantAssemblyRegulatoryBlockCheckKTL
+Value=VA2
+
+[Parameter3_418]
+Name=VariantAssemblyRegulatoryBlockCheckNSF
+Value=VA2
+
+[Parameter3_419]
+Name=VariantAssemblyRegulatoryBlockCheckPLENUM
+Value=VA2
+
+[Parameter3_420]
+Name=VariantAssemblyRegulatoryBlockCheckRCM
+Value=VA2
+
+[Parameter3_421]
+Name=VariantAssemblyRegulatoryBlockCheckUL
+Value=VA2
+
+[Parameter3_422]
+Name=VariantAssemblyRegulatoryBlockCheckWIRELESS
+Value=VA2
+
+[Parameter3_423]
+Name=VariantAssemblyRevisionABy
+Value=VA2
+
+[Parameter3_424]
+Name=VariantAssemblyRevisionAChange
+Value=VA2
+
+[Parameter3_425]
+Name=VariantAssemblyRevisionADate
+Value=VA2
+
+[Parameter3_426]
+Name=VariantAssemblyRevisionANumber
+Value=VA2
+
+[Parameter3_427]
+Name=VariantAssemblyRevisionBBy
+Value=VA2
+
+[Parameter3_428]
+Name=VariantAssemblyRevisionBChange
+Value=VA2
+
+[Parameter3_429]
+Name=VariantAssemblyRevisionBDate
+Value=VA2
+
+[Parameter3_430]
+Name=VariantAssemblyRevisionBNumber
+Value=VA2
+
+[Parameter3_431]
+Name=VariantAssemblyRevisionCBy
+Value=VA2
+
+[Parameter3_432]
+Name=VariantAssemblyRevisionCChange
+Value=VA2
+
+[Parameter3_433]
+Name=VariantAssemblyRevisionCDate
+Value=VA2
+
+[Parameter3_434]
+Name=VariantAssemblyRevisionCNumber
+Value=VA2
+
+[Parameter3_435]
+Name=VariantAssemblyRevisionDBy
+Value=VA2
+
+[Parameter3_436]
+Name=VariantAssemblyRevisionDChange
+Value=VA2
+
+[Parameter3_437]
+Name=VariantAssemblyRevisionDDate
+Value=VA2
+
+[Parameter3_438]
+Name=VariantAssemblyRevisionDNumber
+Value=VA2
+
+[Parameter3_439]
+Name=VariantAssemblySheetNumber
+Value=VA2
+
+[Parameter3_440]
+Name=VariantAssemblySheetTotal
+Value=VA2
+
+[Parameter3_441]
+Name=VariantAssemblyTitle1
+Value=VA2
+
+[Parameter3_442]
+Name=VariantAssemblyTitle2
+Value=VA2
+
+[Parameter3_443]
+Name=VariantAssemblyVersionNumber
+Value=VA2
+
+[Parameter3_444]
+Name=VariantPCBApprovedBy
+Value=VP2
+
+[Parameter3_445]
+Name=VariantPCBCheckedBy
+Value=VP2
+
+[Parameter3_446]
+Name=VariantPCBDate
+Value=VP2
+
+[Parameter3_447]
+Name=VariantPCBDrawnBy
+Value=VP2
+
+[Parameter3_448]
+Name=VariantPCBFrNumber
+Value=VP2
+
+[Parameter3_449]
+Name=VariantPCBPanelSheetNumber
+Value=vp2
+
+[Parameter3_450]
+Name=VariantPCBPanelTitle1
+Value=vp2
+
+[Parameter3_451]
+Name=VariantPCBPanelTitle2
+Value=vp2
+
+[Parameter3_452]
+Name=VariantPCBRegulatoryBlockCheckABS
+Value=VP2
+
+[Parameter3_453]
+Name=VariantPCBRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=VP2
+
+[Parameter3_454]
+Name=VariantPCBRegulatoryBlockCheckATEX_ELEMENT
+Value=VP2
+
+[Parameter3_455]
+Name=VariantPCBRegulatoryBlockCheckATEX_UL_DEMKO
+Value=VP2
+
+[Parameter3_456]
+Name=VariantPCBRegulatoryBlockCheckCE
+Value=VP2
+
+[Parameter3_457]
+Name=VariantPCBRegulatoryBlockCheckCSA
+Value=VP2
+
+[Parameter3_458]
+Name=VariantPCBRegulatoryBlockCheckFM
+Value=VP2
+
+[Parameter3_459]
+Name=VariantPCBRegulatoryBlockCheckIECEx_DEKRA
+Value=VP2
+
+[Parameter3_460]
+Name=VariantPCBRegulatoryBlockCheckIECEx_ELEMENT
+Value=VP2
+
+[Parameter3_461]
+Name=VariantPCBRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=VP2
+
+[Parameter3_462]
+Name=VariantPCBRegulatoryBlockCheckINMETRO_NCC
+Value=VP2
+
+[Parameter3_463]
+Name=VariantPCBRegulatoryBlockCheckKTL
+Value=VP2
+
+[Parameter3_464]
+Name=VariantPCBRegulatoryBlockCheckNSF
+Value=VP2
+
+[Parameter3_465]
+Name=VariantPCBRegulatoryBlockCheckPLENUM
+Value=VP2
+
+[Parameter3_466]
+Name=VariantPCBRegulatoryBlockCheckRCM
+Value=VP2
+
+[Parameter3_467]
+Name=VariantPCBRegulatoryBlockCheckUL
+Value=VP2
+
+[Parameter3_468]
+Name=VariantPCBRegulatoryBlockCheckWIRELESS
+Value=VP2
+
+[Parameter3_469]
+Name=VariantPCBRevisionABy
+Value=VP2
+
+[Parameter3_470]
+Name=VariantPCBRevisionAChange
+Value=VP2
+
+[Parameter3_471]
+Name=VariantPCBRevisionADate
+Value=VP2
+
+[Parameter3_472]
+Name=VariantPCBRevisionANumber
+Value=VP2
+
+[Parameter3_473]
+Name=VariantPCBRevisionBBy
+Value=VP2
+
+[Parameter3_474]
+Name=VariantPCBRevisionBChange
+Value=VP2
+
+[Parameter3_475]
+Name=VariantPCBRevisionBDate
+Value=VP2
+
+[Parameter3_476]
+Name=VariantPCBRevisionBNumber
+Value=VP2
+
+[Parameter3_477]
+Name=VariantPCBRevisionCBy
+Value=VP2
+
+[Parameter3_478]
+Name=VariantPCBRevisionCChange
+Value=VP2
+
+[Parameter3_479]
+Name=VariantPCBRevisionCDate
+Value=VP2
+
+[Parameter3_480]
+Name=VariantPCBRevisionCNumber
+Value=VP2
+
+[Parameter3_481]
+Name=VariantPCBRevisionDBy
+Value=VP2
+
+[Parameter3_482]
+Name=VariantPCBRevisionDChange
+Value=VP2
+
+[Parameter3_483]
+Name=VariantPCBRevisionDDate
+Value=VP2
+
+[Parameter3_484]
+Name=VariantPCBRevisionDNumber
+Value=VP2
+
+[Parameter3_485]
+Name=VariantPCBSheetNumber
+Value=VP2
+
+[Parameter3_486]
+Name=VariantPCBSheetTotal
+Value=VP2
+
+[Parameter3_487]
+Name=VariantPCBTestpointsSheetNumber
+Value=VT2
+
+[Parameter3_488]
+Name=VariantPCBTestpointsTitle1
+Value=VT2
+
+[Parameter3_489]
+Name=VariantPCBTestpointsTitle2
+Value=VT2
+
+[Parameter3_490]
+Name=VariantPCBTitle1
+Value=VP2
+
+[Parameter3_491]
+Name=VariantPCBTitle2
+Value=VP2
+
+[Parameter3_492]
+Name=VariantSchematicApprovedBy
+Value=VS2
+
+[Parameter3_493]
+Name=VariantSchematicCheckedBy
+Value=VS2
+
+[Parameter3_494]
+Name=VariantSchematicDate
+Value=VS2
+
+[Parameter3_495]
+Name=VariantSchematicDrawnBy
+Value=VS2
+
+[Parameter3_496]
+Name=VariantSchematicFrNumber
+Value=VS2
+
+[Parameter3_497]
+Name=VariantSchematicRegulatoryBlockCheckABS
+Value=VS2
+
+[Parameter3_498]
+Name=VariantSchematicRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=VS2
+
+[Parameter3_499]
+Name=VariantSchematicRegulatoryBlockCheckATEX_ELEMENT
+Value=VS2
+
+[Parameter3_500]
+Name=VariantSchematicRegulatoryBlockCheckATEX_UL_DEMKO
+Value=VS2
+
+[Parameter3_501]
+Name=VariantSchematicRegulatoryBlockCheckCE
+Value=VS2
+
+[Parameter3_502]
+Name=VariantSchematicRegulatoryBlockCheckCSA
+Value=VS2
+
+[Parameter3_503]
+Name=VariantSchematicRegulatoryBlockCheckFM
+Value=VS2
+
+[Parameter3_504]
+Name=VariantSchematicRegulatoryBlockCheckIECEx_DEKRA
+Value=VS2
+
+[Parameter3_505]
+Name=VariantSchematicRegulatoryBlockCheckIECEx_ELEMENT
+Value=VS2
+
+[Parameter3_506]
+Name=VariantSchematicRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=VS2
+
+[Parameter3_507]
+Name=VariantSchematicRegulatoryBlockCheckINMETRO_NCC
+Value=VS2
+
+[Parameter3_508]
+Name=VariantSchematicRegulatoryBlockCheckKC_KTL
+Value=VS2
+
+[Parameter3_509]
+Name=VariantSchematicRegulatoryBlockCheckNSF
+Value=VS2
+
+[Parameter3_510]
+Name=VariantSchematicRegulatoryBlockCheckPLENUM
+Value=VS2
+
+[Parameter3_511]
+Name=VariantSchematicRegulatoryBlockCheckRCM
+Value=VS2
+
+[Parameter3_512]
+Name=VariantSchematicRegulatoryBlockCheckUL
+Value=VS2
+
+[Parameter3_513]
+Name=VariantSchematicRegulatoryBlockCheckWIRELESS
+Value=VS2
+
+[Parameter3_514]
+Name=VariantSchematicRevisionABy
+Value=VS2
+
+[Parameter3_515]
+Name=VariantSchematicRevisionAChange
+Value=VS2
+
+[Parameter3_516]
+Name=VariantSchematicRevisionAChangeLine1
+Value=VS2
+
+[Parameter3_517]
+Name=VariantSchematicRevisionAChangeLine2
+Value=VS2
+
+[Parameter3_518]
+Name=VariantSchematicRevisionADate
+Value=VS2
+
+[Parameter3_519]
+Name=VariantSchematicRevisionANumber
+Value=VS2
+
+[Parameter3_520]
+Name=VariantSchematicRevisionBBy
+Value=VS2
+
+[Parameter3_521]
+Name=VariantSchematicRevisionBChange
+Value=VS2
+
+[Parameter3_522]
+Name=VariantSchematicRevisionBChangeLine1
+Value=VS2
+
+[Parameter3_523]
+Name=VariantSchematicRevisionBChangeLine2
+Value=VS2
+
+[Parameter3_524]
+Name=VariantSchematicRevisionBDate
+Value=VS2
+
+[Parameter3_525]
+Name=VariantSchematicRevisionBNumber
+Value=VS2
+
+[Parameter3_526]
+Name=VariantSchematicRevisionCBy
+Value=VS2
+
+[Parameter3_527]
+Name=VariantSchematicRevisionCChange
+Value=VS2
+
+[Parameter3_528]
+Name=VariantSchematicRevisionCChangeLine1
+Value=VS2
+
+[Parameter3_529]
+Name=VariantSchematicRevisionCChangeLine2
+Value=VS2
+
+[Parameter3_530]
+Name=VariantSchematicRevisionCDate
+Value=VS2
+
+[Parameter3_531]
+Name=VariantSchematicRevisionCNumber
+Value=VS2
+
+[Parameter3_532]
+Name=VariantSchematicRevisionDBy
+Value=VS2
+
+[Parameter3_533]
+Name=VariantSchematicRevisionDChange
+Value=VS2
+
+[Parameter3_534]
+Name=VariantSchematicRevisionDChangeLine1
+Value=VS2
+
+[Parameter3_535]
+Name=VariantSchematicRevisionDChangeLine2
+Value=VS2
+
+[Parameter3_536]
+Name=VariantSchematicRevisionDDate
+Value=VS2
+
+[Parameter3_537]
+Name=VariantSchematicRevisionDNumber
+Value=VS2
+
+[Parameter3_538]
+Name=VariantSchematicSheetTotal
+Value=VS2
+
+[Parameter3_539]
+Name=VariantSchematicTitle1
+Value=VS2
+
+[Parameter3_540]
+Name=VariantSchematicTitle2
+Value=VS2
+
+[ProjectVariant3]
+UniqueID=F1CECC10-B2DA-4BC8-9B9B-601BEF1942E0
+Description=Variant 3
+AllowFabrication=0
+ParameterCount=540
+VariationCount=0
+ParamVariationCount=0
+
+[Parameter4_1]
+Name=V-BOM-Desc_001
+Value=V03 DESCRIPTION-001
+
+[Parameter4_2]
+Name=V-BOM-Desc_002
+Value=V03 DESCRIPTION-002
+
+[Parameter4_3]
+Name=V-BOM-Desc_003
+Value=V03 DESCRIPTION-003
+
+[Parameter4_4]
+Name=V-BOM-Desc_004
+Value=V03 DESCRIPTION-004
+
+[Parameter4_5]
+Name=V-BOM-Desc_005
+Value=V03 DESCRIPTION-005
+
+[Parameter4_6]
+Name=V-BOM-Desc_006
+Value=V03 DESCRIPTION-006
+
+[Parameter4_7]
+Name=V-BOM-Desc_007
+Value=V03 DESCRIPTION-007
+
+[Parameter4_8]
+Name=V-BOM-Desc_008
+Value=V03 DESCRIPTION-008
+
+[Parameter4_9]
+Name=V-BOM-Desc_009
+Value=V03 DESCRIPTION-009
+
+[Parameter4_10]
+Name=V-BOM-Desc_010
+Value=V03 DESCRIPTION-010
+
+[Parameter4_11]
+Name=V-BOM-Desc_011
+Value=V03 DESCRIPTION-011
+
+[Parameter4_12]
+Name=V-BOM-Desc_012
+Value=V03 DESCRIPTION-012
+
+[Parameter4_13]
+Name=V-BOM-Desc_013
+Value=V03 DESCRIPTION-013
+
+[Parameter4_14]
+Name=V-BOM-Desc_014
+Value=V03 DESCRIPTION-014
+
+[Parameter4_15]
+Name=V-BOM-Desc_015
+Value=V03 DESCRIPTION-015
+
+[Parameter4_16]
+Name=V-BOM-Desc_016
+Value=V03 DESCRIPTION-016
+
+[Parameter4_17]
+Name=V-BOM-Desc_017
+Value=V03 DESCRIPTION-017
+
+[Parameter4_18]
+Name=V-BOM-Desc_018
+Value=V03 DESCRIPTION-018
+
+[Parameter4_19]
+Name=V-BOM-Desc_019
+Value=V03 DESCRIPTION-019
+
+[Parameter4_20]
+Name=V-BOM-Desc_020
+Value=V03 DESCRIPTION-020
+
+[Parameter4_21]
+Name=V-BOM-Desc_021
+Value=V03 DESCRIPTION-021
+
+[Parameter4_22]
+Name=V-BOM-Desc_022
+Value=V03 DESCRIPTION-022
+
+[Parameter4_23]
+Name=V-BOM-Desc_023
+Value=V03 DESCRIPTION-023
+
+[Parameter4_24]
+Name=V-BOM-Desc_024
+Value=V03 DESCRIPTION-024
+
+[Parameter4_25]
+Name=V-BOM-Desc_025
+Value=V03 DESCRIPTION-025
+
+[Parameter4_26]
+Name=V-BOM-Desc_026
+Value=V03 DESCRIPTION-026
+
+[Parameter4_27]
+Name=V-BOM-Desc_027
+Value=V03 DESCRIPTION-027
+
+[Parameter4_28]
+Name=V-BOM-Desc_028
+Value=V03 DESCRIPTION-028
+
+[Parameter4_29]
+Name=V-BOM-Desc_029
+Value=V03 DESCRIPTION-029
+
+[Parameter4_30]
+Name=V-BOM-Desc_030
+Value=V03 DESCRIPTION-030
+
+[Parameter4_31]
+Name=V-BOM-Desc_031
+Value=V03 DESCRIPTION-031
+
+[Parameter4_32]
+Name=V-BOM-Desc_032
+Value=V03 DESCRIPTION-032
+
+[Parameter4_33]
+Name=V-BOM-Desc_033
+Value=V03 DESCRIPTION-033
+
+[Parameter4_34]
+Name=V-BOM-Desc_034
+Value=V03 DESCRIPTION-034
+
+[Parameter4_35]
+Name=V-BOM-Desc_035
+Value=V03 DESCRIPTION-035
+
+[Parameter4_36]
+Name=V-BOM-Desc_036
+Value=V03 DESCRIPTION-036
+
+[Parameter4_37]
+Name=V-BOM-Desc_037
+Value=V03 DESCRIPTION-037
+
+[Parameter4_38]
+Name=V-BOM-Desc_038
+Value=V03 DESCRIPTION-038
+
+[Parameter4_39]
+Name=V-BOM-Desc_039
+Value=V03 DESCRIPTION-039
+
+[Parameter4_40]
+Name=V-BOM-Desc_040
+Value=V03 DESCRIPTION-040
+
+[Parameter4_41]
+Name=V-BOM-Desc_041
+Value=V03 DESCRIPTION-041
+
+[Parameter4_42]
+Name=V-BOM-Desc_042
+Value=V03 DESCRIPTION-042
+
+[Parameter4_43]
+Name=V-BOM-Desc_043
+Value=V03 DESCRIPTION-043
+
+[Parameter4_44]
+Name=V-BOM-Desc_044
+Value=V03 DESCRIPTION-044
+
+[Parameter4_45]
+Name=V-BOM-Desc_045
+Value=V03 DESCRIPTION-045
+
+[Parameter4_46]
+Name=V-BOM-Desc_046
+Value=V03 DESCRIPTION-046
+
+[Parameter4_47]
+Name=V-BOM-Desc_047
+Value=V03 DESCRIPTION-047
+
+[Parameter4_48]
+Name=V-BOM-Desc_048
+Value=V03 DESCRIPTION-048
+
+[Parameter4_49]
+Name=V-BOM-Desc_049
+Value=V03 DESCRIPTION-049
+
+[Parameter4_50]
+Name=V-BOM-Desc_050
+Value=V03 DESCRIPTION-050
+
+[Parameter4_51]
+Name=V-BOM-Desc_051
+Value=V03 DESCRIPTION-051
+
+[Parameter4_52]
+Name=V-BOM-Desc_052
+Value=V03 DESCRIPTION-052
+
+[Parameter4_53]
+Name=V-BOM-Desc_053
+Value=V03 DESCRIPTION-053
+
+[Parameter4_54]
+Name=V-BOM-Desc_054
+Value=V03 DESCRIPTION-054
+
+[Parameter4_55]
+Name=V-BOM-Desc_055
+Value=V03 DESCRIPTION-055
+
+[Parameter4_56]
+Name=V-BOM-Desc_056
+Value=V03 DESCRIPTION-056
+
+[Parameter4_57]
+Name=V-BOM-Desc_057
+Value=V03 DESCRIPTION-057
+
+[Parameter4_58]
+Name=V-BOM-Desc_058
+Value=V03 DESCRIPTION-058
+
+[Parameter4_59]
+Name=V-BOM-Desc_059
+Value=V03 DESCRIPTION-059
+
+[Parameter4_60]
+Name=V-BOM-Desc_060
+Value=V03 DESCRIPTION-060
+
+[Parameter4_61]
+Name=V-BOM-Desc_061
+Value=V03 DESCRIPTION-061
+
+[Parameter4_62]
+Name=V-BOM-Desc_062
+Value=V03 DESCRIPTION-062
+
+[Parameter4_63]
+Name=V-BOM-Desc_063
+Value=V03 DESCRIPTION-063
+
+[Parameter4_64]
+Name=V-BOM-Desc_064
+Value=V03 DESCRIPTION-064
+
+[Parameter4_65]
+Name=V-BOM-Desc_065
+Value=V03 DESCRIPTION-065
+
+[Parameter4_66]
+Name=V-BOM-Desc_066
+Value=V03 DESCRIPTION-066
+
+[Parameter4_67]
+Name=V-BOM-Desc_067
+Value=V03 DESCRIPTION-067
+
+[Parameter4_68]
+Name=V-BOM-Desc_068
+Value=V03 DESCRIPTION-068
+
+[Parameter4_69]
+Name=V-BOM-Desc_069
+Value=V03 DESCRIPTION-069
+
+[Parameter4_70]
+Name=V-BOM-Desc_070
+Value=V03 DESCRIPTION-070
+
+[Parameter4_71]
+Name=V-BOM-Desc_071
+Value=V03 DESCRIPTION-071
+
+[Parameter4_72]
+Name=V-BOM-Desc_072
+Value=V03 DESCRIPTION-072
+
+[Parameter4_73]
+Name=V-BOM-Desc_073
+Value=V03 DESCRIPTION-073
+
+[Parameter4_74]
+Name=V-BOM-Desc_074
+Value=V03 DESCRIPTION-074
+
+[Parameter4_75]
+Name=V-BOM-Desc_075
+Value=V03 DESCRIPTION-075
+
+[Parameter4_76]
+Name=V-BOM-Desc_076
+Value=V03 DESCRIPTION-076
+
+[Parameter4_77]
+Name=V-BOM-Desc_077
+Value=V03 DESCRIPTION-077
+
+[Parameter4_78]
+Name=V-BOM-Desc_078
+Value=V03 DESCRIPTION-078
+
+[Parameter4_79]
+Name=V-BOM-Desc_079
+Value=V03 DESCRIPTION-079
+
+[Parameter4_80]
+Name=V-BOM-Desc_080
+Value=V03 DESCRIPTION-080
+
+[Parameter4_81]
+Name=V-BOM-Desc_081
+Value=V03 DESCRIPTION-081
+
+[Parameter4_82]
+Name=V-BOM-Desc_082
+Value=V03 DESCRIPTION-082
+
+[Parameter4_83]
+Name=V-BOM-Desc_083
+Value=V03 DESCRIPTION-083
+
+[Parameter4_84]
+Name=V-BOM-Desc_084
+Value=V03 DESCRIPTION-084
+
+[Parameter4_85]
+Name=V-BOM-Desc_085
+Value=V03 DESCRIPTION-085
+
+[Parameter4_86]
+Name=V-BOM-Desc_086
+Value=V03 DESCRIPTION-086
+
+[Parameter4_87]
+Name=V-BOM-Desc_087
+Value=V03 DESCRIPTION-087
+
+[Parameter4_88]
+Name=V-BOM-Desc_088
+Value=V03 DESCRIPTION-088
+
+[Parameter4_89]
+Name=V-BOM-Desc_089
+Value=V03 DESCRIPTION-089
+
+[Parameter4_90]
+Name=V-BOM-Desc_090
+Value=V03 DESCRIPTION-090
+
+[Parameter4_91]
+Name=V-BOM-Desc_091
+Value=V03 DESCRIPTION-091
+
+[Parameter4_92]
+Name=V-BOM-Desc_092
+Value=V03 DESCRIPTION-092
+
+[Parameter4_93]
+Name=V-BOM-Desc_093
+Value=V03 DESCRIPTION-093
+
+[Parameter4_94]
+Name=V-BOM-Desc_094
+Value=V03 DESCRIPTION-094
+
+[Parameter4_95]
+Name=V-BOM-Desc_095
+Value=V03 DESCRIPTION-095
+
+[Parameter4_96]
+Name=V-BOM-Desc_096
+Value=V03 DESCRIPTION-096
+
+[Parameter4_97]
+Name=V-BOM-Desc_097
+Value=V03 DESCRIPTION-097
+
+[Parameter4_98]
+Name=V-BOM-Desc_098
+Value=V03 DESCRIPTION-098
+
+[Parameter4_99]
+Name=V-BOM-Desc_099
+Value=V03 DESCRIPTION-099
+
+[Parameter4_100]
+Name=V-BOM-Desc_100
+Value=V03 DESCRIPTION-100
+
+[Parameter4_101]
+Name=V-BOM-Designators_001
+Value=V03 DESIGNATORS-001
+
+[Parameter4_102]
+Name=V-BOM-Designators_002
+Value=V03 DESIGNATORS-002
+
+[Parameter4_103]
+Name=V-BOM-Designators_003
+Value=V03 DESIGNATORS-003
+
+[Parameter4_104]
+Name=V-BOM-Designators_004
+Value=V03 DESIGNATORS-004
+
+[Parameter4_105]
+Name=V-BOM-Designators_005
+Value=V03 DESIGNATORS-005
+
+[Parameter4_106]
+Name=V-BOM-Designators_006
+Value=V03 DESIGNATORS-006
+
+[Parameter4_107]
+Name=V-BOM-Designators_007
+Value=V03 DESIGNATORS-007
+
+[Parameter4_108]
+Name=V-BOM-Designators_008
+Value=V03 DESIGNATORS-008
+
+[Parameter4_109]
+Name=V-BOM-Designators_009
+Value=V03 DESIGNATORS-009
+
+[Parameter4_110]
+Name=V-BOM-Designators_010
+Value=V03 DESIGNATORS-010
+
+[Parameter4_111]
+Name=V-BOM-Designators_011
+Value=V03 DESIGNATORS-011
+
+[Parameter4_112]
+Name=V-BOM-Designators_012
+Value=V03 DESIGNATORS-012
+
+[Parameter4_113]
+Name=V-BOM-Designators_013
+Value=V03 DESIGNATORS-013
+
+[Parameter4_114]
+Name=V-BOM-Designators_014
+Value=V03 DESIGNATORS-014
+
+[Parameter4_115]
+Name=V-BOM-Designators_015
+Value=V03 DESIGNATORS-015
+
+[Parameter4_116]
+Name=V-BOM-Designators_016
+Value=V03 DESIGNATORS-016
+
+[Parameter4_117]
+Name=V-BOM-Designators_017
+Value=V03 DESIGNATORS-017
+
+[Parameter4_118]
+Name=V-BOM-Designators_018
+Value=V03 DESIGNATORS-018
+
+[Parameter4_119]
+Name=V-BOM-Designators_019
+Value=V03 DESIGNATORS-019
+
+[Parameter4_120]
+Name=V-BOM-Designators_020
+Value=V03 DESIGNATORS-020
+
+[Parameter4_121]
+Name=V-BOM-Designators_021
+Value=V03 DESIGNATORS-021
+
+[Parameter4_122]
+Name=V-BOM-Designators_022
+Value=V03 DESIGNATORS-022
+
+[Parameter4_123]
+Name=V-BOM-Designators_023
+Value=V03 DESIGNATORS-023
+
+[Parameter4_124]
+Name=V-BOM-Designators_024
+Value=V03 DESIGNATORS-024
+
+[Parameter4_125]
+Name=V-BOM-Designators_025
+Value=V03 DESIGNATORS-025
+
+[Parameter4_126]
+Name=V-BOM-Designators_026
+Value=V03 DESIGNATORS-026
+
+[Parameter4_127]
+Name=V-BOM-Designators_027
+Value=V03 DESIGNATORS-027
+
+[Parameter4_128]
+Name=V-BOM-Designators_028
+Value=V03 DESIGNATORS-028
+
+[Parameter4_129]
+Name=V-BOM-Designators_029
+Value=V03 DESIGNATORS-029
+
+[Parameter4_130]
+Name=V-BOM-Designators_030
+Value=V03 DESIGNATORS-030
+
+[Parameter4_131]
+Name=V-BOM-Designators_031
+Value=V03 DESIGNATORS-031
+
+[Parameter4_132]
+Name=V-BOM-Designators_032
+Value=V03 DESIGNATORS-032
+
+[Parameter4_133]
+Name=V-BOM-Designators_033
+Value=V03 DESIGNATORS-033
+
+[Parameter4_134]
+Name=V-BOM-Designators_034
+Value=V03 DESIGNATORS-034
+
+[Parameter4_135]
+Name=V-BOM-Designators_035
+Value=V03 DESIGNATORS-035
+
+[Parameter4_136]
+Name=V-BOM-Designators_036
+Value=V03 DESIGNATORS-036
+
+[Parameter4_137]
+Name=V-BOM-Designators_037
+Value=V03 DESIGNATORS-037
+
+[Parameter4_138]
+Name=V-BOM-Designators_038
+Value=V03 DESIGNATORS-038
+
+[Parameter4_139]
+Name=V-BOM-Designators_039
+Value=V03 DESIGNATORS-039
+
+[Parameter4_140]
+Name=V-BOM-Designators_040
+Value=V03 DESIGNATORS-040
+
+[Parameter4_141]
+Name=V-BOM-Designators_041
+Value=V03 DESIGNATORS-041
+
+[Parameter4_142]
+Name=V-BOM-Designators_042
+Value=V03 DESIGNATORS-042
+
+[Parameter4_143]
+Name=V-BOM-Designators_043
+Value=V03 DESIGNATORS-043
+
+[Parameter4_144]
+Name=V-BOM-Designators_044
+Value=V03 DESIGNATORS-044
+
+[Parameter4_145]
+Name=V-BOM-Designators_045
+Value=V03 DESIGNATORS-045
+
+[Parameter4_146]
+Name=V-BOM-Designators_046
+Value=V03 DESIGNATORS-046
+
+[Parameter4_147]
+Name=V-BOM-Designators_047
+Value=V03 DESIGNATORS-047
+
+[Parameter4_148]
+Name=V-BOM-Designators_048
+Value=V03 DESIGNATORS-048
+
+[Parameter4_149]
+Name=V-BOM-Designators_049
+Value=V03 DESIGNATORS-049
+
+[Parameter4_150]
+Name=V-BOM-Designators_050
+Value=V03 DESIGNATORS-050
+
+[Parameter4_151]
+Name=V-BOM-Designators_051
+Value=V03 DESIGNATORS-051
+
+[Parameter4_152]
+Name=V-BOM-Designators_052
+Value=V03 DESIGNATORS-052
+
+[Parameter4_153]
+Name=V-BOM-Designators_053
+Value=V03 DESIGNATORS-053
+
+[Parameter4_154]
+Name=V-BOM-Designators_054
+Value=V03 DESIGNATORS-054
+
+[Parameter4_155]
+Name=V-BOM-Designators_055
+Value=V03 DESIGNATORS-055
+
+[Parameter4_156]
+Name=V-BOM-Designators_056
+Value=V03 DESIGNATORS-056
+
+[Parameter4_157]
+Name=V-BOM-Designators_057
+Value=V03 DESIGNATORS-057
+
+[Parameter4_158]
+Name=V-BOM-Designators_058
+Value=V03 DESIGNATORS-058
+
+[Parameter4_159]
+Name=V-BOM-Designators_059
+Value=V03 DESIGNATORS-059
+
+[Parameter4_160]
+Name=V-BOM-Designators_060
+Value=V03 DESIGNATORS-060
+
+[Parameter4_161]
+Name=V-BOM-Designators_061
+Value=V03 DESIGNATORS-061
+
+[Parameter4_162]
+Name=V-BOM-Designators_062
+Value=V03 DESIGNATORS-062
+
+[Parameter4_163]
+Name=V-BOM-Designators_063
+Value=V03 DESIGNATORS-063
+
+[Parameter4_164]
+Name=V-BOM-Designators_064
+Value=V03 DESIGNATORS-064
+
+[Parameter4_165]
+Name=V-BOM-Designators_065
+Value=V03 DESIGNATORS-065
+
+[Parameter4_166]
+Name=V-BOM-Designators_066
+Value=V03 DESIGNATORS-066
+
+[Parameter4_167]
+Name=V-BOM-Designators_067
+Value=V03 DESIGNATORS-067
+
+[Parameter4_168]
+Name=V-BOM-Designators_068
+Value=V03 DESIGNATORS-068
+
+[Parameter4_169]
+Name=V-BOM-Designators_069
+Value=V03 DESIGNATORS-069
+
+[Parameter4_170]
+Name=V-BOM-Designators_070
+Value=V03 DESIGNATORS-070
+
+[Parameter4_171]
+Name=V-BOM-Designators_071
+Value=V03 DESIGNATORS-071
+
+[Parameter4_172]
+Name=V-BOM-Designators_072
+Value=V03 DESIGNATORS-072
+
+[Parameter4_173]
+Name=V-BOM-Designators_073
+Value=V03 DESIGNATORS-073
+
+[Parameter4_174]
+Name=V-BOM-Designators_074
+Value=V03 DESIGNATORS-074
+
+[Parameter4_175]
+Name=V-BOM-Designators_075
+Value=V03 DESIGNATORS-075
+
+[Parameter4_176]
+Name=V-BOM-Designators_076
+Value=V03 DESIGNATORS-076
+
+[Parameter4_177]
+Name=V-BOM-Designators_077
+Value=V03 DESIGNATORS-077
+
+[Parameter4_178]
+Name=V-BOM-Designators_078
+Value=V03 DESIGNATORS-078
+
+[Parameter4_179]
+Name=V-BOM-Designators_079
+Value=V03 DESIGNATORS-079
+
+[Parameter4_180]
+Name=V-BOM-Designators_080
+Value=V03 DESIGNATORS-080
+
+[Parameter4_181]
+Name=V-BOM-Designators_081
+Value=V03 DESIGNATORS-081
+
+[Parameter4_182]
+Name=V-BOM-Designators_082
+Value=V03 DESIGNATORS-082
+
+[Parameter4_183]
+Name=V-BOM-Designators_083
+Value=V03 DESIGNATORS-083
+
+[Parameter4_184]
+Name=V-BOM-Designators_084
+Value=V03 DESIGNATORS-084
+
+[Parameter4_185]
+Name=V-BOM-Designators_085
+Value=V03 DESIGNATORS-085
+
+[Parameter4_186]
+Name=V-BOM-Designators_086
+Value=V03 DESIGNATORS-086
+
+[Parameter4_187]
+Name=V-BOM-Designators_087
+Value=V03 DESIGNATORS-087
+
+[Parameter4_188]
+Name=V-BOM-Designators_088
+Value=V03 DESIGNATORS-088
+
+[Parameter4_189]
+Name=V-BOM-Designators_089
+Value=V03 DESIGNATORS-089
+
+[Parameter4_190]
+Name=V-BOM-Designators_090
+Value=V03 DESIGNATORS-090
+
+[Parameter4_191]
+Name=V-BOM-Designators_091
+Value=V03 DESIGNATORS-091
+
+[Parameter4_192]
+Name=V-BOM-Designators_092
+Value=V03 DESIGNATORS-092
+
+[Parameter4_193]
+Name=V-BOM-Designators_093
+Value=V03 DESIGNATORS-093
+
+[Parameter4_194]
+Name=V-BOM-Designators_094
+Value=V03 DESIGNATORS-094
+
+[Parameter4_195]
+Name=V-BOM-Designators_095
+Value=V03 DESIGNATORS-095
+
+[Parameter4_196]
+Name=V-BOM-Designators_096
+Value=V03 DESIGNATORS-096
+
+[Parameter4_197]
+Name=V-BOM-Designators_097
+Value=V03 DESIGNATORS-097
+
+[Parameter4_198]
+Name=V-BOM-Designators_098
+Value=V03 DESIGNATORS-098
+
+[Parameter4_199]
+Name=V-BOM-Designators_099
+Value=V03 DESIGNATORS-099
+
+[Parameter4_200]
+Name=V-BOM-Designators_100
+Value=V03 DESIGNATORS-100
+
+[Parameter4_201]
+Name=V-BOM-FR_001
+Value=V03 FR-001
+
+[Parameter4_202]
+Name=V-BOM-FR_002
+Value=V03 FR-002
+
+[Parameter4_203]
+Name=V-BOM-FR_003
+Value=V03 FR-003
+
+[Parameter4_204]
+Name=V-BOM-FR_004
+Value=V03 FR-004
+
+[Parameter4_205]
+Name=V-BOM-FR_005
+Value=V03 FR-005
+
+[Parameter4_206]
+Name=V-BOM-FR_006
+Value=V03 FR-006
+
+[Parameter4_207]
+Name=V-BOM-FR_007
+Value=V03 FR-007
+
+[Parameter4_208]
+Name=V-BOM-FR_008
+Value=V03 FR-008
+
+[Parameter4_209]
+Name=V-BOM-FR_009
+Value=V03 FR-009
+
+[Parameter4_210]
+Name=V-BOM-FR_010
+Value=V03 FR-010
+
+[Parameter4_211]
+Name=V-BOM-FR_011
+Value=V03 FR-011
+
+[Parameter4_212]
+Name=V-BOM-FR_012
+Value=V03 FR-012
+
+[Parameter4_213]
+Name=V-BOM-FR_013
+Value=V03 FR-013
+
+[Parameter4_214]
+Name=V-BOM-FR_014
+Value=V03 FR-014
+
+[Parameter4_215]
+Name=V-BOM-FR_015
+Value=V03 FR-015
+
+[Parameter4_216]
+Name=V-BOM-FR_016
+Value=V03 FR-016
+
+[Parameter4_217]
+Name=V-BOM-FR_017
+Value=V03 FR-017
+
+[Parameter4_218]
+Name=V-BOM-FR_018
+Value=V03 FR-018
+
+[Parameter4_219]
+Name=V-BOM-FR_019
+Value=V03 FR-019
+
+[Parameter4_220]
+Name=V-BOM-FR_020
+Value=V03 FR-020
+
+[Parameter4_221]
+Name=V-BOM-FR_021
+Value=V03 FR-021
+
+[Parameter4_222]
+Name=V-BOM-FR_022
+Value=V03 FR-022
+
+[Parameter4_223]
+Name=V-BOM-FR_023
+Value=V03 FR-023
+
+[Parameter4_224]
+Name=V-BOM-FR_024
+Value=V03 FR-024
+
+[Parameter4_225]
+Name=V-BOM-FR_025
+Value=V03 FR-025
+
+[Parameter4_226]
+Name=V-BOM-FR_026
+Value=V03 FR-026
+
+[Parameter4_227]
+Name=V-BOM-FR_027
+Value=V03 FR-027
+
+[Parameter4_228]
+Name=V-BOM-FR_028
+Value=V03 FR-028
+
+[Parameter4_229]
+Name=V-BOM-FR_029
+Value=V03 FR-029
+
+[Parameter4_230]
+Name=V-BOM-FR_030
+Value=V03 FR-030
+
+[Parameter4_231]
+Name=V-BOM-FR_031
+Value=V03 FR-031
+
+[Parameter4_232]
+Name=V-BOM-FR_032
+Value=V03 FR-032
+
+[Parameter4_233]
+Name=V-BOM-FR_033
+Value=V03 FR-033
+
+[Parameter4_234]
+Name=V-BOM-FR_034
+Value=V03 FR-034
+
+[Parameter4_235]
+Name=V-BOM-FR_035
+Value=V03 FR-035
+
+[Parameter4_236]
+Name=V-BOM-FR_036
+Value=V03 FR-036
+
+[Parameter4_237]
+Name=V-BOM-FR_037
+Value=V03 FR-037
+
+[Parameter4_238]
+Name=V-BOM-FR_038
+Value=V03 FR-038
+
+[Parameter4_239]
+Name=V-BOM-FR_039
+Value=V03 FR-039
+
+[Parameter4_240]
+Name=V-BOM-FR_040
+Value=V03 FR-040
+
+[Parameter4_241]
+Name=V-BOM-FR_041
+Value=V03 FR-041
+
+[Parameter4_242]
+Name=V-BOM-FR_042
+Value=V03 FR-042
+
+[Parameter4_243]
+Name=V-BOM-FR_043
+Value=V03 FR-043
+
+[Parameter4_244]
+Name=V-BOM-FR_044
+Value=V03 FR-044
+
+[Parameter4_245]
+Name=V-BOM-FR_045
+Value=V03 FR-045
+
+[Parameter4_246]
+Name=V-BOM-FR_046
+Value=V03 FR-046
+
+[Parameter4_247]
+Name=V-BOM-FR_047
+Value=V03 FR-047
+
+[Parameter4_248]
+Name=V-BOM-FR_048
+Value=V03 FR-048
+
+[Parameter4_249]
+Name=V-BOM-FR_049
+Value=V03 FR-049
+
+[Parameter4_250]
+Name=V-BOM-FR_050
+Value=V03 FR-050
+
+[Parameter4_251]
+Name=V-BOM-FR_051
+Value=V03 FR-051
+
+[Parameter4_252]
+Name=V-BOM-FR_052
+Value=V03 FR-052
+
+[Parameter4_253]
+Name=V-BOM-FR_053
+Value=V03 FR-053
+
+[Parameter4_254]
+Name=V-BOM-FR_054
+Value=V03 FR-054
+
+[Parameter4_255]
+Name=V-BOM-FR_055
+Value=V03 FR-055
+
+[Parameter4_256]
+Name=V-BOM-FR_056
+Value=V03 FR-056
+
+[Parameter4_257]
+Name=V-BOM-FR_057
+Value=V03 FR-057
+
+[Parameter4_258]
+Name=V-BOM-FR_058
+Value=V03 FR-058
+
+[Parameter4_259]
+Name=V-BOM-FR_059
+Value=V03 FR-059
+
+[Parameter4_260]
+Name=V-BOM-FR_060
+Value=V03 FR-060
+
+[Parameter4_261]
+Name=V-BOM-FR_061
+Value=V03 FR-061
+
+[Parameter4_262]
+Name=V-BOM-FR_062
+Value=V03 FR-062
+
+[Parameter4_263]
+Name=V-BOM-FR_063
+Value=V03 FR-063
+
+[Parameter4_264]
+Name=V-BOM-FR_064
+Value=V03 FR-064
+
+[Parameter4_265]
+Name=V-BOM-FR_065
+Value=V03 FR-065
+
+[Parameter4_266]
+Name=V-BOM-FR_066
+Value=V03 FR-066
+
+[Parameter4_267]
+Name=V-BOM-FR_067
+Value=V03 FR-067
+
+[Parameter4_268]
+Name=V-BOM-FR_068
+Value=V03 FR-068
+
+[Parameter4_269]
+Name=V-BOM-FR_069
+Value=V03 FR-069
+
+[Parameter4_270]
+Name=V-BOM-FR_070
+Value=V03 FR-070
+
+[Parameter4_271]
+Name=V-BOM-FR_071
+Value=V03 FR-071
+
+[Parameter4_272]
+Name=V-BOM-FR_072
+Value=V03 FR-072
+
+[Parameter4_273]
+Name=V-BOM-FR_073
+Value=V03 FR-073
+
+[Parameter4_274]
+Name=V-BOM-FR_074
+Value=V03 FR-074
+
+[Parameter4_275]
+Name=V-BOM-FR_075
+Value=V03 FR-075
+
+[Parameter4_276]
+Name=V-BOM-FR_076
+Value=V03 FR-076
+
+[Parameter4_277]
+Name=V-BOM-FR_077
+Value=V03 FR-077
+
+[Parameter4_278]
+Name=V-BOM-FR_078
+Value=V03 FR-078
+
+[Parameter4_279]
+Name=V-BOM-FR_079
+Value=V03 FR-079
+
+[Parameter4_280]
+Name=V-BOM-FR_080
+Value=V03 FR-080
+
+[Parameter4_281]
+Name=V-BOM-FR_081
+Value=V03 FR-081
+
+[Parameter4_282]
+Name=V-BOM-FR_082
+Value=V03 FR-082
+
+[Parameter4_283]
+Name=V-BOM-FR_083
+Value=V03 FR-083
+
+[Parameter4_284]
+Name=V-BOM-FR_084
+Value=V03 FR-084
+
+[Parameter4_285]
+Name=V-BOM-FR_085
+Value=V03 FR-085
+
+[Parameter4_286]
+Name=V-BOM-FR_086
+Value=V03 FR-086
+
+[Parameter4_287]
+Name=V-BOM-FR_087
+Value=V03 FR-087
+
+[Parameter4_288]
+Name=V-BOM-FR_088
+Value=V03 FR-088
+
+[Parameter4_289]
+Name=V-BOM-FR_089
+Value=V03 FR-089
+
+[Parameter4_290]
+Name=V-BOM-FR_090
+Value=V03 FR-090
+
+[Parameter4_291]
+Name=V-BOM-FR_091
+Value=V03 FR-091
+
+[Parameter4_292]
+Name=V-BOM-FR_092
+Value=V03 FR-092
+
+[Parameter4_293]
+Name=V-BOM-FR_093
+Value=V03 FR-093
+
+[Parameter4_294]
+Name=V-BOM-FR_094
+Value=V03 FR-094
+
+[Parameter4_295]
+Name=V-BOM-FR_095
+Value=V03 FR-095
+
+[Parameter4_296]
+Name=V-BOM-FR_096
+Value=V03 FR-096
+
+[Parameter4_297]
+Name=V-BOM-FR_097
+Value=V03 FR-097
+
+[Parameter4_298]
+Name=V-BOM-FR_098
+Value=V03 FR-098
+
+[Parameter4_299]
+Name=V-BOM-FR_099
+Value=V03 FR-099
+
+[Parameter4_300]
+Name=V-BOM-FR_100
+Value=V03 FR-100
+
+[Parameter4_301]
+Name=V-BOM-Qty_001
+Value=3V001
+
+[Parameter4_302]
+Name=V-BOM-Qty_002
+Value=3V002
+
+[Parameter4_303]
+Name=V-BOM-Qty_003
+Value=3V003
+
+[Parameter4_304]
+Name=V-BOM-Qty_004
+Value=3V004
+
+[Parameter4_305]
+Name=V-BOM-Qty_005
+Value=3V005
+
+[Parameter4_306]
+Name=V-BOM-Qty_006
+Value=3V006
+
+[Parameter4_307]
+Name=V-BOM-Qty_007
+Value=3V007
+
+[Parameter4_308]
+Name=V-BOM-Qty_008
+Value=3V008
+
+[Parameter4_309]
+Name=V-BOM-Qty_009
+Value=3V009
+
+[Parameter4_310]
+Name=V-BOM-Qty_010
+Value=3V010
+
+[Parameter4_311]
+Name=V-BOM-Qty_011
+Value=3V011
+
+[Parameter4_312]
+Name=V-BOM-Qty_012
+Value=3V012
+
+[Parameter4_313]
+Name=V-BOM-Qty_013
+Value=3V013
+
+[Parameter4_314]
+Name=V-BOM-Qty_014
+Value=3V014
+
+[Parameter4_315]
+Name=V-BOM-Qty_015
+Value=3V015
+
+[Parameter4_316]
+Name=V-BOM-Qty_016
+Value=3V016
+
+[Parameter4_317]
+Name=V-BOM-Qty_017
+Value=3V017
+
+[Parameter4_318]
+Name=V-BOM-Qty_018
+Value=3V018
+
+[Parameter4_319]
+Name=V-BOM-Qty_019
+Value=3V019
+
+[Parameter4_320]
+Name=V-BOM-Qty_020
+Value=3V020
+
+[Parameter4_321]
+Name=V-BOM-Qty_021
+Value=3V021
+
+[Parameter4_322]
+Name=V-BOM-Qty_022
+Value=3V022
+
+[Parameter4_323]
+Name=V-BOM-Qty_023
+Value=3V023
+
+[Parameter4_324]
+Name=V-BOM-Qty_024
+Value=3V024
+
+[Parameter4_325]
+Name=V-BOM-Qty_025
+Value=3V025
+
+[Parameter4_326]
+Name=V-BOM-Qty_026
+Value=3V026
+
+[Parameter4_327]
+Name=V-BOM-Qty_027
+Value=3V027
+
+[Parameter4_328]
+Name=V-BOM-Qty_028
+Value=3V028
+
+[Parameter4_329]
+Name=V-BOM-Qty_029
+Value=3V029
+
+[Parameter4_330]
+Name=V-BOM-Qty_030
+Value=3V030
+
+[Parameter4_331]
+Name=V-BOM-Qty_031
+Value=3V031
+
+[Parameter4_332]
+Name=V-BOM-Qty_032
+Value=3V032
+
+[Parameter4_333]
+Name=V-BOM-Qty_033
+Value=3V033
+
+[Parameter4_334]
+Name=V-BOM-Qty_034
+Value=3V034
+
+[Parameter4_335]
+Name=V-BOM-Qty_035
+Value=3V035
+
+[Parameter4_336]
+Name=V-BOM-Qty_036
+Value=3V036
+
+[Parameter4_337]
+Name=V-BOM-Qty_037
+Value=3V037
+
+[Parameter4_338]
+Name=V-BOM-Qty_038
+Value=3V038
+
+[Parameter4_339]
+Name=V-BOM-Qty_039
+Value=3V039
+
+[Parameter4_340]
+Name=V-BOM-Qty_040
+Value=3V040
+
+[Parameter4_341]
+Name=V-BOM-Qty_041
+Value=3V041
+
+[Parameter4_342]
+Name=V-BOM-Qty_042
+Value=3V042
+
+[Parameter4_343]
+Name=V-BOM-Qty_043
+Value=3V043
+
+[Parameter4_344]
+Name=V-BOM-Qty_044
+Value=3V044
+
+[Parameter4_345]
+Name=V-BOM-Qty_045
+Value=3V045
+
+[Parameter4_346]
+Name=V-BOM-Qty_046
+Value=3V046
+
+[Parameter4_347]
+Name=V-BOM-Qty_047
+Value=3V047
+
+[Parameter4_348]
+Name=V-BOM-Qty_048
+Value=3V048
+
+[Parameter4_349]
+Name=V-BOM-Qty_049
+Value=3V049
+
+[Parameter4_350]
+Name=V-BOM-Qty_050
+Value=3V050
+
+[Parameter4_351]
+Name=V-BOM-Qty_051
+Value=3V051
+
+[Parameter4_352]
+Name=V-BOM-Qty_052
+Value=3V052
+
+[Parameter4_353]
+Name=V-BOM-Qty_053
+Value=3V053
+
+[Parameter4_354]
+Name=V-BOM-Qty_054
+Value=3V054
+
+[Parameter4_355]
+Name=V-BOM-Qty_055
+Value=3V055
+
+[Parameter4_356]
+Name=V-BOM-Qty_056
+Value=3V056
+
+[Parameter4_357]
+Name=V-BOM-Qty_057
+Value=3V057
+
+[Parameter4_358]
+Name=V-BOM-Qty_058
+Value=3V058
+
+[Parameter4_359]
+Name=V-BOM-Qty_059
+Value=3V059
+
+[Parameter4_360]
+Name=V-BOM-Qty_060
+Value=3V060
+
+[Parameter4_361]
+Name=V-BOM-Qty_061
+Value=3V061
+
+[Parameter4_362]
+Name=V-BOM-Qty_062
+Value=3V062
+
+[Parameter4_363]
+Name=V-BOM-Qty_063
+Value=3V063
+
+[Parameter4_364]
+Name=V-BOM-Qty_064
+Value=3V064
+
+[Parameter4_365]
+Name=V-BOM-Qty_065
+Value=3V065
+
+[Parameter4_366]
+Name=V-BOM-Qty_066
+Value=3V066
+
+[Parameter4_367]
+Name=V-BOM-Qty_067
+Value=3V067
+
+[Parameter4_368]
+Name=V-BOM-Qty_068
+Value=3V068
+
+[Parameter4_369]
+Name=V-BOM-Qty_069
+Value=3V069
+
+[Parameter4_370]
+Name=V-BOM-Qty_070
+Value=3V070
+
+[Parameter4_371]
+Name=V-BOM-Qty_071
+Value=3V071
+
+[Parameter4_372]
+Name=V-BOM-Qty_072
+Value=3V072
+
+[Parameter4_373]
+Name=V-BOM-Qty_073
+Value=3V073
+
+[Parameter4_374]
+Name=V-BOM-Qty_074
+Value=3V074
+
+[Parameter4_375]
+Name=V-BOM-Qty_075
+Value=3V075
+
+[Parameter4_376]
+Name=V-BOM-Qty_076
+Value=3V076
+
+[Parameter4_377]
+Name=V-BOM-Qty_077
+Value=3V077
+
+[Parameter4_378]
+Name=V-BOM-Qty_078
+Value=3V078
+
+[Parameter4_379]
+Name=V-BOM-Qty_079
+Value=3V079
+
+[Parameter4_380]
+Name=V-BOM-Qty_080
+Value=3V080
+
+[Parameter4_381]
+Name=V-BOM-Qty_081
+Value=3V081
+
+[Parameter4_382]
+Name=V-BOM-Qty_082
+Value=3V082
+
+[Parameter4_383]
+Name=V-BOM-Qty_083
+Value=3V083
+
+[Parameter4_384]
+Name=V-BOM-Qty_084
+Value=3V084
+
+[Parameter4_385]
+Name=V-BOM-Qty_085
+Value=3V085
+
+[Parameter4_386]
+Name=V-BOM-Qty_086
+Value=3V086
+
+[Parameter4_387]
+Name=V-BOM-Qty_087
+Value=3V087
+
+[Parameter4_388]
+Name=V-BOM-Qty_088
+Value=3V088
+
+[Parameter4_389]
+Name=V-BOM-Qty_089
+Value=3V089
+
+[Parameter4_390]
+Name=V-BOM-Qty_090
+Value=3V090
+
+[Parameter4_391]
+Name=V-BOM-Qty_091
+Value=3V091
+
+[Parameter4_392]
+Name=V-BOM-Qty_092
+Value=3V092
+
+[Parameter4_393]
+Name=V-BOM-Qty_093
+Value=3V093
+
+[Parameter4_394]
+Name=V-BOM-Qty_094
+Value=3V094
+
+[Parameter4_395]
+Name=V-BOM-Qty_095
+Value=3V095
+
+[Parameter4_396]
+Name=V-BOM-Qty_096
+Value=3V096
+
+[Parameter4_397]
+Name=V-BOM-Qty_097
+Value=3V097
+
+[Parameter4_398]
+Name=V-BOM-Qty_098
+Value=3V098
+
+[Parameter4_399]
+Name=V-BOM-Qty_099
+Value=3V099
+
+[Parameter4_400]
+Name=V-BOM-Qty_100
+Value=3V100
+
+[Parameter4_401]
+Name=VariantAssemblyApprovedBy
+Value=VA3
+
+[Parameter4_402]
+Name=VariantAssemblyCheckedBy
+Value=VA3
+
+[Parameter4_403]
+Name=VariantAssemblyDate
+Value=VA3
+
+[Parameter4_404]
+Name=VariantAssemblyDrawnBy
+Value=VA3
+
+[Parameter4_405]
+Name=VariantAssemblyFrNumber
+Value=VA3
+
+[Parameter4_406]
+Name=VariantAssemblyRegulatoryBlockCheckABS
+Value=VA3
+
+[Parameter4_407]
+Name=VariantAssemblyRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=VA3
+
+[Parameter4_408]
+Name=VariantAssemblyRegulatoryBlockCheckATEX_ELEMENT
+Value=VA3
+
+[Parameter4_409]
+Name=VariantAssemblyRegulatoryBlockCheckATEX_UL_DEMKO
+Value=VA3
+
+[Parameter4_410]
+Name=VariantAssemblyRegulatoryBlockCheckCE
+Value=VA3
+
+[Parameter4_411]
+Name=VariantAssemblyRegulatoryBlockCheckCSA
+Value=VA3
+
+[Parameter4_412]
+Name=VariantAssemblyRegulatoryBlockCheckFM
+Value=VA3
+
+[Parameter4_413]
+Name=VariantAssemblyRegulatoryBlockCheckIECEx_DEKRA
+Value=VA3
+
+[Parameter4_414]
+Name=VariantAssemblyRegulatoryBlockCheckIECEx_ELEMENT
+Value=VA3
+
+[Parameter4_415]
+Name=VariantAssemblyRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=VA3
+
+[Parameter4_416]
+Name=VariantAssemblyRegulatoryBlockCheckINMETRO_NCC
+Value=VA3
+
+[Parameter4_417]
+Name=VariantAssemblyRegulatoryBlockCheckKTL
+Value=VA3
+
+[Parameter4_418]
+Name=VariantAssemblyRegulatoryBlockCheckNSF
+Value=VA3
+
+[Parameter4_419]
+Name=VariantAssemblyRegulatoryBlockCheckPLENUM
+Value=VA3
+
+[Parameter4_420]
+Name=VariantAssemblyRegulatoryBlockCheckRCM
+Value=VA3
+
+[Parameter4_421]
+Name=VariantAssemblyRegulatoryBlockCheckUL
+Value=VA3
+
+[Parameter4_422]
+Name=VariantAssemblyRegulatoryBlockCheckWIRELESS
+Value=VA3
+
+[Parameter4_423]
+Name=VariantAssemblyRevisionABy
+Value=VA3
+
+[Parameter4_424]
+Name=VariantAssemblyRevisionAChange
+Value=VA3
+
+[Parameter4_425]
+Name=VariantAssemblyRevisionADate
+Value=VA3
+
+[Parameter4_426]
+Name=VariantAssemblyRevisionANumber
+Value=VA3
+
+[Parameter4_427]
+Name=VariantAssemblyRevisionBBy
+Value=VA3
+
+[Parameter4_428]
+Name=VariantAssemblyRevisionBChange
+Value=VA3
+
+[Parameter4_429]
+Name=VariantAssemblyRevisionBDate
+Value=VA3
+
+[Parameter4_430]
+Name=VariantAssemblyRevisionBNumber
+Value=VA3
+
+[Parameter4_431]
+Name=VariantAssemblyRevisionCBy
+Value=VA3
+
+[Parameter4_432]
+Name=VariantAssemblyRevisionCChange
+Value=VA3
+
+[Parameter4_433]
+Name=VariantAssemblyRevisionCDate
+Value=VA3
+
+[Parameter4_434]
+Name=VariantAssemblyRevisionCNumber
+Value=VA3
+
+[Parameter4_435]
+Name=VariantAssemblyRevisionDBy
+Value=VA3
+
+[Parameter4_436]
+Name=VariantAssemblyRevisionDChange
+Value=VA3
+
+[Parameter4_437]
+Name=VariantAssemblyRevisionDDate
+Value=VA3
+
+[Parameter4_438]
+Name=VariantAssemblyRevisionDNumber
+Value=VA3
+
+[Parameter4_439]
+Name=VariantAssemblySheetNumber
+Value=VA3
+
+[Parameter4_440]
+Name=VariantAssemblySheetTotal
+Value=VA3
+
+[Parameter4_441]
+Name=VariantAssemblyTitle1
+Value=VA3
+
+[Parameter4_442]
+Name=VariantAssemblyTitle2
+Value=VA3
+
+[Parameter4_443]
+Name=VariantAssemblyVersionNumber
+Value=VA3
+
+[Parameter4_444]
+Name=VariantPCBApprovedBy
+Value=VP3
+
+[Parameter4_445]
+Name=VariantPCBCheckedBy
+Value=VP3
+
+[Parameter4_446]
+Name=VariantPCBDate
+Value=VP3
+
+[Parameter4_447]
+Name=VariantPCBDrawnBy
+Value=VP3
+
+[Parameter4_448]
+Name=VariantPCBFrNumber
+Value=VP3
+
+[Parameter4_449]
+Name=VariantPCBPanelSheetNumber
+Value=vp3
+
+[Parameter4_450]
+Name=VariantPCBPanelTitle1
+Value=vp3
+
+[Parameter4_451]
+Name=VariantPCBPanelTitle2
+Value=vp3
+
+[Parameter4_452]
+Name=VariantPCBRegulatoryBlockCheckABS
+Value=VP3
+
+[Parameter4_453]
+Name=VariantPCBRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=VP3
+
+[Parameter4_454]
+Name=VariantPCBRegulatoryBlockCheckATEX_ELEMENT
+Value=VP3
+
+[Parameter4_455]
+Name=VariantPCBRegulatoryBlockCheckATEX_UL_DEMKO
+Value=VP3
+
+[Parameter4_456]
+Name=VariantPCBRegulatoryBlockCheckCE
+Value=VP3
+
+[Parameter4_457]
+Name=VariantPCBRegulatoryBlockCheckCSA
+Value=VP3
+
+[Parameter4_458]
+Name=VariantPCBRegulatoryBlockCheckFM
+Value=VP3
+
+[Parameter4_459]
+Name=VariantPCBRegulatoryBlockCheckIECEx_DEKRA
+Value=VP3
+
+[Parameter4_460]
+Name=VariantPCBRegulatoryBlockCheckIECEx_ELEMENT
+Value=VP3
+
+[Parameter4_461]
+Name=VariantPCBRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=VP3
+
+[Parameter4_462]
+Name=VariantPCBRegulatoryBlockCheckINMETRO_NCC
+Value=VP3
+
+[Parameter4_463]
+Name=VariantPCBRegulatoryBlockCheckKTL
+Value=VP3
+
+[Parameter4_464]
+Name=VariantPCBRegulatoryBlockCheckNSF
+Value=VP3
+
+[Parameter4_465]
+Name=VariantPCBRegulatoryBlockCheckPLENUM
+Value=VP3
+
+[Parameter4_466]
+Name=VariantPCBRegulatoryBlockCheckRCM
+Value=VP3
+
+[Parameter4_467]
+Name=VariantPCBRegulatoryBlockCheckUL
+Value=VP3
+
+[Parameter4_468]
+Name=VariantPCBRegulatoryBlockCheckWIRELESS
+Value=VP3
+
+[Parameter4_469]
+Name=VariantPCBRevisionABy
+Value=VP3
+
+[Parameter4_470]
+Name=VariantPCBRevisionAChange
+Value=VP3
+
+[Parameter4_471]
+Name=VariantPCBRevisionADate
+Value=VP3
+
+[Parameter4_472]
+Name=VariantPCBRevisionANumber
+Value=VP3
+
+[Parameter4_473]
+Name=VariantPCBRevisionBBy
+Value=VP3
+
+[Parameter4_474]
+Name=VariantPCBRevisionBChange
+Value=VP3
+
+[Parameter4_475]
+Name=VariantPCBRevisionBDate
+Value=VP3
+
+[Parameter4_476]
+Name=VariantPCBRevisionBNumber
+Value=VP3
+
+[Parameter4_477]
+Name=VariantPCBRevisionCBy
+Value=VP3
+
+[Parameter4_478]
+Name=VariantPCBRevisionCChange
+Value=VP3
+
+[Parameter4_479]
+Name=VariantPCBRevisionCDate
+Value=VP3
+
+[Parameter4_480]
+Name=VariantPCBRevisionCNumber
+Value=VP3
+
+[Parameter4_481]
+Name=VariantPCBRevisionDBy
+Value=VP3
+
+[Parameter4_482]
+Name=VariantPCBRevisionDChange
+Value=VP3
+
+[Parameter4_483]
+Name=VariantPCBRevisionDDate
+Value=VP3
+
+[Parameter4_484]
+Name=VariantPCBRevisionDNumber
+Value=VP3
+
+[Parameter4_485]
+Name=VariantPCBSheetNumber
+Value=VP3
+
+[Parameter4_486]
+Name=VariantPCBSheetTotal
+Value=VP3
+
+[Parameter4_487]
+Name=VariantPCBTestpointsSheetNumber
+Value=VT3
+
+[Parameter4_488]
+Name=VariantPCBTestpointsTitle1
+Value=VT3
+
+[Parameter4_489]
+Name=VariantPCBTestpointsTitle2
+Value=VT3
+
+[Parameter4_490]
+Name=VariantPCBTitle1
+Value=VP3
+
+[Parameter4_491]
+Name=VariantPCBTitle2
+Value=VP3
+
+[Parameter4_492]
+Name=VariantSchematicApprovedBy
+Value=VS3
+
+[Parameter4_493]
+Name=VariantSchematicCheckedBy
+Value=VS3
+
+[Parameter4_494]
+Name=VariantSchematicDate
+Value=VS3
+
+[Parameter4_495]
+Name=VariantSchematicDrawnBy
+Value=VS3
+
+[Parameter4_496]
+Name=VariantSchematicFrNumber
+Value=VS3
+
+[Parameter4_497]
+Name=VariantSchematicRegulatoryBlockCheckABS
+Value=VS3
+
+[Parameter4_498]
+Name=VariantSchematicRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=VS3
+
+[Parameter4_499]
+Name=VariantSchematicRegulatoryBlockCheckATEX_ELEMENT
+Value=VS3
+
+[Parameter4_500]
+Name=VariantSchematicRegulatoryBlockCheckATEX_UL_DEMKO
+Value=VS3
+
+[Parameter4_501]
+Name=VariantSchematicRegulatoryBlockCheckCE
+Value=VS3
+
+[Parameter4_502]
+Name=VariantSchematicRegulatoryBlockCheckCSA
+Value=VS3
+
+[Parameter4_503]
+Name=VariantSchematicRegulatoryBlockCheckFM
+Value=VS3
+
+[Parameter4_504]
+Name=VariantSchematicRegulatoryBlockCheckIECEx_DEKRA
+Value=VS3
+
+[Parameter4_505]
+Name=VariantSchematicRegulatoryBlockCheckIECEx_ELEMENT
+Value=VS3
+
+[Parameter4_506]
+Name=VariantSchematicRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=VS3
+
+[Parameter4_507]
+Name=VariantSchematicRegulatoryBlockCheckINMETRO_NCC
+Value=VS3
+
+[Parameter4_508]
+Name=VariantSchematicRegulatoryBlockCheckKC_KTL
+Value=VS3
+
+[Parameter4_509]
+Name=VariantSchematicRegulatoryBlockCheckNSF
+Value=VS3
+
+[Parameter4_510]
+Name=VariantSchematicRegulatoryBlockCheckPLENUM
+Value=VS3
+
+[Parameter4_511]
+Name=VariantSchematicRegulatoryBlockCheckRCM
+Value=VS3
+
+[Parameter4_512]
+Name=VariantSchematicRegulatoryBlockCheckUL
+Value=VS3
+
+[Parameter4_513]
+Name=VariantSchematicRegulatoryBlockCheckWIRELESS
+Value=VS3
+
+[Parameter4_514]
+Name=VariantSchematicRevisionABy
+Value=VS3
+
+[Parameter4_515]
+Name=VariantSchematicRevisionAChange
+Value=VS3
+
+[Parameter4_516]
+Name=VariantSchematicRevisionAChangeLine1
+Value=VS3
+
+[Parameter4_517]
+Name=VariantSchematicRevisionAChangeLine2
+Value=VS3
+
+[Parameter4_518]
+Name=VariantSchematicRevisionADate
+Value=VS3
+
+[Parameter4_519]
+Name=VariantSchematicRevisionANumber
+Value=VS3
+
+[Parameter4_520]
+Name=VariantSchematicRevisionBBy
+Value=VS3
+
+[Parameter4_521]
+Name=VariantSchematicRevisionBChange
+Value=VS3
+
+[Parameter4_522]
+Name=VariantSchematicRevisionBChangeLine1
+Value=VS3
+
+[Parameter4_523]
+Name=VariantSchematicRevisionBChangeLine2
+Value=VS3
+
+[Parameter4_524]
+Name=VariantSchematicRevisionBDate
+Value=VS3
+
+[Parameter4_525]
+Name=VariantSchematicRevisionBNumber
+Value=VS3
+
+[Parameter4_526]
+Name=VariantSchematicRevisionCBy
+Value=VS3
+
+[Parameter4_527]
+Name=VariantSchematicRevisionCChange
+Value=VS3
+
+[Parameter4_528]
+Name=VariantSchematicRevisionCChangeLine1
+Value=VS3
+
+[Parameter4_529]
+Name=VariantSchematicRevisionCChangeLine2
+Value=VS3
+
+[Parameter4_530]
+Name=VariantSchematicRevisionCDate
+Value=VS3
+
+[Parameter4_531]
+Name=VariantSchematicRevisionCNumber
+Value=VS3
+
+[Parameter4_532]
+Name=VariantSchematicRevisionDBy
+Value=VS3
+
+[Parameter4_533]
+Name=VariantSchematicRevisionDChange
+Value=VS3
+
+[Parameter4_534]
+Name=VariantSchematicRevisionDChangeLine1
+Value=VS3
+
+[Parameter4_535]
+Name=VariantSchematicRevisionDChangeLine2
+Value=VS3
+
+[Parameter4_536]
+Name=VariantSchematicRevisionDDate
+Value=VS3
+
+[Parameter4_537]
+Name=VariantSchematicRevisionDNumber
+Value=VS3
+
+[Parameter4_538]
+Name=VariantSchematicSheetTotal
+Value=VS3
+
+[Parameter4_539]
+Name=VariantSchematicTitle1
+Value=VS3
+
+[Parameter4_540]
+Name=VariantSchematicTitle2
+Value=VS3
+
+[Parameter1]
+Name=P-BOM-Designators_100
+Value=PRJ DESIGNATORS-100
+
+[Parameter2]
+Name=P-BOM-Designators_099
+Value=PRJ DESIGNATORS-099
+
+[Parameter3]
+Name=P-BOM-Designators_098
+Value=PRJ DESIGNATORS-098
+
+[Parameter4]
+Name=P-BOM-Designators_097
+Value=PRJ DESIGNATORS-097
+
+[Parameter5]
+Name=P-BOM-Designators_096
+Value=PRJ DESIGNATORS-096
+
+[Parameter6]
+Name=P-BOM-Designators_095
+Value=PRJ DESIGNATORS-095
+
+[Parameter7]
+Name=P-BOM-Designators_094
+Value=PRJ DESIGNATORS-094
+
+[Parameter8]
+Name=P-BOM-Designators_093
+Value=PRJ DESIGNATORS-093
+
+[Parameter9]
+Name=P-BOM-Designators_092
+Value=PRJ DESIGNATORS-092
+
+[Parameter10]
+Name=P-BOM-Designators_091
+Value=PRJ DESIGNATORS-091
+
+[Parameter11]
+Name=P-BOM-Designators_090
+Value=PRJ DESIGNATORS-090
+
+[Parameter12]
+Name=P-BOM-Designators_089
+Value=PRJ DESIGNATORS-089
+
+[Parameter13]
+Name=P-BOM-Designators_088
+Value=PRJ DESIGNATORS-088
+
+[Parameter14]
+Name=P-BOM-Designators_087
+Value=PRJ DESIGNATORS-087
+
+[Parameter15]
+Name=P-BOM-Designators_086
+Value=PRJ DESIGNATORS-086
+
+[Parameter16]
+Name=P-BOM-Designators_085
+Value=PRJ DESIGNATORS-085
+
+[Parameter17]
+Name=P-BOM-Designators_084
+Value=PRJ DESIGNATORS-084
+
+[Parameter18]
+Name=P-BOM-Designators_083
+Value=PRJ DESIGNATORS-083
+
+[Parameter19]
+Name=P-BOM-Designators_082
+Value=PRJ DESIGNATORS-082
+
+[Parameter20]
+Name=P-BOM-Designators_081
+Value=PRJ DESIGNATORS-081
+
+[Parameter21]
+Name=P-BOM-Designators_080
+Value=PRJ DESIGNATORS-080
+
+[Parameter22]
+Name=P-BOM-Designators_079
+Value=PRJ DESIGNATORS-079
+
+[Parameter23]
+Name=P-BOM-Designators_078
+Value=PRJ DESIGNATORS-078
+
+[Parameter24]
+Name=P-BOM-Designators_077
+Value=PRJ DESIGNATORS-077
+
+[Parameter25]
+Name=P-BOM-Designators_076
+Value=PRJ DESIGNATORS-076
+
+[Parameter26]
+Name=P-BOM-Designators_075
+Value=PRJ DESIGNATORS-075
+
+[Parameter27]
+Name=P-BOM-Designators_074
+Value=PRJ DESIGNATORS-074
+
+[Parameter28]
+Name=P-BOM-Designators_073
+Value=PRJ DESIGNATORS-073
+
+[Parameter29]
+Name=P-BOM-Designators_072
+Value=PRJ DESIGNATORS-072
+
+[Parameter30]
+Name=P-BOM-Designators_071
+Value=PRJ DESIGNATORS-071
+
+[Parameter31]
+Name=P-BOM-Designators_070
+Value=PRJ DESIGNATORS-070
+
+[Parameter32]
+Name=P-BOM-Designators_069
+Value=PRJ DESIGNATORS-069
+
+[Parameter33]
+Name=P-BOM-Designators_068
+Value=PRJ DESIGNATORS-068
+
+[Parameter34]
+Name=P-BOM-Designators_067
+Value=PRJ DESIGNATORS-067
+
+[Parameter35]
+Name=P-BOM-Designators_066
+Value=PRJ DESIGNATORS-066
+
+[Parameter36]
+Name=P-BOM-Designators_065
+Value=PRJ DESIGNATORS-065
+
+[Parameter37]
+Name=P-BOM-Designators_064
+Value=PRJ DESIGNATORS-064
+
+[Parameter38]
+Name=P-BOM-Designators_063
+Value=PRJ DESIGNATORS-063
+
+[Parameter39]
+Name=P-BOM-Designators_062
+Value=PRJ DESIGNATORS-062
+
+[Parameter40]
+Name=P-BOM-Designators_061
+Value=PRJ DESIGNATORS-061
+
+[Parameter41]
+Name=P-BOM-Designators_060
+Value=PRJ DESIGNATORS-060
+
+[Parameter42]
+Name=P-BOM-Designators_059
+Value=PRJ DESIGNATORS-059
+
+[Parameter43]
+Name=P-BOM-Designators_058
+Value=PRJ DESIGNATORS-058
+
+[Parameter44]
+Name=P-BOM-Designators_057
+Value=PRJ DESIGNATORS-057
+
+[Parameter45]
+Name=P-BOM-Designators_056
+Value=PRJ DESIGNATORS-056
+
+[Parameter46]
+Name=P-BOM-Designators_055
+Value=PRJ DESIGNATORS-055
+
+[Parameter47]
+Name=P-BOM-Designators_054
+Value=PRJ DESIGNATORS-054
+
+[Parameter48]
+Name=P-BOM-Designators_053
+Value=PRJ DESIGNATORS-053
+
+[Parameter49]
+Name=P-BOM-Designators_052
+Value=PRJ DESIGNATORS-052
+
+[Parameter50]
+Name=P-BOM-Designators_051
+Value=PRJ DESIGNATORS-051
+
+[Parameter51]
+Name=P-BOM-Designators_050
+Value=PRJ DESIGNATORS-050
+
+[Parameter52]
+Name=P-BOM-Designators_049
+Value=PRJ DESIGNATORS-049
+
+[Parameter53]
+Name=P-BOM-Designators_048
+Value=PRJ DESIGNATORS-048
+
+[Parameter54]
+Name=P-BOM-Designators_047
+Value=PRJ DESIGNATORS-047
+
+[Parameter55]
+Name=P-BOM-Designators_046
+Value=PRJ DESIGNATORS-046
+
+[Parameter56]
+Name=P-BOM-Designators_045
+Value=PRJ DESIGNATORS-045
+
+[Parameter57]
+Name=P-BOM-Designators_044
+Value=PRJ DESIGNATORS-044
+
+[Parameter58]
+Name=P-BOM-Designators_043
+Value=PRJ DESIGNATORS-043
+
+[Parameter59]
+Name=P-BOM-Designators_042
+Value=PRJ DESIGNATORS-042
+
+[Parameter60]
+Name=P-BOM-Designators_041
+Value=PRJ DESIGNATORS-041
+
+[Parameter61]
+Name=P-BOM-Designators_040
+Value=PRJ DESIGNATORS-040
+
+[Parameter62]
+Name=P-BOM-Designators_039
+Value=PRJ DESIGNATORS-039
+
+[Parameter63]
+Name=P-BOM-Designators_038
+Value=PRJ DESIGNATORS-038
+
+[Parameter64]
+Name=P-BOM-Designators_037
+Value=PRJ DESIGNATORS-037
+
+[Parameter65]
+Name=P-BOM-Designators_036
+Value=PRJ DESIGNATORS-036
+
+[Parameter66]
+Name=P-BOM-Designators_035
+Value=PRJ DESIGNATORS-035
+
+[Parameter67]
+Name=P-BOM-Designators_034
+Value=PRJ DESIGNATORS-034
+
+[Parameter68]
+Name=P-BOM-Designators_033
+Value=PRJ DESIGNATORS-033
+
+[Parameter69]
+Name=P-BOM-Designators_032
+Value=PRJ DESIGNATORS-032
+
+[Parameter70]
+Name=P-BOM-Designators_031
+Value=PRJ DESIGNATORS-031
+
+[Parameter71]
+Name=P-BOM-Designators_030
+Value=PRJ DESIGNATORS-030
+
+[Parameter72]
+Name=P-BOM-Designators_029
+Value=PRJ DESIGNATORS-029
+
+[Parameter73]
+Name=P-BOM-Designators_028
+Value=PRJ DESIGNATORS-028
+
+[Parameter74]
+Name=P-BOM-Designators_027
+Value=PRJ DESIGNATORS-027
+
+[Parameter75]
+Name=P-BOM-Designators_026
+Value=PRJ DESIGNATORS-026
+
+[Parameter76]
+Name=P-BOM-Designators_025
+Value=PRJ DESIGNATORS-025
+
+[Parameter77]
+Name=P-BOM-Designators_024
+Value=PRJ DESIGNATORS-024
+
+[Parameter78]
+Name=P-BOM-Designators_023
+Value=PRJ DESIGNATORS-023
+
+[Parameter79]
+Name=P-BOM-Designators_022
+Value=PRJ DESIGNATORS-022
+
+[Parameter80]
+Name=P-BOM-Designators_021
+Value=PRJ DESIGNATORS-021
+
+[Parameter81]
+Name=P-BOM-Designators_020
+Value=PRJ DESIGNATORS-020
+
+[Parameter82]
+Name=P-BOM-Designators_019
+Value=PRJ DESIGNATORS-019
+
+[Parameter83]
+Name=P-BOM-Designators_018
+Value=PRJ DESIGNATORS-018
+
+[Parameter84]
+Name=P-BOM-Designators_017
+Value=PRJ DESIGNATORS-017
+
+[Parameter85]
+Name=P-BOM-Designators_016
+Value=PRJ DESIGNATORS-016
+
+[Parameter86]
+Name=P-BOM-Designators_015
+Value=PRJ DESIGNATORS-015
+
+[Parameter87]
+Name=P-BOM-Designators_014
+Value=PRJ DESIGNATORS-014
+
+[Parameter88]
+Name=P-BOM-Designators_013
+Value=PRJ DESIGNATORS-013
+
+[Parameter89]
+Name=P-BOM-Designators_012
+Value=PRJ DESIGNATORS-012
+
+[Parameter90]
+Name=P-BOM-Designators_011
+Value=PRJ DESIGNATORS-011
+
+[Parameter91]
+Name=P-BOM-Designators_010
+Value=PRJ DESIGNATORS-010
+
+[Parameter92]
+Name=P-BOM-Designators_009
+Value=PRJ DESIGNATORS-009
+
+[Parameter93]
+Name=P-BOM-Designators_008
+Value=PRJ DESIGNATORS-008
+
+[Parameter94]
+Name=P-BOM-Designators_007
+Value=PRJ DESIGNATORS-007
+
+[Parameter95]
+Name=P-BOM-Designators_006
+Value=PRJ DESIGNATORS-006
+
+[Parameter96]
+Name=P-BOM-Designators_005
+Value=PRJ DESIGNATORS-005
+
+[Parameter97]
+Name=P-BOM-Designators_004
+Value=PRJ DESIGNATORS-004
+
+[Parameter98]
+Name=P-BOM-Designators_003
+Value=PRJ DESIGNATORS-003
+
+[Parameter99]
+Name=P-BOM-Designators_002
+Value=PRJ DESIGNATORS-002
+
+[Parameter100]
+Name=P-BOM-Designators_001
+Value=PRJ DESIGNATORS-001
+
+[Parameter101]
+Name=P-BOM-Qty_100
+Value=PQ100
+
+[Parameter102]
+Name=P-BOM-Qty_099
+Value=PQ099
+
+[Parameter103]
+Name=P-BOM-Qty_098
+Value=PQ098
+
+[Parameter104]
+Name=P-BOM-Qty_097
+Value=PQ097
+
+[Parameter105]
+Name=P-BOM-Qty_096
+Value=PQ096
+
+[Parameter106]
+Name=P-BOM-Qty_095
+Value=PQ095
+
+[Parameter107]
+Name=P-BOM-Qty_094
+Value=PQ094
+
+[Parameter108]
+Name=P-BOM-Qty_093
+Value=PQ093
+
+[Parameter109]
+Name=P-BOM-Qty_092
+Value=PQ092
+
+[Parameter110]
+Name=P-BOM-Qty_091
+Value=PQ091
+
+[Parameter111]
+Name=P-BOM-Qty_090
+Value=PQ090
+
+[Parameter112]
+Name=P-BOM-Qty_089
+Value=PQ089
+
+[Parameter113]
+Name=P-BOM-Qty_088
+Value=PQ088
+
+[Parameter114]
+Name=P-BOM-Qty_087
+Value=PQ087
+
+[Parameter115]
+Name=P-BOM-Qty_086
+Value=PQ086
+
+[Parameter116]
+Name=P-BOM-Qty_085
+Value=PQ085
+
+[Parameter117]
+Name=P-BOM-Qty_084
+Value=PQ084
+
+[Parameter118]
+Name=P-BOM-Qty_083
+Value=PQ083
+
+[Parameter119]
+Name=P-BOM-Qty_082
+Value=PQ082
+
+[Parameter120]
+Name=P-BOM-Qty_081
+Value=PQ081
+
+[Parameter121]
+Name=P-BOM-Qty_080
+Value=PQ080
+
+[Parameter122]
+Name=P-BOM-Qty_079
+Value=PQ079
+
+[Parameter123]
+Name=P-BOM-Qty_078
+Value=PQ078
+
+[Parameter124]
+Name=P-BOM-Qty_077
+Value=PQ077
+
+[Parameter125]
+Name=P-BOM-Qty_076
+Value=PQ076
+
+[Parameter126]
+Name=P-BOM-Qty_075
+Value=PQ075
+
+[Parameter127]
+Name=P-BOM-Qty_074
+Value=PQ074
+
+[Parameter128]
+Name=P-BOM-Qty_073
+Value=PQ073
+
+[Parameter129]
+Name=P-BOM-Qty_072
+Value=PQ072
+
+[Parameter130]
+Name=P-BOM-Qty_071
+Value=PQ071
+
+[Parameter131]
+Name=P-BOM-Qty_070
+Value=PQ070
+
+[Parameter132]
+Name=P-BOM-Qty_069
+Value=PQ069
+
+[Parameter133]
+Name=P-BOM-Qty_068
+Value=PQ068
+
+[Parameter134]
+Name=P-BOM-Qty_067
+Value=PQ067
+
+[Parameter135]
+Name=P-BOM-Qty_066
+Value=PQ066
+
+[Parameter136]
+Name=P-BOM-Qty_065
+Value=PQ065
+
+[Parameter137]
+Name=P-BOM-Qty_064
+Value=PQ064
+
+[Parameter138]
+Name=P-BOM-Qty_063
+Value=PQ063
+
+[Parameter139]
+Name=P-BOM-Qty_062
+Value=PQ062
+
+[Parameter140]
+Name=P-BOM-Qty_061
+Value=PQ061
+
+[Parameter141]
+Name=P-BOM-Qty_060
+Value=PQ060
+
+[Parameter142]
+Name=P-BOM-Qty_059
+Value=PQ059
+
+[Parameter143]
+Name=P-BOM-Qty_058
+Value=PQ058
+
+[Parameter144]
+Name=P-BOM-Qty_057
+Value=PQ057
+
+[Parameter145]
+Name=P-BOM-Qty_056
+Value=PQ056
+
+[Parameter146]
+Name=P-BOM-Qty_055
+Value=PQ055
+
+[Parameter147]
+Name=P-BOM-Qty_054
+Value=PQ054
+
+[Parameter148]
+Name=P-BOM-Qty_053
+Value=PQ053
+
+[Parameter149]
+Name=P-BOM-Qty_052
+Value=PQ052
+
+[Parameter150]
+Name=P-BOM-Qty_051
+Value=PQ051
+
+[Parameter151]
+Name=P-BOM-Qty_050
+Value=PQ050
+
+[Parameter152]
+Name=P-BOM-Qty_049
+Value=PQ049
+
+[Parameter153]
+Name=P-BOM-Qty_048
+Value=PQ048
+
+[Parameter154]
+Name=P-BOM-Qty_047
+Value=PQ047
+
+[Parameter155]
+Name=P-BOM-Qty_046
+Value=PQ046
+
+[Parameter156]
+Name=P-BOM-Qty_045
+Value=PQ045
+
+[Parameter157]
+Name=P-BOM-Qty_044
+Value=PQ044
+
+[Parameter158]
+Name=P-BOM-Qty_043
+Value=PQ043
+
+[Parameter159]
+Name=P-BOM-Qty_042
+Value=PQ042
+
+[Parameter160]
+Name=P-BOM-Qty_041
+Value=PQ041
+
+[Parameter161]
+Name=P-BOM-Qty_040
+Value=PQ040
+
+[Parameter162]
+Name=P-BOM-Qty_039
+Value=PQ039
+
+[Parameter163]
+Name=P-BOM-Qty_038
+Value=PQ038
+
+[Parameter164]
+Name=P-BOM-Qty_037
+Value=PQ037
+
+[Parameter165]
+Name=P-BOM-Qty_036
+Value=PQ036
+
+[Parameter166]
+Name=P-BOM-Qty_035
+Value=PQ035
+
+[Parameter167]
+Name=P-BOM-Qty_034
+Value=PQ034
+
+[Parameter168]
+Name=P-BOM-Qty_033
+Value=PQ033
+
+[Parameter169]
+Name=P-BOM-Qty_032
+Value=PQ032
+
+[Parameter170]
+Name=P-BOM-Qty_031
+Value=PQ031
+
+[Parameter171]
+Name=P-BOM-Qty_030
+Value=PQ030
+
+[Parameter172]
+Name=P-BOM-Qty_029
+Value=PQ029
+
+[Parameter173]
+Name=P-BOM-Qty_028
+Value=PQ028
+
+[Parameter174]
+Name=P-BOM-Qty_027
+Value=PQ027
+
+[Parameter175]
+Name=P-BOM-Qty_026
+Value=PQ026
+
+[Parameter176]
+Name=P-BOM-Qty_025
+Value=PQ025
+
+[Parameter177]
+Name=P-BOM-Qty_024
+Value=PQ024
+
+[Parameter178]
+Name=P-BOM-Qty_023
+Value=PQ023
+
+[Parameter179]
+Name=P-BOM-Qty_022
+Value=PQ022
+
+[Parameter180]
+Name=P-BOM-Qty_021
+Value=PQ021
+
+[Parameter181]
+Name=P-BOM-Qty_020
+Value=PQ020
+
+[Parameter182]
+Name=P-BOM-Qty_019
+Value=PQ019
+
+[Parameter183]
+Name=P-BOM-Qty_018
+Value=PQ018
+
+[Parameter184]
+Name=P-BOM-Qty_017
+Value=PQ017
+
+[Parameter185]
+Name=P-BOM-Qty_016
+Value=PQ016
+
+[Parameter186]
+Name=P-BOM-Qty_015
+Value=PQ015
+
+[Parameter187]
+Name=P-BOM-Qty_014
+Value=PQ014
+
+[Parameter188]
+Name=P-BOM-Qty_013
+Value=PQ013
+
+[Parameter189]
+Name=P-BOM-Qty_012
+Value=PQ012
+
+[Parameter190]
+Name=P-BOM-Qty_011
+Value=PQ011
+
+[Parameter191]
+Name=P-BOM-Qty_010
+Value=PQ010
+
+[Parameter192]
+Name=P-BOM-Qty_009
+Value=PQ009
+
+[Parameter193]
+Name=P-BOM-Qty_008
+Value=PQ008
+
+[Parameter194]
+Name=P-BOM-Qty_007
+Value=PQ007
+
+[Parameter195]
+Name=P-BOM-Qty_006
+Value=PQ006
+
+[Parameter196]
+Name=P-BOM-Qty_005
+Value=PQ005
+
+[Parameter197]
+Name=P-BOM-Qty_004
+Value=PQ004
+
+[Parameter198]
+Name=P-BOM-Qty_003
+Value=PQ003
+
+[Parameter199]
+Name=P-BOM-Qty_002
+Value=PQ002
+
+[Parameter200]
+Name=P-BOM-Qty_001
+Value=PQ001
+
+[Parameter201]
+Name=P-BOM-Desc_100
+Value=PRJ DESCRIPTION-100
+
+[Parameter202]
+Name=P-BOM-Desc_099
+Value=PRJ DESCRIPTION-099
+
+[Parameter203]
+Name=P-BOM-Desc_098
+Value=PRJ DESCRIPTION-098
+
+[Parameter204]
+Name=P-BOM-Desc_097
+Value=PRJ DESCRIPTION-097
+
+[Parameter205]
+Name=P-BOM-Desc_096
+Value=PRJ DESCRIPTION-096
+
+[Parameter206]
+Name=P-BOM-Desc_095
+Value=PRJ DESCRIPTION-095
+
+[Parameter207]
+Name=P-BOM-Desc_094
+Value=PRJ DESCRIPTION-094
+
+[Parameter208]
+Name=P-BOM-Desc_093
+Value=PRJ DESCRIPTION-093
+
+[Parameter209]
+Name=P-BOM-Desc_092
+Value=PRJ DESCRIPTION-092
+
+[Parameter210]
+Name=P-BOM-Desc_091
+Value=PRJ DESCRIPTION-091
+
+[Parameter211]
+Name=P-BOM-Desc_090
+Value=PRJ DESCRIPTION-090
+
+[Parameter212]
+Name=P-BOM-Desc_089
+Value=PRJ DESCRIPTION-089
+
+[Parameter213]
+Name=P-BOM-Desc_088
+Value=PRJ DESCRIPTION-088
+
+[Parameter214]
+Name=P-BOM-Desc_087
+Value=PRJ DESCRIPTION-087
+
+[Parameter215]
+Name=P-BOM-Desc_086
+Value=PRJ DESCRIPTION-086
+
+[Parameter216]
+Name=P-BOM-Desc_085
+Value=PRJ DESCRIPTION-085
+
+[Parameter217]
+Name=P-BOM-Desc_084
+Value=PRJ DESCRIPTION-084
+
+[Parameter218]
+Name=P-BOM-Desc_083
+Value=PRJ DESCRIPTION-083
+
+[Parameter219]
+Name=P-BOM-Desc_082
+Value=PRJ DESCRIPTION-082
+
+[Parameter220]
+Name=P-BOM-Desc_081
+Value=PRJ DESCRIPTION-081
+
+[Parameter221]
+Name=P-BOM-Desc_080
+Value=PRJ DESCRIPTION-080
+
+[Parameter222]
+Name=P-BOM-Desc_079
+Value=PRJ DESCRIPTION-079
+
+[Parameter223]
+Name=P-BOM-Desc_078
+Value=PRJ DESCRIPTION-078
+
+[Parameter224]
+Name=P-BOM-Desc_077
+Value=PRJ DESCRIPTION-077
+
+[Parameter225]
+Name=P-BOM-Desc_076
+Value=PRJ DESCRIPTION-076
+
+[Parameter226]
+Name=P-BOM-Desc_075
+Value=PRJ DESCRIPTION-075
+
+[Parameter227]
+Name=P-BOM-Desc_074
+Value=PRJ DESCRIPTION-074
+
+[Parameter228]
+Name=P-BOM-Desc_073
+Value=PRJ DESCRIPTION-073
+
+[Parameter229]
+Name=P-BOM-Desc_072
+Value=PRJ DESCRIPTION-072
+
+[Parameter230]
+Name=P-BOM-Desc_071
+Value=PRJ DESCRIPTION-071
+
+[Parameter231]
+Name=P-BOM-Desc_070
+Value=PRJ DESCRIPTION-070
+
+[Parameter232]
+Name=P-BOM-Desc_069
+Value=PRJ DESCRIPTION-069
+
+[Parameter233]
+Name=P-BOM-Desc_068
+Value=PRJ DESCRIPTION-068
+
+[Parameter234]
+Name=P-BOM-Desc_067
+Value=PRJ DESCRIPTION-067
+
+[Parameter235]
+Name=P-BOM-Desc_066
+Value=PRJ DESCRIPTION-066
+
+[Parameter236]
+Name=P-BOM-Desc_065
+Value=PRJ DESCRIPTION-065
+
+[Parameter237]
+Name=P-BOM-Desc_064
+Value=PRJ DESCRIPTION-064
+
+[Parameter238]
+Name=P-BOM-Desc_063
+Value=PRJ DESCRIPTION-063
+
+[Parameter239]
+Name=P-BOM-Desc_062
+Value=PRJ DESCRIPTION-062
+
+[Parameter240]
+Name=P-BOM-Desc_061
+Value=PRJ DESCRIPTION-061
+
+[Parameter241]
+Name=P-BOM-Desc_060
+Value=PRJ DESCRIPTION-060
+
+[Parameter242]
+Name=P-BOM-Desc_059
+Value=PRJ DESCRIPTION-059
+
+[Parameter243]
+Name=P-BOM-Desc_058
+Value=PRJ DESCRIPTION-058
+
+[Parameter244]
+Name=P-BOM-Desc_057
+Value=PRJ DESCRIPTION-057
+
+[Parameter245]
+Name=P-BOM-Desc_056
+Value=PRJ DESCRIPTION-056
+
+[Parameter246]
+Name=P-BOM-Desc_055
+Value=PRJ DESCRIPTION-055
+
+[Parameter247]
+Name=P-BOM-Desc_054
+Value=PRJ DESCRIPTION-054
+
+[Parameter248]
+Name=P-BOM-Desc_053
+Value=PRJ DESCRIPTION-053
+
+[Parameter249]
+Name=P-BOM-Desc_052
+Value=PRJ DESCRIPTION-052
+
+[Parameter250]
+Name=P-BOM-Desc_051
+Value=PRJ DESCRIPTION-051
+
+[Parameter251]
+Name=P-BOM-Desc_050
+Value=PRJ DESCRIPTION-050
+
+[Parameter252]
+Name=P-BOM-Desc_049
+Value=PRJ DESCRIPTION-049
+
+[Parameter253]
+Name=P-BOM-Desc_048
+Value=PRJ DESCRIPTION-048
+
+[Parameter254]
+Name=P-BOM-Desc_047
+Value=PRJ DESCRIPTION-047
+
+[Parameter255]
+Name=P-BOM-Desc_046
+Value=PRJ DESCRIPTION-046
+
+[Parameter256]
+Name=P-BOM-Desc_045
+Value=PRJ DESCRIPTION-045
+
+[Parameter257]
+Name=P-BOM-Desc_044
+Value=PRJ DESCRIPTION-044
+
+[Parameter258]
+Name=P-BOM-Desc_043
+Value=PRJ DESCRIPTION-043
+
+[Parameter259]
+Name=P-BOM-Desc_042
+Value=PRJ DESCRIPTION-042
+
+[Parameter260]
+Name=P-BOM-Desc_041
+Value=PRJ DESCRIPTION-041
+
+[Parameter261]
+Name=P-BOM-Desc_040
+Value=PRJ DESCRIPTION-040
+
+[Parameter262]
+Name=P-BOM-Desc_039
+Value=PRJ DESCRIPTION-039
+
+[Parameter263]
+Name=P-BOM-Desc_038
+Value=PRJ DESCRIPTION-038
+
+[Parameter264]
+Name=P-BOM-Desc_037
+Value=PRJ DESCRIPTION-037
+
+[Parameter265]
+Name=P-BOM-Desc_036
+Value=PRJ DESCRIPTION-036
+
+[Parameter266]
+Name=P-BOM-Desc_035
+Value=PRJ DESCRIPTION-035
+
+[Parameter267]
+Name=P-BOM-Desc_034
+Value=PRJ DESCRIPTION-034
+
+[Parameter268]
+Name=P-BOM-Desc_033
+Value=PRJ DESCRIPTION-033
+
+[Parameter269]
+Name=P-BOM-Desc_032
+Value=PRJ DESCRIPTION-032
+
+[Parameter270]
+Name=P-BOM-Desc_031
+Value=PRJ DESCRIPTION-031
+
+[Parameter271]
+Name=P-BOM-Desc_030
+Value=PRJ DESCRIPTION-030
+
+[Parameter272]
+Name=P-BOM-Desc_029
+Value=PRJ DESCRIPTION-029
+
+[Parameter273]
+Name=P-BOM-Desc_028
+Value=PRJ DESCRIPTION-028
+
+[Parameter274]
+Name=P-BOM-Desc_027
+Value=PRJ DESCRIPTION-027
+
+[Parameter275]
+Name=P-BOM-Desc_026
+Value=PRJ DESCRIPTION-026
+
+[Parameter276]
+Name=P-BOM-Desc_025
+Value=PRJ DESCRIPTION-025
+
+[Parameter277]
+Name=P-BOM-Desc_024
+Value=PRJ DESCRIPTION-024
+
+[Parameter278]
+Name=P-BOM-Desc_023
+Value=PRJ DESCRIPTION-023
+
+[Parameter279]
+Name=P-BOM-Desc_022
+Value=PRJ DESCRIPTION-022
+
+[Parameter280]
+Name=P-BOM-Desc_021
+Value=PRJ DESCRIPTION-021
+
+[Parameter281]
+Name=P-BOM-Desc_020
+Value=PRJ DESCRIPTION-020
+
+[Parameter282]
+Name=P-BOM-Desc_019
+Value=PRJ DESCRIPTION-019
+
+[Parameter283]
+Name=P-BOM-Desc_018
+Value=PRJ DESCRIPTION-018
+
+[Parameter284]
+Name=P-BOM-Desc_017
+Value=PRJ DESCRIPTION-017
+
+[Parameter285]
+Name=P-BOM-Desc_016
+Value=PRJ DESCRIPTION-016
+
+[Parameter286]
+Name=P-BOM-Desc_015
+Value=PRJ DESCRIPTION-015
+
+[Parameter287]
+Name=P-BOM-Desc_014
+Value=PRJ DESCRIPTION-014
+
+[Parameter288]
+Name=P-BOM-Desc_013
+Value=PRJ DESCRIPTION-013
+
+[Parameter289]
+Name=P-BOM-Desc_012
+Value=PRJ DESCRIPTION-012
+
+[Parameter290]
+Name=P-BOM-Desc_011
+Value=PRJ DESCRIPTION-011
+
+[Parameter291]
+Name=P-BOM-Desc_010
+Value=PRJ DESCRIPTION-010
+
+[Parameter292]
+Name=P-BOM-Desc_009
+Value=PRJ DESCRIPTION-009
+
+[Parameter293]
+Name=P-BOM-Desc_008
+Value=PRJ DESCRIPTION-008
+
+[Parameter294]
+Name=P-BOM-Desc_007
+Value=PRJ DESCRIPTION-007
+
+[Parameter295]
+Name=P-BOM-Desc_006
+Value=PRJ DESCRIPTION-006
+
+[Parameter296]
+Name=P-BOM-Desc_005
+Value=PRJ DESCRIPTION-005
+
+[Parameter297]
+Name=P-BOM-Desc_004
+Value=PRJ DESCRIPTION-004
+
+[Parameter298]
+Name=P-BOM-Desc_003
+Value=PRJ DESCRIPTION-003
+
+[Parameter299]
+Name=P-BOM-Desc_002
+Value=PRJ DESCRIPTION-002
+
+[Parameter300]
+Name=P-BOM-Desc_001
+Value=PRJ DESCRIPTION-001
+
+[Parameter301]
+Name=P-BOM-FR_100
+Value=PRJ FR-100
+
+[Parameter302]
+Name=P-BOM-FR_099
+Value=PRJ FR-099
+
+[Parameter303]
+Name=P-BOM-FR_098
+Value=PRJ FR-098
+
+[Parameter304]
+Name=P-BOM-FR_097
+Value=PRJ FR-097
+
+[Parameter305]
+Name=P-BOM-FR_096
+Value=PRJ FR-096
+
+[Parameter306]
+Name=P-BOM-FR_095
+Value=PRJ FR-095
+
+[Parameter307]
+Name=P-BOM-FR_094
+Value=PRJ FR-094
+
+[Parameter308]
+Name=P-BOM-FR_093
+Value=PRJ FR-093
+
+[Parameter309]
+Name=P-BOM-FR_092
+Value=PRJ FR-092
+
+[Parameter310]
+Name=P-BOM-FR_091
+Value=PRJ FR-091
+
+[Parameter311]
+Name=P-BOM-FR_090
+Value=PRJ FR-090
+
+[Parameter312]
+Name=P-BOM-FR_089
+Value=PRJ FR-089
+
+[Parameter313]
+Name=P-BOM-FR_088
+Value=PRJ FR-088
+
+[Parameter314]
+Name=P-BOM-FR_087
+Value=PRJ FR-087
+
+[Parameter315]
+Name=P-BOM-FR_086
+Value=PRJ FR-086
+
+[Parameter316]
+Name=P-BOM-FR_085
+Value=PRJ FR-085
+
+[Parameter317]
+Name=P-BOM-FR_084
+Value=PRJ FR-084
+
+[Parameter318]
+Name=P-BOM-FR_083
+Value=PRJ FR-083
+
+[Parameter319]
+Name=P-BOM-FR_082
+Value=PRJ FR-082
+
+[Parameter320]
+Name=P-BOM-FR_081
+Value=PRJ FR-081
+
+[Parameter321]
+Name=P-BOM-FR_080
+Value=PRJ FR-080
+
+[Parameter322]
+Name=P-BOM-FR_079
+Value=PRJ FR-079
+
+[Parameter323]
+Name=P-BOM-FR_078
+Value=PRJ FR-078
+
+[Parameter324]
+Name=P-BOM-FR_077
+Value=PRJ FR-077
+
+[Parameter325]
+Name=P-BOM-FR_076
+Value=PRJ FR-076
+
+[Parameter326]
+Name=P-BOM-FR_075
+Value=PRJ FR-075
+
+[Parameter327]
+Name=P-BOM-FR_074
+Value=PRJ FR-074
+
+[Parameter328]
+Name=P-BOM-FR_073
+Value=PRJ FR-073
+
+[Parameter329]
+Name=P-BOM-FR_072
+Value=PRJ FR-072
+
+[Parameter330]
+Name=P-BOM-FR_071
+Value=PRJ FR-071
+
+[Parameter331]
+Name=P-BOM-FR_070
+Value=PRJ FR-070
+
+[Parameter332]
+Name=P-BOM-FR_069
+Value=PRJ FR-069
+
+[Parameter333]
+Name=P-BOM-FR_068
+Value=PRJ FR-068
+
+[Parameter334]
+Name=P-BOM-FR_067
+Value=PRJ FR-067
+
+[Parameter335]
+Name=P-BOM-FR_066
+Value=PRJ FR-066
+
+[Parameter336]
+Name=P-BOM-FR_065
+Value=PRJ FR-065
+
+[Parameter337]
+Name=P-BOM-FR_064
+Value=PRJ FR-064
+
+[Parameter338]
+Name=P-BOM-FR_063
+Value=PRJ FR-063
+
+[Parameter339]
+Name=P-BOM-FR_062
+Value=PRJ FR-062
+
+[Parameter340]
+Name=P-BOM-FR_061
+Value=PRJ FR-061
+
+[Parameter341]
+Name=P-BOM-FR_060
+Value=PRJ FR-060
+
+[Parameter342]
+Name=P-BOM-FR_059
+Value=PRJ FR-059
+
+[Parameter343]
+Name=P-BOM-FR_058
+Value=PRJ FR-058
+
+[Parameter344]
+Name=P-BOM-FR_057
+Value=PRJ FR-057
+
+[Parameter345]
+Name=P-BOM-FR_056
+Value=PRJ FR-056
+
+[Parameter346]
+Name=P-BOM-FR_055
+Value=PRJ FR-055
+
+[Parameter347]
+Name=P-BOM-FR_054
+Value=PRJ FR-054
+
+[Parameter348]
+Name=P-BOM-FR_053
+Value=PRJ FR-053
+
+[Parameter349]
+Name=P-BOM-FR_052
+Value=PRJ FR-052
+
+[Parameter350]
+Name=P-BOM-FR_051
+Value=PRJ FR-051
+
+[Parameter351]
+Name=P-BOM-FR_050
+Value=PRJ FR-050
+
+[Parameter352]
+Name=P-BOM-FR_049
+Value=PRJ FR-049
+
+[Parameter353]
+Name=P-BOM-FR_048
+Value=PRJ FR-048
+
+[Parameter354]
+Name=P-BOM-FR_047
+Value=PRJ FR-047
+
+[Parameter355]
+Name=P-BOM-FR_046
+Value=PRJ FR-046
+
+[Parameter356]
+Name=P-BOM-FR_045
+Value=PRJ FR-045
+
+[Parameter357]
+Name=P-BOM-FR_044
+Value=PRJ FR-044
+
+[Parameter358]
+Name=P-BOM-FR_043
+Value=PRJ FR-043
+
+[Parameter359]
+Name=P-BOM-FR_042
+Value=PRJ FR-042
+
+[Parameter360]
+Name=P-BOM-FR_041
+Value=PRJ FR-041
+
+[Parameter361]
+Name=P-BOM-FR_040
+Value=PRJ FR-040
+
+[Parameter362]
+Name=P-BOM-FR_039
+Value=PRJ FR-039
+
+[Parameter363]
+Name=P-BOM-FR_038
+Value=PRJ FR-038
+
+[Parameter364]
+Name=P-BOM-FR_037
+Value=PRJ FR-037
+
+[Parameter365]
+Name=P-BOM-FR_036
+Value=PRJ FR-036
+
+[Parameter366]
+Name=P-BOM-FR_035
+Value=PRJ FR-035
+
+[Parameter367]
+Name=P-BOM-FR_034
+Value=PRJ FR-034
+
+[Parameter368]
+Name=P-BOM-FR_033
+Value=PRJ FR-033
+
+[Parameter369]
+Name=P-BOM-FR_032
+Value=PRJ FR-032
+
+[Parameter370]
+Name=P-BOM-FR_031
+Value=PRJ FR-031
+
+[Parameter371]
+Name=P-BOM-FR_030
+Value=PRJ FR-030
+
+[Parameter372]
+Name=P-BOM-FR_029
+Value=PRJ FR-029
+
+[Parameter373]
+Name=P-BOM-FR_028
+Value=PRJ FR-028
+
+[Parameter374]
+Name=P-BOM-FR_027
+Value=PRJ FR-027
+
+[Parameter375]
+Name=P-BOM-FR_026
+Value=PRJ FR-026
+
+[Parameter376]
+Name=P-BOM-FR_025
+Value=PRJ FR-025
+
+[Parameter377]
+Name=P-BOM-FR_024
+Value=PRJ FR-024
+
+[Parameter378]
+Name=P-BOM-FR_023
+Value=PRJ FR-023
+
+[Parameter379]
+Name=P-BOM-FR_022
+Value=PRJ FR-022
+
+[Parameter380]
+Name=P-BOM-FR_021
+Value=PRJ FR-021
+
+[Parameter381]
+Name=P-BOM-FR_020
+Value=PRJ FR-020
+
+[Parameter382]
+Name=P-BOM-FR_019
+Value=PRJ FR-019
+
+[Parameter383]
+Name=P-BOM-FR_018
+Value=PRJ FR-018
+
+[Parameter384]
+Name=P-BOM-FR_017
+Value=PRJ FR-017
+
+[Parameter385]
+Name=P-BOM-FR_016
+Value=PRJ FR-016
+
+[Parameter386]
+Name=P-BOM-FR_015
+Value=PRJ FR-015
+
+[Parameter387]
+Name=P-BOM-FR_014
+Value=PRJ FR-014
+
+[Parameter388]
+Name=P-BOM-FR_013
+Value=PRJ FR-013
+
+[Parameter389]
+Name=P-BOM-FR_012
+Value=PRJ FR-012
+
+[Parameter390]
+Name=P-BOM-FR_011
+Value=PRJ FR-011
+
+[Parameter391]
+Name=P-BOM-FR_010
+Value=PRJ FR-010
+
+[Parameter392]
+Name=P-BOM-FR_009
+Value=PRJ FR-009
+
+[Parameter393]
+Name=P-BOM-FR_008
+Value=PRJ FR-008
+
+[Parameter394]
+Name=P-BOM-FR_007
+Value=PRJ FR-007
+
+[Parameter395]
+Name=P-BOM-FR_006
+Value=PRJ FR-006
+
+[Parameter396]
+Name=P-BOM-FR_005
+Value=PRJ FR-005
+
+[Parameter397]
+Name=P-BOM-FR_004
+Value=PRJ FR-004
+
+[Parameter398]
+Name=P-BOM-FR_003
+Value=PRJ FR-003
+
+[Parameter399]
+Name=P-BOM-FR_002
+Value=PRJ FR-002
+
+[Parameter400]
+Name=P-BOM-FR_001
+Value=PRJ FR-001
+
+[Parameter401]
+Name=ProjectSchematicTitle2
+Value=PS
+
+[Parameter402]
+Name=ProjectSchematicTitle1
+Value=PS
+
+[Parameter403]
+Name=ProjectSchematicSheetTotal
+Value=PS
+
+[Parameter404]
+Name=ProjectSchematicRevisionDNumber
+Value=PS
+
+[Parameter405]
+Name=ProjectSchematicRevisionDDate
+Value=PS
+
+[Parameter406]
+Name=ProjectSchematicRevisionDChangeLine2
+Value=PS
+
+[Parameter407]
+Name=ProjectSchematicRevisionDChangeLine1
+Value=PS
+
+[Parameter408]
+Name=ProjectSchematicRevisionDChange
+Value=PS
+
+[Parameter409]
+Name=ProjectSchematicRevisionDBy
+Value=PS
+
+[Parameter410]
+Name=ProjectSchematicRevisionCNumber
+Value=PS
+
+[Parameter411]
+Name=ProjectSchematicRevisionCDate
+Value=PS
+
+[Parameter412]
+Name=ProjectSchematicRevisionCChangeLine2
+Value=PS
+
+[Parameter413]
+Name=ProjectSchematicRevisionCChangeLine1
+Value=PS
+
+[Parameter414]
+Name=ProjectSchematicRevisionCChange
+Value=PS
+
+[Parameter415]
+Name=ProjectSchematicRevisionCBy
+Value=PS
+
+[Parameter416]
+Name=ProjectSchematicRevisionBNumber
+Value=PS
+
+[Parameter417]
+Name=ProjectSchematicRevisionBDate
+Value=PS
+
+[Parameter418]
+Name=ProjectSchematicRevisionBChangeLine2
+Value=PS
+
+[Parameter419]
+Name=ProjectSchematicRevisionBChangeLine1
+Value=PS
+
+[Parameter420]
+Name=ProjectSchematicRevisionBChange
+Value=PS
+
+[Parameter421]
+Name=ProjectSchematicRevisionBBy
+Value=PS
+
+[Parameter422]
+Name=ProjectSchematicRevisionANumber
+Value=PS
+
+[Parameter423]
+Name=ProjectSchematicRevisionADate
+Value=PS
+
+[Parameter424]
+Name=ProjectSchematicRevisionAChangeLine2
+Value=PS
+
+[Parameter425]
+Name=ProjectSchematicRevisionAChangeLine1
+Value=PS
+
+[Parameter426]
+Name=ProjectSchematicRevisionAChange
+Value=PS
+
+[Parameter427]
+Name=ProjectSchematicRevisionABy
+Value=PS
+
+[Parameter428]
+Name=ProjectSchematicRegulatoryBlockCheckWIRELESS
+Value=PS
+
+[Parameter429]
+Name=ProjectSchematicRegulatoryBlockCheckUL
+Value=PS
+
+[Parameter430]
+Name=ProjectSchematicRegulatoryBlockCheckRCM
+Value=PS
+
+[Parameter431]
+Name=ProjectSchematicRegulatoryBlockCheckPLENUM
+Value=PS
+
+[Parameter432]
+Name=ProjectSchematicRegulatoryBlockCheckNSF
+Value=PS
+
+[Parameter433]
+Name=ProjectSchematicRegulatoryBlockCheckKC_KTL
+Value=PS
+
+[Parameter434]
+Name=ProjectSchematicRegulatoryBlockCheckINMETRO_NCC
+Value=PS
+
+[Parameter435]
+Name=ProjectSchematicRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=PS
+
+[Parameter436]
+Name=ProjectSchematicRegulatoryBlockCheckIECEx_ELEMENT
+Value=PS
+
+[Parameter437]
+Name=ProjectSchematicRegulatoryBlockCheckIECEx_DEKRA
+Value=PS
+
+[Parameter438]
+Name=ProjectSchematicRegulatoryBlockCheckFM
+Value=PS
+
+[Parameter439]
+Name=ProjectSchematicRegulatoryBlockCheckCSA
+Value=PS
+
+[Parameter440]
+Name=ProjectSchematicRegulatoryBlockCheckCE
+Value=PS
+
+[Parameter441]
+Name=ProjectSchematicRegulatoryBlockCheckATEX_UL_DEMKO
+Value=PS
+
+[Parameter442]
+Name=ProjectSchematicRegulatoryBlockCheckATEX_ELEMENT
+Value=PS
+
+[Parameter443]
+Name=ProjectSchematicRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=PS
+
+[Parameter444]
+Name=ProjectSchematicRegulatoryBlockCheckABS
+Value=PS
+
+[Parameter445]
+Name=ProjectSchematicFrNumber
+Value=PS
+
+[Parameter446]
+Name=ProjectSchematicDrawnBy
+Value=PS
+
+[Parameter447]
+Name=ProjectSchematicDate
+Value=PS
+
+[Parameter448]
+Name=ProjectSchematicCheckedBy
+Value=PS
+
+[Parameter449]
+Name=ProjectSchematicApprovedBy
+Value=PS
+
+[Parameter450]
+Name=ProjectPCBTestpointsTitle2
+Value=PT
+
+[Parameter451]
+Name=ProjectPCBTestpointsTitle1
+Value=PT
+
+[Parameter452]
+Name=ProjectPCBTestpointsSheetNumber
+Value=PT
+
+[Parameter453]
+Name=ProjectPCBPanelTitle2
+Value=pp
+
+[Parameter454]
+Name=ProjectPCBPanelTitle1
+Value=pp
+
+[Parameter455]
+Name=ProjectPCBPanelSheetNumber
+Value=pp
+
+[Parameter456]
+Name=ProjectPCBTitle2
+Value=PP
+
+[Parameter457]
+Name=ProjectPCBTitle1
+Value=PP
+
+[Parameter458]
+Name=ProjectPCBSheetNumber
+Value=PP
+
+[Parameter459]
+Name=ProjectPCBSheetTotal
+Value=PP
+
+[Parameter460]
+Name=ProjectPCBRevisionDNumber
+Value=PP
+
+[Parameter461]
+Name=ProjectPCBRevisionDDate
+Value=PP
+
+[Parameter462]
+Name=ProjectPCBRevisionDChange
+Value=PP
+
+[Parameter463]
+Name=ProjectPCBRevisionDBy
+Value=PP
+
+[Parameter464]
+Name=ProjectPCBRevisionCNumber
+Value=PP
+
+[Parameter465]
+Name=ProjectPCBRevisionCDate
+Value=PP
+
+[Parameter466]
+Name=ProjectPCBRevisionCChange
+Value=PP
+
+[Parameter467]
+Name=ProjectPCBRevisionCBy
+Value=PP
+
+[Parameter468]
+Name=ProjectPCBRevisionBNumber
+Value=PP
+
+[Parameter469]
+Name=ProjectPCBRevisionBDate
+Value=PP
+
+[Parameter470]
+Name=ProjectPCBRevisionBChange
+Value=PP
+
+[Parameter471]
+Name=ProjectPCBRevisionBBy
+Value=PP
+
+[Parameter472]
+Name=ProjectPCBRevisionANumber
+Value=PP
+
+[Parameter473]
+Name=ProjectPCBRevisionADate
+Value=PP
+
+[Parameter474]
+Name=ProjectPCBRevisionAChange
+Value=PP
+
+[Parameter475]
+Name=ProjectPCBRevisionABy
+Value=PP
+
+[Parameter476]
+Name=ProjectPCBRegulatoryBlockCheckWIRELESS
+Value=PP
+
+[Parameter477]
+Name=ProjectPCBRegulatoryBlockCheckUL
+Value=PP
+
+[Parameter478]
+Name=ProjectPCBRegulatoryBlockCheckRCM
+Value=PP
+
+[Parameter479]
+Name=ProjectPCBRegulatoryBlockCheckPLENUM
+Value=PP
+
+[Parameter480]
+Name=ProjectPCBRegulatoryBlockCheckNSF
+Value=PP
+
+[Parameter481]
+Name=ProjectPCBRegulatoryBlockCheckKTL
+Value=PP
+
+[Parameter482]
+Name=ProjectPCBRegulatoryBlockCheckINMETRO_NCC
+Value=PP
+
+[Parameter483]
+Name=ProjectPCBRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=PP
+
+[Parameter484]
+Name=ProjectPCBRegulatoryBlockCheckIECEx_ELEMENT
+Value=PP
+
+[Parameter485]
+Name=ProjectPCBRegulatoryBlockCheckIECEx_DEKRA
+Value=PP
+
+[Parameter486]
+Name=ProjectPCBRegulatoryBlockCheckFM
+Value=PP
+
+[Parameter487]
+Name=ProjectPCBRegulatoryBlockCheckCSA
+Value=PP
+
+[Parameter488]
+Name=ProjectPCBRegulatoryBlockCheckCE
+Value=PP
+
+[Parameter489]
+Name=ProjectPCBRegulatoryBlockCheckATEX_UL_DEMKO
+Value=PP
+
+[Parameter490]
+Name=ProjectPCBRegulatoryBlockCheckATEX_ELEMENT
+Value=PP
+
+[Parameter491]
+Name=ProjectPCBRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=PP
+
+[Parameter492]
+Name=ProjectPCBRegulatoryBlockCheckABS
+Value=PP
+
+[Parameter493]
+Name=ProjectPCBFrNumber
+Value=PP
+
+[Parameter494]
+Name=ProjectPCBDrawnBy
+Value=PP
+
+[Parameter495]
+Name=ProjectPCBDate
+Value=PP
+
+[Parameter496]
+Name=ProjectPCBCheckedBy
+Value=PP
+
+[Parameter497]
+Name=ProjectPCBApprovedBy
+Value=PP
+
+[Parameter498]
+Name=ProjectAssemblyVersionNumber
+Value=PA
+
+[Parameter499]
+Name=ProjectAssemblyTitle2
+Value=PA
+
+[Parameter500]
+Name=ProjectAssemblyTitle1
+Value=PA
+
+[Parameter501]
+Name=ProjectAssemblySheetNumber
+Value=PA
+
+[Parameter502]
+Name=ProjectAssemblySheetTotal
+Value=PA
+
+[Parameter503]
+Name=ProjectAssemblyRevisionDNumber
+Value=PA
+
+[Parameter504]
+Name=ProjectAssemblyRevisionDDate
+Value=PA
+
+[Parameter505]
+Name=ProjectAssemblyRevisionDChange
+Value=PA
+
+[Parameter506]
+Name=ProjectAssemblyRevisionDBy
+Value=PA
+
+[Parameter507]
+Name=ProjectAssemblyRevisionCNumber
+Value=PA
+
+[Parameter508]
+Name=ProjectAssemblyRevisionCDate
+Value=PA
+
+[Parameter509]
+Name=ProjectAssemblyRevisionCChange
+Value=PA
+
+[Parameter510]
+Name=ProjectAssemblyRevisionCBy
+Value=PA
+
+[Parameter511]
+Name=ProjectAssemblyRevisionBNumber
+Value=PA
+
+[Parameter512]
+Name=ProjectAssemblyRevisionBDate
+Value=PA
+
+[Parameter513]
+Name=ProjectAssemblyRevisionBChange
+Value=PA
+
+[Parameter514]
+Name=ProjectAssemblyRevisionBBy
+Value=PA
+
+[Parameter515]
+Name=ProjectAssemblyRevisionANumber
+Value=PA
+
+[Parameter516]
+Name=ProjectAssemblyRevisionADate
+Value=PA
+
+[Parameter517]
+Name=ProjectAssemblyRevisionAChange
+Value=PA
+
+[Parameter518]
+Name=ProjectAssemblyRevisionABy
+Value=PA
+
+[Parameter519]
+Name=ProjectAssemblyRegulatoryBlockCheckWIRELESS
+Value=PA
+
+[Parameter520]
+Name=ProjectAssemblyRegulatoryBlockCheckUL
+Value=PA
+
+[Parameter521]
+Name=ProjectAssemblyRegulatoryBlockCheckRCM
+Value=PA
+
+[Parameter522]
+Name=ProjectAssemblyRegulatoryBlockCheckPLENUM
+Value=PA
+
+[Parameter523]
+Name=ProjectAssemblyRegulatoryBlockCheckNSF
+Value=PA
+
+[Parameter524]
+Name=ProjectAssemblyRegulatoryBlockCheckKTL
+Value=PA
+
+[Parameter525]
+Name=ProjectAssemblyRegulatoryBlockCheckINMETRO_NCC
+Value=PA
+
+[Parameter526]
+Name=ProjectAssemblyRegulatoryBlockCheckIECEx_UL_DEMKO
+Value=PA
+
+[Parameter527]
+Name=ProjectAssemblyRegulatoryBlockCheckIECEx_ELEMENT
+Value=PA
+
+[Parameter528]
+Name=ProjectAssemblyRegulatoryBlockCheckIECEx_DEKRA
+Value=PA
+
+[Parameter529]
+Name=ProjectAssemblyRegulatoryBlockCheckFM
+Value=PA
+
+[Parameter530]
+Name=ProjectAssemblyRegulatoryBlockCheckCSA
+Value=PA
+
+[Parameter531]
+Name=ProjectAssemblyRegulatoryBlockCheckCE
+Value=PA
+
+[Parameter532]
+Name=ProjectAssemblyRegulatoryBlockCheckATEX_UL_DEMKO
+Value=PA
+
+[Parameter533]
+Name=ProjectAssemblyRegulatoryBlockCheckATEX_ELEMENT
+Value=PA
+
+[Parameter534]
+Name=ProjectAssemblyRegulatoryBlockCheckATEX_DEKRA_KEMA
+Value=PA
+
+[Parameter535]
+Name=ProjectAssemblyRegulatoryBlockCheckABS
+Value=PA
+
+[Parameter536]
+Name=ProjectAssemblyFrNumber
+Value=PA
+
+[Parameter537]
+Name=ProjectAssemblyDrawnBy
+Value=PA
+
+[Parameter538]
+Name=ProjectAssemblyDate
+Value=PA
+
+[Parameter539]
+Name=ProjectAssemblyCheckedBy
+Value=PA
+
+[Parameter540]
+Name=ProjectAssemblyApprovedBy
+Value=PA
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=PCADNetlist
+OutputName1=PCAD Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CadnetixNetlist
+OutputName2=Cadnetix Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=CalayNetlist
+OutputName3=Calay Netlist
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EDIF
+OutputName4=EDIF for PCB
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=EESofNetlist
+OutputName5=EESof Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=IntergraphNetlist
+OutputName6=Intergraph Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MentorBoardStationNetlist
+OutputName7=Mentor BoardStation Netlist
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=MultiWire
+OutputName8=MultiWire
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=OrCadPCB2Netlist
+OutputName9=Orcad/PCB2 Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=PADSNetlist
+OutputName10=PADS ASCII Netlist
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Pcad
+OutputName11=Pcad for PCB
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=XSpice Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=6.17|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=15|PrintQuality=600|MediaType=285|DitherType=10|PrintScaleMode=1|PaperKind=11x17|PaperIndex=17
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration1_Name2=OutputConfigurationParameter2
+Configuration1_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration1_Name3=OutputConfigurationParameter3
+Configuration1_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name4=OutputConfigurationParameter4
+Configuration1_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name5=OutputConfigurationParameter5
+Configuration1_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name6=OutputConfigurationParameter6
+Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType5=PCBLIB Print
+OutputName5=PCBLIB Prints
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType6=Report Print
+OutputName6=Report Prints
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType7=Schematic Print
+OutputName7=Schematic Prints
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.09|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=15|PrintQuality=600|MediaType=285|DitherType=10|PrintScaleMode=1|PaperKind=11x17|PaperIndex=17
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
+OutputType8=SimView Print
+OutputName8=SimView Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType9=PCBDrawing
+OutputName9=Draftsman
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=PDF3D
+OutputName10=PDF3D
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=8.37|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration2_Name2=OutputConfigurationParameter2
+Configuration2_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Drill Drawing For (Bot Layer,Top Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration2_Name3=OutputConfigurationParameter3
+Configuration2_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=BottomLayer|DLayer2=TopLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillDrawing|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration2_Name4=OutputConfigurationParameter4
+Configuration2_Item4=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=Drill Guide For (Bot Layer,Top Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration2_Name5=OutputConfigurationParameter5
+Configuration2_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=BottomLayer|DLayer2=TopLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillGuide|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+OutputType3=Mask
+OutputName3=Solder/Paste Mask Prints
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType5=Test Points
+OutputName5=Test Point Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=NC Drill
+OutputName6=NC Drill Files
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+Configuration6_Name1=OutputConfigurationParameter1
+Configuration6_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=KeepLeadingAndTrailingZeroes
+OutputType7=ODB
+OutputName7=ODB++ Files
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=Board Stack Report
+OutputName8=Report Board Stack
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=Plane
+OutputName9=Power-Plane Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType10=Gerber
+OutputName10=Gerber Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=KeepLeadingAndTrailingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=True|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908293~1,16908294~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False
+OutputType11=Gerber X2
+OutputName11=Gerber X2 Files
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=IPC2581
+OutputName12=IPC-2581 Files
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Script
+OutputName1=Script Output
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+OutputType2=SimpleBOM
+OutputName2=Simple BOM
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=SinglePinNetReporter
+OutputName3=Report Single Pin Nets
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=BOM_PartType
+OutputName4=Bill of Materials
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+Configuration4_Name1=ColumnNameFormat
+Configuration4_Item1=CaptionAsName
+Configuration4_Name2=Filter
+Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration4_Name3=General
+Configuration4_Item3=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1474|FormHeight=769|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Name4=GroupOrder
+Configuration4_Item4=FR Number=True
+Configuration4_Name5=SortOrder
+Configuration4_Item5=FR Number=Up
+Configuration4_Name6=VisibleOrder
+Configuration4_Item6=FR Number=120|Description=321|Quantity=165|Designator=344
+OutputType5=ComponentCrossReference
+OutputName5=Component Cross Reference Report
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ReportHierarchy
+OutputName6=Report Project Hierarchy
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType18=Text Print
+OutputName18=Text Print
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType19=Text Print
+OutputName19=Text Print
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType20=Text Print
+OutputName20=Text Print
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType21=Text Print
+OutputName21=Text Print
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType22=Text Print
+OutputName22=Text Print
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType23=Text Print
+OutputName23=Text Print
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType24=Text Print
+OutputName24=Text Print
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType25=Text Print
+OutputName25=Text Print
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
+PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType26=Text Print
+OutputName26=Text Print
+OutputDocumentPath26=
+OutputVariantName26=
+OutputDefault26=0
+PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType27=Text Print
+OutputName27=Text Print
+OutputDocumentPath27=
+OutputVariantName27=
+OutputDefault27=0
+PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType28=Text Print
+OutputName28=Text Print
+OutputDocumentPath28=
+OutputVariantName28=
+OutputDefault28=0
+PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType29=Text Print
+OutputName29=Text Print
+OutputDocumentPath29=
+OutputVariantName29=
+OutputDefault29=0
+PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Design Rules Check
+OutputName1=Design Rules Check
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType2=Differences Report
+OutputName2=Differences Report
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType3=Electrical Rules Check
+OutputName3=Electrical Rules Check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType4=Footprint Comparison Report
+OutputName4=Footprint Comparison Report
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=Configuration compliance
+OutputName5=Environment configuration compliance check
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=Component states check
+OutputName6=Vault's components states check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=0
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=0
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=0
+Type13=0
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=0
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=1
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Dwyer Combined.DbLib/Misc
+ComponentDesignItemID0=2458119.51254
+ComponentSymbolReference0=MISC, TEST POINT 2
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Dwyer Combined.DbLib/Misc
+ComponentDesignItemID1=2458162.23433
+ComponentSymbolReference1=GRAPHICAL, REGULATORY BLOCK
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Dwyer Combined.DbLib/Misc
+ComponentDesignItemID2=2458162.23434
+ComponentSymbolReference2=GRAPHICAL, REGULATORY TEXT, UL
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Dwyer Combined.DbLib/Misc
+ComponentDesignItemID3=2458162.23435
+ComponentSymbolReference3=GRAPHICAL, REGULATORY TEXT, UL DEMKO
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=AVL
+ParameterUpdate0=1
+ParameterName1=Comment
+ParameterUpdate1=1
+ParameterName2=Component Kind
+ParameterUpdate2=1
+ParameterName3=Description
+ParameterUpdate3=1
+ParameterName4=FR Number
+ParameterUpdate4=1
+ParameterName5=Key Field
+ParameterUpdate5=1
+ParameterName6=Library Reference
+ParameterUpdate6=1
+ParameterName7=MFR
+ParameterUpdate7=1
+ParameterName8=MFR No
+ParameterUpdate8=1
+ParameterName9=RoHS
+ParameterUpdate9=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=HARDWARE, TEST POINT, 28MIL
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=HARDWARE, TEST POINT, 28MIL, NO OVERLAY
+ModelUpdate1=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+
